@@ -1,2 +1,4 @@
 # dts-bd-a-unhas-2019
-Repository Project DTS 2019 Tema Big Data Kelas A Unhas 
+Repository Final Project 
+Kelas Big Data-A 
+Digital Talent Scholarship Unhas 2019
