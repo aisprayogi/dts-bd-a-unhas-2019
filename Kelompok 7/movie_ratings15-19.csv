@@ -1,0 +1,3952 @@
+,movie,year,imdb,metascore,votes,duration (min),directors,genres,income
+0,Star Wars: Episode VII - The Force Awakens,2015,8.0,81,790474,136,J.J. Abrams,"
+Action, Adventure, Sci-Fi            ",936.66
+1,Mad Max: Fury Road,2015,8.1,90,789693,120,George Miller,"
+Action, Adventure, Sci-Fi            ",154.06
+2,The Martian,2015,8.0,80,688609,144,Ridley Scott,"
+Adventure, Drama, Sci-Fi            ",228.43
+3,Avengers: Age of Ultron,2015,7.3,66,676003,141,Joss Whedon,"
+Action, Adventure, Sci-Fi            ",459.01
+4,The Revenant,2015,8.0,76,629574,156,Alejandro G. Iñárritu,"
+Action, Adventure, Biography            ",183.64
+5,Inside Out,2015,8.2,94,544555,95,"
+Pete Docter, 
+Ronnie Del Carmen","
+Animation, Adventure, Comedy            ",356.46
+6,Jurassic World,2015,7.0,59,543949,124,Colin Trevorrow,"
+Action, Adventure, Sci-Fi            ",652.27
+7,Ant-Man,2015,7.3,64,510972,117,Peyton Reed,"
+Action, Adventure, Comedy            ",180.2
+8,The Hateful Eight,2015,7.8,68,445183,168,Quentin Tarantino,"
+Crime, Drama, Mystery            ",54.12
+9,Spotlight,2015,8.1,93,370312,129,Tom McCarthy,"
+Biography, Crime, Drama            ",45.06
+10,Spectre,2015,6.8,60,355283,148,Sam Mendes,"
+Action, Adventure, Thriller            ",200.07
+11,Furious Seven,2015,7.2,67,337984,137,James Wan,"
+Action, Adventure, Thriller            ",353.01
+12,Sicario,2015,7.6,82,332675,121,Denis Villeneuve,"
+Action, Crime, Drama            ",46.89
+13,Room,2015,8.2,86,321901,118,Lenny Abrahamson,"
+Drama, Thriller            ",14.68
+14,Mission: Impossible - Rogue Nation,2015,7.4,75,315226,131,Christopher McQuarrie,"
+Action, Adventure, Thriller            ",195.04
+15,The Big Short,2015,7.8,81,313610,130,Adam McKay,"
+Biography, Comedy, Drama            ",70.26
+16,Fifty Shades of Grey,2015,4.1,46,281045,125,Sam Taylor-Johnson,"
+Drama, Romance, Thriller            ",166.17
+17,Bridge of Spies,2015,7.6,81,265322,142,Steven Spielberg,"
+Drama, History, Thriller            ",72.31
+18,The Hunger Games: Mockingjay - Part 2,2015,6.5,65,255914,137,Francis Lawrence,"
+Action, Adventure, Sci-Fi            ",281.72
+19,The Man from U.N.C.L.E.,2015,7.3,56,243017,116,Guy Ritchie,"
+Action, Adventure, Comedy            ",45.45
+20,Terminator Genisys,2015,6.4,38,236680,126,Alan Taylor,"
+Action, Adventure, Sci-Fi            ",89.76
+21,Creed,2015,7.6,82,227387,133,Ryan Coogler,"
+Drama, Sport            ",109.77
+22,Spy,2015,7.0,75,215492,119,Paul Feig,"
+Action, Comedy, Crime            ",110.83
+23,Chappie,2015,6.8,41,215308,120,Neill Blomkamp,"
+Action, Crime, Drama            ",31.57
+24,Maze Runner: The Scorch Trials,2015,6.3,43,203266,131,Wes Ball,"
+Action, Sci-Fi, Thriller            ",81.7
+25,Southpaw,2015,7.4,57,201811,124,Antoine Fuqua,"
+Drama, Sport            ",52.42
+26,Insurgent,2015,6.2,42,201517,119,Robert Schwentke,"
+Action, Adventure, Sci-Fi            ",130.18
+27,Minions,2015,6.4,56,196187,91,"
+Kyle Balda, 
+Pierre Coffin","
+Animation, Adventure, Comedy            ",336.05
+28,San Andreas,2015,6.1,43,194922,114,Brad Peyton,"
+Action, Adventure, Drama            ",155.19
+29,Focus,2015,6.6,56,193935,105,"
+Glenn Ficarra, 
+John Requa","
+Comedy, Crime, Drama            ",53.86
+30,The Intern,2015,7.1,51,193464,121,Nancy Meyers,"
+Comedy, Drama            ",75.76
+31,The Lobster,2015,7.1,82,186007,119,Yorgos Lanthimos,"
+Comedy, Drama, Romance            ",8.7
+32,Everest,2015,7.1,64,182607,121,Baltasar Kormákur,"
+Action, Adventure, Biography            ",43.48
+33,Ted 2,2015,6.3,48,167950,115,Seth MacFarlane,"
+Comedy            ",81.48
+34,Jupiter Ascending,2015,5.3,40,167786,127,"
+Lana Wachowski, 
+Lilly Wachowski","
+Action, Adventure, Sci-Fi            ",47.39
+35,Straight Outta Compton,2015,7.9,72,166547,147,F. Gary Gray,"
+Biography, Drama, History            ",161.2
+36,Tomorrowland,2015,6.4,60,162439,130,Brad Bird,"
+Action, Adventure, Family            ",93.44
+37,The VVitch: A New-England Folktale,2015,6.8,83,158197,92,Robert Eggers,"
+Horror, Mystery            ",25.14
+38,Black Mass,2015,6.9,68,156987,123,Scott Cooper,"
+Biography, Crime, Drama            ",62.58
+39,The Danish Girl,2015,7.1,66,148363,119,Tom Hooper,"
+Biography, Drama, Romance            ",12.71
+40,Cinderella,2015,6.9,67,144982,105,Kenneth Branagh,"
+Drama, Family, Fantasy            ",201.15
+41,Fantastic Four,2015,4.3,27,141338,100,Josh Trank,"
+Action, Adventure, Drama            ",56.12
+42,Legend,2015,6.9,55,140888,132,Brian Helgeland,"
+Biography, Crime, Drama            ",1.87
+43,The Age of Adaline,2015,7.2,51,140479,112,Lee Toland Krieger,"
+Drama, Fantasy, Romance            ",42.48
+44,Steve Jobs,2015,7.2,82,140027,122,Danny Boyle,"
+Biography, Drama            ",17.77
+45,Pitch Perfect 2,2015,6.4,63,131910,115,Elizabeth Banks,"
+Comedy, Music            ",184.3
+46,The Gift,2015,7.1,77,125118,108,Joel Edgerton,"
+Drama, Mystery, Thriller            ",43.77
+47,Trainwreck,2015,6.2,75,122624,125,Judd Apatow,"
+Comedy, Drama, Romance            ",110.21
+48,Pixels,2015,5.6,27,121066,105,Chris Columbus,"
+Action, Comedy, Sci-Fi            ",78.75
+49,Crimson Peak,2015,6.5,66,120270,119,Guillermo del Toro,"
+Drama, Fantasy, Horror            ",31.06
+50,Joy,2015,6.6,56,118966,124,David O. Russell,"
+Drama            ",56.45
+51,Brooklyn,2015,7.5,88,118321,117,John Crowley,"
+Drama, Romance            ",38.32
+52,Me and Earl and the Dying Girl,2015,7.7,74,113741,105,Alfonso Gomez-Rejon,"
+Comedy, Drama, Romance            ",6.74
+53,Get Hard,2015,6.0,34,112218,100,Etan Cohen,"
+Comedy, Crime            ",90.41
+54,The Walk,2015,7.3,70,110675,123,Robert Zemeckis,"
+Adventure, Biography, Drama            ",10.14
+55,In the Heart of the Sea,2015,6.9,47,109785,122,Ron Howard,"
+Action, Adventure, Biography            ",25.02
+56,The Visit,2015,6.2,55,103495,94,M. Night Shyamalan,"
+Horror, Mystery, Thriller            ",65.21
+57,Carol,2015,7.2,95,102034,118,Todd Haynes,"
+Drama, Romance            ",12.71
+58,Daddy's Home,2015,6.2,42,98284,96,Sean Anders,"
+Comedy            ",150.36
+59,Burnt,2015,6.6,42,97163,101,John Wells,"
+Comedy, Drama            ",13.65
+60,Run All Night,2015,6.6,59,94747,114,Jaume Collet-Serra,"
+Action, Drama, Thriller            ",26.44
+61,Hotel Transylvania 2,2015,6.7,44,94282,89,Genndy Tartakovsky,"
+Animation, Comedy, Family            ",169.7
+62,The Good Dinosaur,2015,6.7,66,92536,93,Peter Sohn,"
+Animation, Adventure, Comedy            ",123.09
+63,Green Room,2015,7.0,79,92413,95,Jeremy Saulnier,"
+Horror, Music, Thriller            ",3.22
+64,Paper Towns,2015,6.3,56,88589,109,Jake Schreier,"
+Comedy, Drama, Mystery            ",32.0
+65,Vacation,2015,6.1,34,88537,99,"
+John Francis Daley, 
+Jonathan Goldstein","
+Adventure, Comedy            ",58.88
+66,The Last Witch Hunter,2015,6.0,34,87138,106,Breck Eisner,"
+Action, Adventure, Fantasy            ",27.37
+67,Home,2015,6.6,55,86459,94,Tim Johnson,"
+Animation, Adventure, Comedy            ",177.4
+68,Insidious: Chapter 3,2015,6.1,52,84251,97,Leigh Whannell,"
+Horror, Mystery, Thriller            ",52.22
+69,Self/less,2015,6.5,34,81376,117,Tarsem Singh,"
+Action, Mystery, Sci-Fi            ",12.28
+70,Hitman: Agent 47,2015,5.7,28,81066,96,Aleksander Bach,"
+Action, Adventure, Crime            ",22.47
+71,Demolition,2015,7.0,49,79230,101,Jean-Marc Vallée,"
+Comedy, Drama            ",1.98
+72,Hardcore Henry,2015,6.7,51,79184,96,Ilya Naishuller,"
+Action, Adventure, Sci-Fi            ",9.25
+73,Concussion,2015,7.1,55,78418,123,Peter Landesman,"
+Biography, Drama, Sport            ",34.53
+74,American Ultra,2015,6.1,50,77492,96,Nima Nourizadeh,"
+Action, Comedy, Sci-Fi            ",14.43
+75,Dope,2015,7.2,72,77008,103,Rick Famuyiwa,"
+Comedy, Crime, Drama            ",17.47
+76,Eddie the Eagle,2015,7.4,54,76707,106,Dexter Fletcher,"
+Biography, Comedy, Drama            ",15.79
+77,The Duff,2015,6.5,56,75777,101,Ari Sandel,"
+Comedy, Romance            ",34.02
+78,Goosebumps,2015,6.3,60,73681,103,Rob Letterman,"
+Adventure, Comedy, Family            ",80.08
+79,Eye in the Sky,2015,7.3,73,72911,102,Gavin Hood,"
+Drama, Thriller, War            ",18.7
+80,The Invitation,2015,6.7,74,72278,100,Karyn Kusama,"
+Drama, Horror, Mystery            ",0.23
+81,Entourage,2015,6.6,38,72004,104,Doug Ellin,"
+Comedy            ",32.36
+82,Project Almanac,2015,6.4,47,71935,106,Dean Israelite,"
+Drama, Mystery, Sci-Fi            ",22.33
+83,Bone Tomahawk,2015,7.1,72,71915,132,S. Craig Zahler,"
+Drama, Horror, Western            ",0.01
+84,The Longest Ride,2015,7.1,33,70999,123,George Tillman Jr.,"
+Drama, Romance            ",37.43
+85,No Escape,2015,6.8,38,70898,103,John Erick Dowdle,"
+Action, Thriller            ",27.29
+86,Knock Knock,2015,4.9,53,69446,99,Eli Roth,"
+Drama, Thriller            ",0.04
+87,Trumbo,2015,7.5,60,69413,124,Jay Roach,"
+Biography, Drama            ",7.86
+88,The Wedding Ringer,2015,6.6,35,67298,101,Jeremy Garelick,"
+Comedy            ",64.46
+89,Youth,2015,7.3,64,65047,124,Paolo Sorrentino,"
+Comedy, Drama, Music            ",2.7
+90,Beasts of No Nation,2015,7.8,79,64771,137,Cary Joji Fukunaga,"
+Drama, War            ",0.08
+91,Mortdecai,2015,5.5,27,61922,107,David Koepp,"
+Action, Comedy, Crime            ",7.61
+92,Child 44,2015,6.5,41,60081,137,Daniel Espinosa,"
+Crime, Drama, History            ",1.21
+93,Sisters,2015,6.0,58,59504,118,Jason Moore,"
+Comedy            ",87.04
+94,The Night Before,2015,6.4,58,59018,101,Jonathan Levine,"
+Adventure, Comedy, Fantasy            ",43.04
+95,Anomalisa,2015,7.3,88,58677,90,"
+Duke Johnson, 
+Charlie Kaufman","
+Animation, Comedy, Drama            ",3.76
+96,Mr. Holmes,2015,6.9,67,58464,104,Bill Condon,"
+Drama, Mystery            ",17.74
+97,Pan,2015,5.8,36,56261,111,Joe Wright,"
+Adventure, Comedy, Family            ",35.09
+98,Krampus,2015,6.1,49,55852,98,Michael Dougherty,"
+Comedy, Drama, Fantasy            ",42.59
+99,Aloha,2015,5.4,40,55571,105,Cameron Crowe,"
+Comedy, Drama, Romance            ",20.99
+100,Point Break,2015,5.3,34,54291,114,Ericson Core,"
+Action, Crime, Sport            ",28.78
+101,True Story,2015,6.3,50,54192,99,Rupert Goold,"
+Crime, Drama, Mystery            ",4.72
+102,Poltergeist,2015,4.9,47,51934,93,Gil Kenan,"
+Horror, Thriller            ",47.43
+103,Irrational Man,2015,6.6,53,50808,95,Woody Allen,"
+Comedy, Drama            ",4.03
+104,Le Petit Prince,2015,7.7,70,50581,108,Mark Osborne,"
+Animation, Adventure, Drama            ",1.34
+105,Solace,2015,6.4,36,50075,101,Afonso Poyart,"
+Crime, Drama, Mystery            ",0.01
+106,Macbeth,2015,6.6,71,49303,113,Justin Kurzel,"
+Drama, History, War            ",1.11
+107,Woman in Gold,2015,7.3,51,49061,109,Simon Curtis,"
+Biography, Drama, History            ",33.31
+108,Blackhat,2015,5.4,51,48853,133,Michael Mann,"
+Action, Crime, Thriller            ",7.1
+109,Magic Mike XXL,2015,5.6,60,48852,115,Gregory Jacobs,"
+Comedy, Drama, Music            ",66.01
+110,Victor Frankenstein,2015,6.0,36,47976,110,Paul McGuigan,"
+Drama, Horror, Sci-Fi            ",5.78
+111,The Dressmaker,2015,7.1,47,47478,119,Jocelyn Moorhouse,"
+Comedy, Drama            ",2.02
+112,Wild Card,2015,5.6,40,46877,92,Simon West,"
+Action, Crime, Drama            ",0.01
+113,Victoria,2015,7.7,77,45527,138,Sebastian Schipper,"
+Crime, Drama, Romance            ",0.01
+114,Hot Pursuit,2015,5.1,31,45123,87,Anne Fletcher,"
+Action, Comedy, Crime            ",34.51
+115,Man Up,2015,6.8,69,45005,88,Ben Palmer,"
+Comedy, Drama, Romance            ",0.01
+116,Amy,2015,7.8,85,44319,128,Asif Kapadia,"
+Documentary, Biography, Music            ",8.41
+117,The Man Who Knew Infinity,2015,7.2,56,44277,108,Matt Brown,"
+Biography, Drama            ",3.87
+118,The SpongeBob Movie: Sponge Out of Water,2015,6.0,62,44214,92,"
+Paul Tibbitt, 
+Mike Mitchell","
+Animation, Adventure, Comedy            ",162.99
+119,Sinister 2,2015,5.3,32,42633,97,Ciarán Foy,"
+Horror, Mystery, Thriller            ",27.74
+120,Colonia,2015,7.1,33,42325,106,Florian Gallenberger,"
+Drama, Romance, Thriller            ",0.01
+121,Mr. Right,2015,6.3,52,42131,95,Paco Cabezas,"
+Action, Comedy, Romance            ",0.03
+122,Far from the Madding Crowd,2015,7.1,71,41395,119,Thomas Vinterberg,"
+Drama, Romance            ",12.23
+123,Scouts Guide to the Zombie Apocalypse,2015,6.3,32,40910,93,Christopher Landon,"
+Action, Comedy, Horror            ",3.64
+124,En man som heter Ove,2015,7.7,70,39942,116,Hannes Holm,"
+Comedy, Drama, Romance            ",3.36
+125,Saul fia,2015,7.5,91,39633,107,László Nemes,"
+Drama, War            ",1.78
+126,The Peanuts Movie,2015,7.1,67,39448,88,Steve Martino,"
+Animation, Adventure, Comedy            ",130.18
+127,The Ridiculous 6,2015,4.8,18,39368,119,Frank Coraci,"
+Comedy, Western            ",0.01
+128,Yip Man 3,2015,7.1,57,39333,105,Wilson Yip,"
+Action, Biography, Drama            ",2.68
+129,Maggie,2015,5.6,52,39030,95,Henry Hobson,"
+Drama, Horror            ",0.19
+130,Slow West,2015,6.9,72,38670,84,John Maclean,"
+Adventure, Western            ",0.23
+131,Dark Places,2015,6.2,39,38611,113,Gilles Paquet-Brenner,"
+Action, Drama, Mystery            ",0.01
+132,The Lazarus Effect,2015,5.2,31,38168,83,David Gelb,"
+Horror, Mystery, Sci-Fi            ",25.8
+133,Secret in Their Eyes,2015,6.3,45,37966,111,Billy Ray,"
+Crime, Drama, Mystery            ",20.18
+134,Love,2015,6.1,51,37953,135,Gaspar Noé,"
+Drama, Romance            ",0.01
+135,The Transporter Refueled,2015,5.2,32,36553,96,Camille Delamarre,"
+Action, Adventure, Crime            ",16.03
+136,Sleeping with Other People,2015,6.5,64,36521,101,Leslye Headland,"
+Comedy, Drama, Romance            ",0.81
+137,The Gunman,2015,5.8,39,36502,115,Pierre Morel,"
+Action, Crime, Drama            ",10.64
+138,Last Knights,2015,6.2,27,36284,115,Kazuaki Kiriya,"
+Action, Drama            ",0.01
+139,Absolutely Anything,2015,6.0,31,35228,85,Terry Jones,"
+Comedy, Sci-Fi            ",0.01
+140,The Boy Next Door,2015,4.7,30,35096,91,Rob Cohen,"
+Horror, Thriller            ",35.39
+141,Hot Tub Time Machine 2,2015,5.1,29,34722,93,Steve Pink,"
+Comedy, Mystery, Sci-Fi            ",12.28
+142,Going Clear: Scientology & the Prison of Belief,2015,8.0,80,34639,119,Alex Gibney,"
+Documentary            ",0.01
+143,Suffragette,2015,6.9,67,34591,106,Sarah Gavron,"
+Biography, Drama, History            ",4.69
+144,High-Rise,2015,5.6,65,34183,119,Ben Wheatley,"
+Drama, Horror, Sci-Fi            ",0.34
+145,Regression,2015,5.7,32,33692,106,Alejandro Amenábar,"
+Crime, Horror, Mystery            ",0.05
+146,Shaun the Sheep Movie,2015,7.3,81,33313,85,"
+Mark Burton, 
+Richard Starzak","
+Animation, Adventure, Comedy            ",19.38
+147,The Stanford Prison Experiment,2015,6.9,67,32965,122,Kyle Patrick Alvarez,"
+Biography, Drama, History            ",0.64
+148,We Are Your Friends,2015,6.2,46,32820,96,Max Joseph,"
+Drama, Music, Romance            ",3.59
+149,The 33,2015,6.9,55,32597,127,Patricia Riggen,"
+Biography, Drama, History            ",12.19
+150,"McFarland, USA",2015,7.4,60,32085,129,Niki Caro,"
+Biography, Drama, Sport            ",44.47
+151,Mustang,2015,7.6,83,31315,97,Deniz Gamze Ergüven,"
+Drama            ",0.85
+152,Paul Blart: Mall Cop 2,2015,4.4,13,31202,94,Andy Fickman,"
+Action, Comedy, Crime            ",71.04
+153,The Final Girls,2015,6.6,59,30593,88,Todd Strauss-Schulson,"
+Comedy, Drama, Fantasy            ",0.01
+154,Unfinished Business,2015,5.4,32,29386,91,Ken Scott,"
+Comedy, Drama            ",10.21
+155,The Second Best Exotic Marigold Hotel,2015,6.6,51,29212,122,John Madden,"
+Comedy, Drama            ",33.08
+156,Under sandet,2015,7.8,75,28919,100,Martin Zandvliet,"
+Drama, History, War            ",0.44
+157,Survivor,2015,5.6,28,28872,96,James McTeigue,"
+Action, Crime, Thriller            ",0.01
+158,Bølgen,2015,6.7,68,28749,105,Roar Uthaug,"
+Action, Drama, Thriller            ",0.18
+159,45 Years,2015,7.1,94,28150,91,Andrew Haigh,"
+Drama, Romance            ",4.25
+160,Cop Car,2015,6.3,66,27799,88,Jon Watts,"
+Crime, Thriller            ",0.13
+161,Danny Collins,2015,7.0,58,27767,106,Dan Fogelman,"
+Biography, Comedy, Drama            ",5.35
+162,The Diary of a Teenage Girl,2015,6.9,87,27284,102,Marielle Heller,"
+Comedy, Drama, Romance            ",1.48
+163,Cobain: Montage of Heck,2015,7.5,83,26279,145,Brett Morgen,"
+Documentary, Animation, Biography            ",0.01
+164,The End of the Tour,2015,7.3,82,26249,106,James Ponsoldt,"
+Biography, Drama            ",2.99
+165,Le tout nouveau testament,2015,7.1,70,26145,114,Jaco Van Dormael,"
+Comedy, Fantasy            ",0.09
+166,Z for Zachariah,2015,6.0,68,25738,98,Craig Zobel,"
+Drama, Sci-Fi, Thriller            ",0.12
+167,Heist,2015,6.1,37,25007,93,Scott Mann,"
+Action, Crime, Thriller            ",0.01
+168,Equals,2015,6.1,43,24393,101,Drake Doremus,"
+Drama, Romance, Sci-Fi            ",0.03
+169,Il racconto dei racconti - Tale of Tales,2015,6.4,72,24322,134,Matteo Garrone,"
+Drama, Fantasy, Horror            ",0.08
+170,Turbo Kid,2015,6.7,60,24167,93,"
+François Simard, 
+Anouk Whissell, 
+Yoann-Karl Whissell","
+Action, Adventure, Comedy            ",0.05
+171,Max,2015,6.7,47,24159,111,Boaz Yakin,"
+Adventure, Drama, Family            ",42.65
+172,A Bigger Splash,2015,6.4,74,23772,125,Luca Guadagnino,"
+Drama, Thriller            ",1.98
+173,The Lady in the Van,2015,6.7,70,23483,104,Nicholas Hytner,"
+Biography, Comedy, Drama            ",10.02
+174,Tangerine,2015,7.1,85,23441,88,Sean Baker,"
+Comedy, Crime, Drama            ",0.7
+175,Mistress America,2015,6.7,75,22725,84,Noah Baumbach,"
+Comedy, Drama            ",2.46
+176,Paranormal Activity: The Ghost Dimension,2015,4.6,30,22593,88,Gregory Plotkin,"
+Horror, Mystery, Thriller            ",18.3
+177,Knight of Cups,2015,5.6,53,22471,118,Terrence Malick,"
+Drama, Romance            ",0.56
+178,A Walk in the Woods,2015,6.3,51,22226,104,Ken Kwapis,"
+Adventure, Biography, Comedy            ",29.47
+179,Where to Invade Next,2015,7.5,64,21747,120,Michael Moore,"
+Documentary, Comedy            ",3.82
+180,Fathers & Daughters,2015,7.1,31,21436,116,Gabriele Muccino,"
+Drama            ",0.01
+181,Ricki and the Flash,2015,5.9,54,21115,101,Jonathan Demme,"
+Comedy, Drama, Music            ",26.82
+182,Little Boy,2015,7.4,30,21086,106,Alejandro Monteverde,"
+Drama, History, War            ",6.42
+183,Remember,2015,7.5,52,19634,94,Atom Egoyan,"
+Drama, Mystery, Thriller            ",0.64
+184,Jane Got a Gun,2015,5.9,49,19224,98,Gavin O'Connor,"
+Action, Drama, Western            ",1.51
+185,Our Brand Is Crisis,2015,6.1,53,19186,107,David Gordon Green,"
+Comedy, Drama            ",7.0
+186,Spooks: The Greater Good,2015,6.2,47,19129,104,Bharat Nalluri,"
+Action, Drama, Thriller            ",0.01
+187,A Perfect Day,2015,6.8,60,18395,106,Fernando León de Aranoa,"
+Comedy, Drama, War            ",0.01
+188,Love the Coopers,2015,5.8,31,18128,107,Jessie Nelson,"
+Comedy, Fantasy, Romance            ",26.28
+189,The Gallows,2015,4.2,30,17882,81,"
+Travis Cluff, 
+Chris Lofing","
+Horror, Mystery, Thriller            ",22.76
+190,Kidnapping Mr. Heineken,2015,6.1,33,17873,95,Daniel Alfredson,"
+Action, Crime, Drama            ",0.01
+191,Barely Lethal,2015,5.4,44,17753,96,Kyle Newman,"
+Action, Adventure, Comedy            ",0.01
+192,El abrazo de la serpiente,2015,7.9,82,17689,125,Ciro Guerra,"
+Adventure, Drama            ",1.33
+193,"Hello, My Name Is Doris",2015,6.6,63,17597,90,Michael Showalter,"
+Comedy, Drama, Romance            ",14.44
+194,Mississippi Grind,2015,6.4,77,17562,108,"
+Anna Boden, 
+Ryan Fleck","
+Comedy, Drama            ",0.13
+195,Tracers,2015,5.6,45,17317,94,Daniel Benmayor,"
+Action, Crime, Drama            ",0.01
+196,Truth,2015,6.8,66,17230,125,James Vanderbilt,"
+Biography, Drama, History            ",2.54
+197,Bilal: A New Breed of Hero,2015,8.0,52,16996,105,"
+Khurram H. Alavi, 
+Ayman Jamal","
+Animation, Action, Adventure            ",0.49
+198,Bakemono no ko,2015,7.7,65,16957,119,Mamoru Hosoda,"
+Animation, Action, Adventure            ",0.45
+199,Tian jiang xiong shi,2015,6.0,41,16840,127,Daniel Lee,"
+Action, Adventure, Drama            ",0.07
+200,Cartel Land,2015,7.4,76,16791,100,Matthew Heineman,"
+Documentary, News            ",0.7
+201,Into the Forest,2015,5.9,59,16657,101,Patricia Rozema,"
+Drama, Sci-Fi, Thriller            ",0.01
+202,By the Sea,2015,5.3,44,16398,122,Angelina Jolie,"
+Drama, Romance            ",0.53
+203,Experimenter,2015,6.6,81,16245,98,Michael Almereyda,"
+Biography, Drama, History            ",0.16
+204,Miss You Already,2015,6.8,59,15773,112,Catherine Hardwicke,"
+Comedy, Drama, Romance            ",1.16
+205,We Are Still Here,2015,5.7,65,15681,84,Ted Geoghegan,"
+Horror            ",0.01
+206,He Never Died,2015,6.4,72,15256,99,Jason Krawczyk,"
+Comedy, Drama, Fantasy            ",0.01
+207,The Vatican Tapes,2015,5.0,38,14967,91,Mark Neveldine,"
+Horror, Thriller            ",1.71
+208,The Overnight,2015,6.1,65,14916,79,Patrick Brice,"
+Comedy, Mystery            ",1.1
+209,Extinction,2015,5.8,46,14829,112,Miguel Ángel Vivas,"
+Drama, Horror, Sci-Fi            ",0.01
+210,Alvin and the Chipmunks: The Road Chip,2015,5.0,33,14755,92,Walt Becker,"
+Animation, Adventure, Comedy            ",85.89
+211,The Program,2015,6.5,53,14664,99,Stephen Frears,"
+Biography, Drama, Sport            ",0.01
+212,Vice,2015,4.2,17,14537,96,Brian A. Miller,"
+Action, Adventure, Sci-Fi            ",0.01
+213,The Devil's Candy,2015,6.4,72,14511,79,Sean Byrne,"
+Drama, Horror, Thriller            ",0.01
+214,Southbound,2015,5.9,58,14483,89,"
+Roxanne Benjamin, 
+Matt Bettinelli-Olpin, 
+David Bruckner, 
+Tyler Gillett, 
+Patrick Horvath, 
+Justin Martinez, 
+Radio Silence, 
+Chad Villella","
+Fantasy, Horror, Thriller            ",0.01
+215,Maggie's Plan,2015,6.2,76,14458,98,Rebecca Miller,"
+Comedy, Drama, Romance            ",3.35
+216,The Survivalist,2015,6.4,80,14421,104,Stephen Fingleton,"
+Drama, Sci-Fi, Thriller            ",0.01
+217,Pay the Ghost,2015,5.2,23,14284,94,Uli Edel,"
+Drama, Horror, Mystery            ",0.01
+218,Ci ke Nie Yin Niang,2015,6.3,80,14265,105,Hsiao-Hsien Hou,"
+Action, Drama, History            ",0.61
+219,Deathgasm,2015,6.3,65,14176,86,Jason Lei Howden,"
+Action, Comedy, Horror            ",0.01
+220,The Hallow,2015,5.7,65,14009,97,Corin Hardy,"
+Horror            ",0.01
+221,February,2015,5.9,68,13930,93,Oz Perkins,"
+Horror, Thriller            ",0.02
+222,Grandma,2015,6.7,77,13784,79,Paul Weitz,"
+Comedy, Drama            ",6.98
+223,Ashby,2015,6.4,46,13659,100,Tony McNamara,"
+Comedy, Crime, Drama            ",0.01
+224,Home Sweet Hell,2015,5.4,22,13056,98,Anthony Burns,"
+Comedy, Crime, Thriller            ",0.01
+225,Meru,2015,7.7,77,12882,90,"
+Jimmy Chin, 
+Elizabeth Chai Vasarhelyi","
+Documentary, Action, Adventure            ",2.33
+226,The Human Centipede III (Final Sequence),2015,2.8,5,12825,102,Tom Six,"
+Comedy, Horror            ",0.01
+227,Momentum,2015,5.5,18,12715,96,Stephen S. Campanelli,"
+Action, Crime, Thriller            ",0.01
+228,Dheepan,2015,7.2,76,12481,115,Jacques Audiard,"
+Crime, Drama            ",0.25
+229,Emelie,2015,5.4,62,12089,82,Michael Thelin,"
+Horror, Thriller            ",0.01
+230,Taxi,2015,7.3,91,12030,82,Jafar Panahi,"
+Comedy, Drama            ",0.32
+231,War Room,2015,6.4,26,11818,120,Alex Kendrick,"
+Drama            ",67.79
+232,The Sea of Trees,2015,6.1,23,11681,110,Gus Van Sant,"
+Drama, Fantasy, Mystery            ",0.02
+233,Area 51,2015,4.2,30,11658,91,Oren Peli,"
+Horror, Mystery, Sci-Fi            ",0.01
+234,Air,2015,5.1,33,11284,95,Christian Cantamessa,"
+Drama, Sci-Fi, Thriller            ",0.01
+235,The Wolfpack,2015,7.0,75,11138,90,Crystal Moselle,"
+Documentary, Biography            ",1.3
+236,Que Horas Ela Volta?,2015,7.8,82,11012,112,Anna Muylaert,"
+Comedy, Drama            ",0.38
+237,My Scientology Movie,2015,6.7,62,10999,99,John Dower,"
+Documentary            ",0.02
+238,Return to Sender,2015,5.1,23,10978,92,Fouad Mikati,"
+Drama, Thriller            ",0.01
+239,Soaked in Bleach,2015,7.5,50,10873,90,Benjamin Statler,"
+Documentary, Crime            ",0.01
+240,El Clan,2015,7.0,73,10867,108,Pablo Trapero,"
+Biography, Crime, Drama            ",0.19
+241,The Meddler,2015,6.3,68,10848,103,Lorene Scafaria,"
+Comedy, Drama, Romance            ",4.27
+242,Louder Than Bombs,2015,6.6,70,10838,109,Joachim Trier,"
+Drama            ",0.16
+243,Winter on Fire: Ukraine's Fight for Freedom,2015,8.4,79,10764,102,Evgeny Afineevsky,"
+Documentary            ",0.01
+244,Backtrack,2015,5.9,43,10708,90,Michael Petroni,"
+Drama, Fantasy, Mystery            ",0.01
+245,Freeheld,2015,6.6,50,10670,103,Peter Sollett,"
+Biography, Drama, Romance            ",0.53
+246,Shut In,2015,5.7,39,10482,90,Adam Schindler,"
+Drama, Horror, Thriller            ",0.01
+247,"What Happened, Miss Simone?",2015,7.6,75,10369,101,Liz Garbus,"
+Documentary, Biography, Music            ",0.01
+248,Truman,2015,7.3,81,10300,108,Cesc Gay,"
+Comedy, Drama            ",0.21
+249,Tales of Halloween,2015,5.5,64,10241,92,"
+Darren Lynn Bousman, 
+Axelle Carolyn, 
+Adam Gierasch, 
+Andrew Kasch, 
+Neil Marshall, 
+Lucky McKee, 
+Mike Mendez, 
+Dave Parker, 
+Ryan Schifrin, 
+John Skipp, 
+Paul Solet","
+Comedy, Horror            ",0.01
+250,6 Years,2015,5.6,53,10234,79,Hannah Fidell,"
+Drama, Romance            ",0.01
+251,Umimachi Diary,2015,7.5,75,9929,127,Hirokazu Koreeda,"
+Drama, Family            ",0.46
+252,Spare Parts,2015,7.3,50,9762,114,Sean McNamara,"
+Drama            ",3.61
+253,Synchronicity,2015,5.5,39,9687,101,Jacob Gentry,"
+Drama, Mystery, Romance            ",0.01
+254,Rock the Kasbah,2015,5.5,29,9684,106,Barry Levinson,"
+Comedy, Music, War            ",2.98
+255,Jenny's Wedding,2015,5.5,33,9508,94,Mary Agnes Donoghue,"
+Comedy, Drama, Romance            ",0.01
+256,Mon roi,2015,7.1,68,9414,124,Maïwenn,"
+Drama, Romance            ",0.05
+257,Strange Magic,2015,5.8,25,9376,99,Gary Rydstrom,"
+Animation, Adventure, Comedy            ",12.43
+258,Forsaken,2015,6.3,55,9290,90,Jon Cassar,"
+Action, Drama, Western            ",0.01
+259,Mænd & høns,2015,6.7,64,9272,104,Anders Thomas Jensen,"
+Comedy, Drama, Mystery            ",0.03
+260,The Bronze,2015,6.0,44,9132,100,Bryan Buckley,"
+Comedy, Drama, Sport            ",0.62
+261,The Perfect Guy,2015,5.6,36,9085,100,David M. Rosenthal,"
+Crime, Drama, Horror            ",57.02
+262,Lazer Team,2015,5.6,42,8786,102,Matt Hullum,"
+Action, Comedy, Sci-Fi            ",1.15
+263,Krigen,2015,7.1,81,8742,115,Tobias Lindholm,"
+Crime, Drama, War            ",0.12
+264,Queen of the Desert,2015,5.7,39,8721,128,Werner Herzog,"
+Adventure, Biography, Drama            ",0.01
+265,Extraction,2015,4.1,25,8701,92,Steven C. Miller,"
+Action, Thriller            ",0.01
+266,Miles Ahead,2015,6.4,64,8574,100,Don Cheadle,"
+Biography, Drama, Music            ",2.61
+267,Fourth Man Out,2015,6.7,43,8433,86,Andrew Nackman,"
+Comedy, Drama            ",0.01
+268,A Royal Night Out,2015,6.5,58,8360,97,Julian Jarrold,"
+Comedy, Drama, Romance            ",0.2
+269,Man Down,2015,5.9,27,8359,90,Dito Montiel,"
+Drama, Thriller            ",0.01
+270,Desierto,2015,6.0,51,8342,88,Jonás Cuarón,"
+Drama, Thriller            ",1.83
+271,A Christmas Horror Story,2015,5.7,49,8336,99,"
+Grant Harvey, 
+Steven Hoban, 
+Brett Sullivan","
+Fantasy, Horror, Mystery            ",0.01
+272,El Club,2015,7.2,73,8275,98,Pablo Larraín,"
+Comedy, Drama, Mystery            ",0.03
+273,Kill Your Friends,2015,6.0,45,8257,103,Owen Harris,"
+Comedy, Crime, Music            ",0.01
+274,Chi-Raq,2015,5.7,77,8198,127,Spike Lee,"
+Comedy, Crime, Drama            ",2.65
+275,The Ones Below,2015,6.1,63,8150,87,David Farr,"
+Drama, Thriller            ",0.01
+276,Strangerland,2015,5.2,42,8065,112,Kim Farrant,"
+Drama, Mystery, Thriller            ",0.02
+277,Moonwalkers,2015,6.1,39,7851,107,Antoine Bardou-Jacquet,"
+Action, Comedy            ",0.01
+278,Criminal Activities,2015,5.8,51,7801,94,Jackie Earle Haley,"
+Crime, Drama, Thriller            ",0.01
+279,Jeruzalem,2015,4.7,45,7716,94,"
+Doron Paz, 
+Yoav Paz","
+Horror            ",0.01
+280,Baskin,2015,5.8,58,7580,97,Can Evrenol,"
+Crime, Drama, Fantasy            ",0.01
+281,People Places Things,2015,6.9,68,7579,85,Jim Strouse,"
+Comedy, Romance            ",0.01
+282,Elser,2015,7.0,58,7365,114,Oliver Hirschbiegel,"
+Biography, Drama, War            ",0.16
+283,An,2015,7.4,60,7292,113,Naomi Kawase,"
+Drama            ",0.12
+284,Lila & Eve,2015,5.8,45,7253,94,Charles Stone III,"
+Crime, Drama, Mystery            ",0.04
+285,Enas allos kosmos,2015,7.4,61,7169,113,Christopher Papakaliatis,"
+Drama, Romance            ",0.01
+286,Born to Be Blue,2015,6.9,64,7163,97,Robert Budreau,"
+Biography, Drama, Music            ",0.83
+287,Accidental Love,2015,4.1,20,7128,100,David O. Russell,"
+Comedy, Romance            ",0.01
+288,Into the Grizzly Maze,2015,5.3,43,7081,94,David Hackl,"
+Action, Adventure, Drama            ",0.01
+289,The Family Fang,2015,6.1,67,7062,105,Jason Bateman,"
+Comedy, Drama, Mystery            ",0.24
+290,Racing Extinction,2015,8.2,81,6991,90,Louie Psihoyos,"
+Documentary, News            ",0.01
+291,Jem and the Holograms,2015,4.1,42,6759,118,Jon M. Chu,"
+Adventure, Drama, Family            ",2.18
+292,Careful What You Wish For,2015,5.7,32,6736,91,Elizabeth Allen Rosenbaum,"
+Drama, Thriller            ",0.01
+293,Life,2015,6.0,59,6699,111,Anton Corbijn,"
+Biography, Drama            ",0.01
+294,Closet Monster,2015,7.0,81,6675,90,Stephen Dunn,"
+Drama, Fantasy, Mystery            ",0.04
+295,Do You Believe?,2015,6.1,22,6524,120,Jon Gunn,"
+Drama            ",12.99
+296,A Girl Like Her,2015,7.0,54,6413,91,Amy S. Weber,"
+Drama            ",0.01
+297,Listen to Me Marlon,2015,8.2,87,6401,103,Stevan Riley,"
+Documentary, Biography            ",0.43
+298,Hyena Road,2015,6.5,44,6295,120,Paul Gross,"
+Action, Drama, War            ",0.01
+299,Staten Island Summer,2015,5.6,41,6290,108,Rhys Thomas,"
+Comedy            ",0.01
+300,I'll See You in My Dreams,2015,6.7,75,6282,92,Brett Haley,"
+Comedy, Drama, Romance            ",7.43
+301,Mia madre,2015,6.8,70,6257,106,Nanni Moretti,"
+Drama            ",0.3
+302,Zipper,2015,5.7,39,6175,112,Mora Stephens,"
+Drama, Thriller            ",0.01
+303,Woodlawn,2015,6.5,57,6129,123,"
+Andrew Erwin, 
+Jon Erwin","
+Drama, Sport            ",14.39
+304,Captive,2015,5.4,36,6061,97,Jerry Jameson,"
+Action, Crime, Drama            ",2.56
+305,The Nightmare,2015,5.8,68,6057,91,Rodney Ascher,"
+Documentary, Horror            ",0.01
+306,Krisha,2015,7.2,86,6050,83,Trey Edward Shults,"
+Drama            ",0.14
+307,Tumbledown,2015,6.2,60,5994,105,Sean Mewshaw,"
+Comedy, Music, Romance            ",0.14
+308,The True Cost,2015,7.7,46,5984,92,Andrew Morgan,"
+Documentary, Drama, News            ",0.01
+309,Results,2015,5.4,73,5857,105,Andrew Bujalski,"
+Comedy, Romance            ",0.1
+310,Aferim!,2015,7.6,84,5834,108,Radu Jude,"
+Adventure, Comedy, Drama            ",0.1
+311,I Saw the Light,2015,5.7,47,5748,123,Marc Abraham,"
+Biography, Drama, Music            ",1.65
+312,The Hunting Ground,2015,7.4,77,5632,103,Kirby Dick,"
+Documentary            ",0.41
+313,Pound of Flesh,2015,5.1,41,5580,104,Ernie Barbarash,"
+Action, Thriller            ",0.01
+314,Best of Enemies,2015,7.6,77,5579,87,"
+Robert Gordon, 
+Morgan Neville","
+Documentary, Biography, History            ",0.89
+315,Avril et le monde truqué,2015,7.3,85,5573,105,"
+Christian Desmares, 
+Franck Ekinci","
+Animation, Adventure, Comedy            ",0.29
+316,Every Thing Will Be Fine,2015,5.4,32,5477,118,Wim Wenders,"
+Drama            ",0.01
+317,Saat po long 2,2015,6.8,73,5456,120,Soi Cheang,"
+Action, Crime, Thriller            ",0.01
+318,Steve Jobs: The Man in the Machine,2015,6.9,72,5429,128,Alex Gibney,"
+Documentary, Biography            ",0.49
+319,Évolution,2015,5.9,77,5413,81,Lucile Hadzihalilovic,"
+Drama, Mystery, Sci-Fi            ",0.01
+320,James White,2015,7.1,83,5331,85,Josh Mond,"
+Drama            ",0.09
+321,Queen of Earth,2015,6.3,77,5252,90,Alex Ross Perry,"
+Drama, Mystery, Thriller            ",0.08
+322,Córki dancingu,2015,6.3,72,5161,92,Agnieszka Smoczynska,"
+Comedy, Drama, Fantasy            ",0.1
+323,My All-American,2015,7.2,34,5135,118,Angelo Pizzo,"
+Biography, Drama, Sport            ",2.25
+324,La loi du marché,2015,6.8,74,5123,91,Stéphane Brizé,"
+Drama            ",0.11
+325,3 Generations,2015,5.9,47,5120,92,Gaby Dellal,"
+Drama            ",0.07
+326,Digging for Fire,2015,5.8,69,5116,85,Joe Swanberg,"
+Drama            ",0.12
+327,Maryland,2015,6.2,66,5102,98,Alice Winocour,"
+Drama, Thriller            ",0.01
+328,Bound to Vengeance,2015,5.6,27,5100,93,José Manuel Cravioto,"
+Horror, Thriller            ",0.01
+329,Le dernier loup,2015,6.7,58,5095,121,Jean-Jacques Annaud,"
+Adventure, Drama            ",0.21
+330,The Childhood of a Leader,2015,6.1,68,5054,115,Brady Corbet,"
+Drama            ",0.01
+331,Hitchcock/Truffaut,2015,7.4,79,5051,79,Kent Jones,"
+Documentary            ",0.3
+332,Amsal,2015,7.3,64,5021,140,Dong-hoon Choi,"
+Action, Drama            ",1.9
+333,"10,000 Saints",2015,5.9,62,4964,113,"
+Shari Springer Berman, 
+Robert Pulcini","
+Comedy, Drama, Music            ",0.06
+334,The Diabolical,2015,4.7,25,4935,86,Alistair Legrand,"
+Horror, Sci-Fi            ",0.01
+335,Manifesto,2015,6.7,72,4894,95,Julian Rosefeldt,"
+Drama            ",0.14
+336,Bloodsucking Bastards,2015,5.7,50,4809,86,Brian James O'Connell,"
+Action, Comedy, Horror            ",0.01
+337,Pali Road,2015,7.4,38,4698,92,Jonathan Lim,"
+Drama, Fantasy, Mystery            ",0.01
+338,The Legend of Barney Thomson,2015,6.3,59,4673,96,Robert Carlyle,"
+Comedy, Crime            ",0.01
+339,I Smile Back,2015,6.1,59,4665,85,Adam Salky,"
+Drama            ",0.06
+340,Martyrs,2015,4.0,22,4629,86,"
+Kevin Goetz, 
+Michael Goetz","
+Drama, Horror, Thriller            ",0.01
+341,The Runner,2015,4.7,39,4623,90,Austin Stark,"
+Drama            ",0.01
+342,Already Tomorrow in Hong Kong,2015,6.5,54,4621,78,Emily Ting,"
+Comedy, Romance            ",0.01
+343,Janis: Little Girl Blue,2015,7.4,74,4546,103,Amy Berg,"
+Documentary, Biography, Music            ",0.41
+344,Marguerite,2015,7.0,76,4524,129,Xavier Giannoli,"
+Comedy, Drama, Music            ",0.5
+345,Landmine Goes Click,2015,6.0,35,4498,105,Levan Bakhia,"
+Action, Crime, Drama            ",0.01
+346,Twinsters,2015,7.6,81,4460,89,"
+Samantha Futerman, 
+Ryan Miyamoto","
+Documentary, Biography, Family            ",0.01
+347,Diablo,2015,4.5,35,4448,90,Lawrence Roeck,"
+Action, Adventure, Thriller            ",0.01
+348,Shan he gu ren,2015,6.8,79,4376,126,Zhangke Jia,"
+Drama, Romance            ",0.08
+349,Demon,2015,6.1,80,4355,94,Marcin Wrona,"
+Drama, Fantasy, Horror            ",0.1
+350,Don Verdean,2015,5.4,39,4340,90,Jared Hess,"
+Adventure, Comedy, Drama            ",0.01
+351,Stung,2015,5.1,46,4311,87,Benni Diez,"
+Action, Adventure, Comedy            ",0.01
+352,I Am Michael,2015,5.6,56,4305,98,Justin Kelly,"
+Biography, Drama, Romance            ",0.01
+353,The Boy,2015,5.4,45,4290,105,Craig William Macneill,"
+Drama, Horror, Thriller            ",0.01
+354,Zhuo yao ji,2015,6.1,53,4217,117,Raman Hui,"
+Action, Adventure, Comedy            ",0.02
+355,D'Ardennen,2015,6.8,47,4212,96,Robin Pront,"
+Drama            ",0.01
+356,He Named Me Malala,2015,6.9,61,4203,88,Davis Guggenheim,"
+Documentary            ",2.64
+357,Parched,2015,7.6,67,4200,116,Leena Yadav,"
+Drama            ",0.01
+358,Byuti insaideu,2015,7.4,48,4152,127,Jong-Yeol Baek,"
+Drama, Romance            ",0.11
+359,De Palma,2015,7.4,83,4133,110,"
+Noah Baumbach, 
+Jake Paltrow","
+Documentary, Biography            ",0.16
+360,Miekkailija,2015,7.2,60,4102,99,Klaus Härö,"
+Biography, Drama, History            ",0.1
+361,The Fits,2015,6.7,90,4078,72,Anna Rose Holmer,"
+Drama, Music            ",0.17
+362,Nina Forever,2015,5.6,75,4070,98,"
+Ben Blaine, 
+Chris Blaine","
+Comedy, Drama, Horror            ",0.01
+363,The Benefactor,2015,5.1,40,4064,93,Andrew Renzi,"
+Drama            ",0.01
+364,Contracted: Phase II,2015,5.1,35,4025,78,Josh Forbes,"
+Drama, Horror, Thriller            ",0.01
+365,The Daughter,2015,6.6,62,3989,96,Simon Stone,"
+Drama            ",0.03
+366,Slumlord,2015,5.1,41,3960,87,Victor Zarcoff,"
+Crime, Drama, Horror            ",0.01
+367,Life on the Line,2015,5.2,24,3958,97,David Hackl,"
+Action, Drama            ",0.01
+368,The Confines,2015,5.0,32,3955,86,Eytan Rockaway,"
+Horror, Mystery, Thriller            ",0.01
+369,V luchakh solntsa,2015,7.4,81,3942,106,Vitaliy Manskiy,"
+Documentary            ",0.07
+370,The Great Gilly Hopkins,2015,6.5,47,3939,99,Stephen Herek,"
+Comedy, Drama, Family            ",0.01
+371,Advantageous,2015,6.2,59,3909,90,Jennifer Phang,"
+Drama, Family, Sci-Fi            ",0.01
+372,Anesthesia,2015,6.1,55,3820,90,Tim Blake Nelson,"
+Crime, Drama, Thriller            ",0.02
+373,Mojave,2015,5.2,41,3793,93,William Monahan,"
+Drama, Thriller            ",0.01
+374,The Girl in the Book,2015,6.1,68,3731,86,Marya Cohn,"
+Drama            ",0.01
+375,American Hero,2015,4.9,42,3678,86,Nick Love,"
+Action, Comedy, Drama            ",0.01
+376,Bite,2015,4.9,57,3651,88,Chad Archibald,"
+Horror            ",0.01
+377,Band of Robbers,2015,6.0,57,3650,95,"
+Aaron Nee, 
+Adam Nee","
+Adventure, Comedy, Crime            ",0.02
+378,Partisan,2015,5.8,50,3633,94,Ariel Kleiman,"
+Drama, Thriller            ",0.01
+379,The Witness,2015,7.0,79,3632,89,James D. Solomon,"
+Documentary, Biography, Crime            ",0.01
+380,The Adderall Diaries,2015,5.2,42,3621,87,Pamela Romanowsky,"
+Crime, Drama, Thriller            ",0.01
+381,Chevalier,2015,6.3,76,3619,105,Athina Rachel Tsangari,"
+Comedy, Drama            ",0.03
+382,Being Charlie,2015,6.3,47,3613,97,Rob Reiner,"
+Drama, Romance            ",0.01
+383,Tanna,2015,6.9,75,3611,104,"
+Martin Butler, 
+Bentley Dean","
+Adventure, Drama, Romance            ",0.01
+384,Der Staat gegen Fritz Bauer,2015,7.1,61,3606,105,Lars Kraume,"
+Biography, Drama, Thriller            ",0.28
+385,Black,2015,7.1,74,3570,95,"
+Adil El Arbi, 
+Bilall Fallah","
+Action, Crime, Drama            ",0.01
+386,Welcome to Leith,2015,7.0,78,3556,85,"
+Michael Beach Nichols, 
+Christopher K. Walker","
+Documentary            ",0.04
+387,Klovn Forever,2015,6.3,57,3543,99,Mikkel Nørgaard,"
+Comedy, Drama            ",0.01
+388,Meadowland,2015,5.8,67,3486,105,Reed Morano,"
+Drama            ",0.01
+389,Monkey Kingdom,2015,7.3,72,3442,81,"
+Mark Linfield, 
+Alastair Fothergill","
+Documentary            ",16.43
+390,Septembers of Shiraz,2015,6.1,16,3389,110,Wayne Blair,"
+Thriller            ",0.01
+391,Mi gran noche,2015,6.0,74,3382,100,Álex de la Iglesia,"
+Comedy            ",0.01
+392,Ma ma,2015,6.4,31,3374,111,Julio Medem,"
+Drama            ",0.05
+393,Strings,2015,6.2,36,3360,112,Daniel Duran,"
+Drama, Music            ",0.01
+394,Gokudô daisenso,2015,5.5,62,3356,115,Takashi Miike,"
+Action, Comedy, Horror            ",0.01
+395,Lolo,2015,5.7,50,3324,99,Julie Delpy,"
+Comedy            ",0.02
+396,The Girl in the Photographs,2015,4.4,32,3315,95,Nick Simon,"
+Crime, Horror, Thriller            ",0.01
+397,Last Days in the Desert,2015,5.6,67,3296,98,Rodrigo García,"
+Adventure, Drama            ",0.01
+398,The Preppie Connection,2015,6.1,34,3283,95,Joseph Castelo,"
+Crime, Drama            ",0.01
+399,La belle saison,2015,6.7,72,3155,105,Catherine Corsini,"
+Drama, Romance            ",0.04
+400,The Girl King,2015,5.9,37,3147,106,Mika Kaurismäki,"
+Biography, Drama, History            ",0.01
+401,90 Minutes in Heaven,2015,4.7,28,3130,121,Michael Polish,"
+Drama            ",4.7
+402,Last Cab to Darwin,2015,7.2,70,3126,123,Jeremy Sims,"
+Comedy, Drama, Romance            ",0.03
+403,#Horror,2015,3.0,42,3123,101,Tara Subkoff,"
+Crime, Drama, Horror            ",0.01
+404,Stonewall,2015,5.1,30,3106,129,Roland Emmerich,"
+Drama, History            ",0.19
+405,A Tale of Love and Darkness,2015,6.0,55,3098,95,Natalie Portman,"
+Biography, Drama, History            ",0.57
+406,Xun long jue,2015,6.0,48,3095,127,Wuershan,"
+Action, Adventure, Drama            ",1.24
+407,Road Games,2015,5.4,44,3056,95,Abner Pastoll,"
+Horror, Mystery, Thriller            ",0.01
+408,Desde allá,2015,6.6,73,3048,93,Lorenzo Vigas,"
+Drama, Romance            ",0.03
+409,Sorgenfri,2015,5.6,60,3036,85,Bo Mikkelsen,"
+Horror, Thriller            ",0.01
+410,Uncle Nick,2015,7.0,36,3020,93,Chris Kasick,"
+Comedy, Sport            ",0.01
+411,Dark Summer,2015,4.3,31,3019,81,Paul Solet,"
+Horror, Thriller            ",0.01
+412,I Am Chris Farley,2015,7.5,58,3013,96,"
+Brent Hodge, 
+Derik Murray","
+Documentary, Biography            ",0.01
+413,Ji-geum-eun-mat-go-geu-ddae-neun-teul-li-da,2015,7.2,81,2971,121,Sang-soo Hong,"
+Drama            ",0.01
+414,La tête haute,2015,7.0,59,2968,120,Emmanuelle Bercot,"
+Drama            ",0.02
+415,Sunset Song,2015,6.4,72,2965,135,Terence Davies,"
+Drama            ",0.16
+416,Walking with the Dead,2015,3.5,9,2939,88,Scott Dow,"
+Comedy, Horror            ",0.01
+417,Wild Horses,2015,4.8,44,2907,100,Robert Duvall,"
+Crime, Drama, Western            ",0.01
+418,Trois souvenirs de ma jeunesse,2015,6.8,87,2884,123,Arnaud Desplechin,"
+Drama, Romance            ",0.27
+419,Lao pao er,2015,7.0,57,2882,134,Hu Guan,"
+Action, Drama            ",1.42
+420,Unexpected,2015,5.7,65,2880,90,Kris Swanberg,"
+Comedy, Drama            ",0.01
+421,Demain,2015,8.1,71,2858,118,"
+Cyril Dion, 
+Mélanie Laurent","
+Documentary            ",0.04
+422,Tab Hunter Confidential,2015,7.7,60,2836,90,Jeffrey Schwarz,"
+Documentary, Biography            ",0.01
+423,Hellions,2015,4.2,34,2807,80,Bruce McDonald,"
+Drama, Horror, Thriller            ",0.01
+424,How to Plan an Orgy in a Small Town,2015,5.5,39,2798,101,Jeremy LaLonde,"
+Comedy, Drama            ",0.01
+425,Deadpool,2016,8.0,65,831374,108,Tim Miller,"
+Action, Adventure, Comedy            ",363.07
+426,Captain America: Civil War,2016,7.8,75,595003,147,"
+Anthony Russo, 
+Joe Russo","
+Action, Adventure, Sci-Fi            ",408.08
+427,Batman v Superman: Dawn of Justice,2016,6.5,44,582007,151,Zack Snyder,"
+Action, Adventure, Fantasy            ",330.36
+428,Suicide Squad,2016,6.0,40,539808,123,David Ayer,"
+Action, Adventure, Fantasy            ",325.1
+429,Doctor Strange,2016,7.5,72,526707,115,Scott Derrickson,"
+Action, Adventure, Fantasy            ",232.64
+430,Arrival,2016,7.9,81,523938,116,Denis Villeneuve,"
+Drama, Mystery, Sci-Fi            ",100.55
+431,Rogue One,2016,7.8,65,484739,133,Gareth Edwards,"
+Action, Adventure, Sci-Fi            ",532.18
+432,La La Land,2016,8.0,93,442084,128,Damien Chazelle,"
+Comedy, Drama, Music            ",151.1
+433,Zootopia,2016,8.0,78,389337,108,"
+Byron Howard, 
+Rich Moore, 
+Jared Bush","
+Animation, Adventure, Comedy            ",341.27
+434,Hacksaw Ridge,2016,8.1,71,373293,139,Mel Gibson,"
+Biography, Drama, History            ",67.21
+435,Fantastic Beasts and Where to Find Them,2016,7.3,66,370336,132,David Yates,"
+Adventure, Family, Fantasy            ",234.04
+436,Split,2016,7.3,62,367566,117,M. Night Shyamalan,"
+Horror, Thriller            ",138.29
+437,X-Men: Apocalypse,2016,7.0,52,362913,144,Bryan Singer,"
+Action, Adventure, Sci-Fi            ",155.44
+438,Passengers,2016,7.0,41,315005,116,Morten Tyldum,"
+Drama, Romance, Sci-Fi            ",100.01
+439,10 Cloverfield Lane,2016,7.2,76,263653,103,Dan Trachtenberg,"
+Drama, Horror, Mystery            ",71.9
+440,The Nice Guys,2016,7.4,70,243997,116,Shane Black,"
+Action, Comedy, Crime            ",36.26
+441,The Jungle Book,2016,7.4,77,243455,106,Jon Favreau,"
+Adventure, Drama, Family            ",364.0
+442,The Accountant,2016,7.3,51,235773,128,Gavin O'Connor,"
+Action, Crime, Drama            ",86.26
+443,Moonlight,2016,7.4,99,232283,111,Barry Jenkins,"
+Drama            ",27.85
+444,Moana,2016,7.6,81,229168,107,"
+Ron Clements, 
+John Musker, 
+Don Hall, 
+Chris Williams","
+Animation, Adventure, Comedy            ",248.76
+445,Warcraft,2016,6.8,32,227440,123,Duncan Jones,"
+Action, Adventure, Fantasy            ",47.37
+446,Now You See Me 2,2016,6.5,46,219475,129,Jon M. Chu,"
+Action, Adventure, Comedy            ",65.08
+447,Manchester by the Sea,2016,7.8,96,217591,137,Kenneth Lonergan,"
+Drama            ",47.7
+448,Finding Dory,2016,7.3,77,216842,97,"
+Andrew Stanton, 
+Angus MacLane","
+Animation, Adventure, Comedy            ",486.3
+449,Star Trek Beyond,2016,7.1,68,211784,122,Justin Lin,"
+Action, Adventure, Sci-Fi            ",158.85
+450,Nocturnal Animals,2016,7.5,67,208310,116,Tom Ford,"
+Drama, Thriller            ",10.64
+451,Sully,2016,7.4,74,206479,96,Clint Eastwood,"
+Biography, Drama            ",125.07
+452,The Conjuring 2,2016,7.3,65,198803,134,James Wan,"
+Horror, Mystery, Thriller            ",102.47
+453,Jason Bourne,2016,6.6,58,192322,123,Paul Greengrass,"
+Action, Thriller            ",162.43
+454,Don't Breathe,2016,7.1,71,190438,88,Fede Alvarez,"
+Crime, Horror, Thriller            ",89.22
+455,Ghostbusters,2016,5.2,60,189006,116,Paul Feig,"
+Action, Comedy, Fantasy            ",128.34
+456,Lion,2016,8.0,69,184947,118,Garth Davis,"
+Biography, Drama            ",51.74
+457,Hell or High Water,2016,7.6,88,179256,102,David Mackenzie,"
+Action, Crime, Drama            ",26.86
+458,Me Before You,2016,7.4,51,178520,106,Thea Sharrock,"
+Drama, Romance            ",56.25
+459,Hidden Figures,2016,7.8,74,174058,127,Theodore Melfi,"
+Biography, Drama, History            ",169.61
+460,The Magnificent Seven,2016,6.9,54,170172,132,Antoine Fuqua,"
+Action, Adventure, Western            ",93.43
+461,Assassin's Creed,2016,5.7,36,168843,115,Justin Kurzel,"
+Action, Adventure, Sci-Fi            ",54.65
+462,The Secret Life of Pets,2016,6.5,61,165858,87,"
+Chris Renaud, 
+Yarrow Cheney","
+Animation, Adventure, Comedy            ",368.38
+463,The Promise,2016,6.0,49,164810,133,Terry George,"
+Drama, History            ",0.01
+464,Captain Fantastic,2016,7.9,72,162509,118,Matt Ross,"
+Comedy, Drama            ",5.88
+465,Sausage Party,2016,6.2,66,160791,89,"
+Greg Tiernan, 
+Conrad Vernon","
+Animation, Adventure, Comedy            ",97.66
+466,Independence Day: Resurgence,2016,5.2,32,156673,120,Roland Emmerich,"
+Action, Adventure, Sci-Fi            ",103.14
+467,War Dogs,2016,7.1,57,156356,114,Todd Phillips,"
+Comedy, Crime, Drama            ",43.02
+468,The Girl on the Train,2016,6.5,48,153522,112,Tate Taylor,"
+Crime, Drama, Mystery            ",75.4
+469,The Legend of Tarzan,2016,6.2,44,151752,110,David Yates,"
+Action, Adventure, Drama            ",126.64
+470,Miss Peregrine's Home for Peculiar Children,2016,6.7,57,142180,127,Tim Burton,"
+Adventure, Drama, Fantasy            ",87.24
+471,Central Intelligence,2016,6.3,52,141438,107,Rawson Marshall Thurber,"
+Action, Comedy, Crime            ",127.44
+472,Inferno,2016,6.2,42,140609,121,Ron Howard,"
+Action, Adventure, Crime            ",34.34
+473,Kimi no na wa.,2016,8.4,79,139712,106,Makoto Shinkai,"
+Animation, Drama, Fantasy            ",5.02
+474,Deepwater Horizon,2016,7.1,68,135065,107,Peter Berg,"
+Action, Drama, History            ",61.28
+475,Allied,2016,7.1,60,127585,124,Robert Zemeckis,"
+Action, Drama, Romance            ",40.07
+476,London Has Fallen,2016,5.9,28,126360,99,Babak Najafi,"
+Action, Thriller            ",62.68
+477,Jack Reacher: Never Go Back,2016,6.1,47,123693,118,Edward Zwick,"
+Action, Crime, Thriller            ",58.7
+478,Snowden,2016,7.3,58,120856,134,Oliver Stone,"
+Biography, Drama, Thriller            ",21.59
+479,Sing,2016,7.1,59,118238,108,"
+Garth Jennings, 
+Christophe Lourdelet","
+Animation, Comedy, Family            ",270.4
+480,Kung Fu Panda 3,2016,7.1,66,118191,95,"
+Alessandro Carloni, 
+Jennifer Yuh Nelson","
+Animation, Action, Adventure            ",143.53
+481,The Great Wall,2016,6.0,42,113173,103,Yimou Zhang,"
+Action, Adventure, Fantasy            ",45.54
+482,Busanhaeng,2016,7.5,72,112433,118,Sang-ho Yeon,"
+Action, Horror, Thriller            ",2.13
+483,"Hail, Caesar!",2016,6.3,72,112430,106,"
+Ethan Coen, 
+Joel Coen","
+Comedy, Drama, Music            ",30.08
+484,The Shallows,2016,6.3,59,108809,86,Jaume Collet-Serra,"
+Drama, Horror, Thriller            ",55.12
+485,Kubo and the Two Strings,2016,7.8,84,106965,101,Travis Knight,"
+Animation, Action, Adventure            ",48.02
+486,13 Hours,2016,7.3,48,105061,144,Michael Bay,"
+Action, Drama, History            ",52.85
+487,Neighbors 2: Sorority Rising,2016,5.7,58,104221,92,Nicholas Stoller,"
+Comedy            ",55.29
+488,Nerve,2016,6.5,58,104071,96,"
+Henry Joost, 
+Ariel Schulman","
+Action, Adventure, Crime            ",38.56
+489,Dirty Grandpa,2016,5.9,21,102818,102,Dan Mazer,"
+Comedy            ",35.54
+490,Lights Out,2016,6.3,58,102454,81,David F. Sandberg,"
+Drama, Horror, Mystery            ",67.27
+491,Bad Moms,2016,6.2,60,102347,100,"
+Jon Lucas, 
+Scott Moore","
+Comedy            ",113.26
+492,The Founder,2016,7.2,66,100393,115,John Lee Hancock,"
+Biography, Drama, History            ",12.79
+493,Allegiant,2016,5.7,33,96777,120,Robert Schwentke,"
+Action, Adventure, Mystery            ",66.18
+494,Gods of Egypt,2016,5.4,25,96156,127,Alex Proyas,"
+Action, Adventure, Fantasy            ",31.15
+495,Swiss Army Man,2016,7.0,64,93216,97,"
+Dan Kwan, 
+Daniel Scheinert","
+Comedy, Drama, Fantasy            ",4.21
+496,The 5th Wave,2016,5.2,33,91629,112,J Blakeson,"
+Action, Adventure, Drama            ",34.91
+497,Why Him?,2016,6.2,39,90839,111,John Hamburg,"
+Comedy            ",60.27
+498,The Edge of Seventeen,2016,7.3,77,89504,104,Kelly Fremon Craig,"
+Comedy, Drama            ",14.26
+499,Hunt for the Wilderpeople,2016,7.9,81,89060,101,Taika Waititi,"
+Adventure, Comedy, Drama            ",5.2
+500,The Huntsman: Winter's War,2016,6.1,35,88747,114,Cedric Nicolas-Troyan,"
+Action, Adventure, Drama            ",48.39
+501,Fences,2016,7.2,79,88034,139,Denzel Washington,"
+Drama            ",57.64
+502,Money Monster,2016,6.5,55,87528,98,Jodie Foster,"
+Crime, Drama, Thriller            ",41.01
+503,Silence,2016,7.2,79,86531,161,Martin Scorsese,"
+Drama, History            ",7.08
+504,Grimsby,2016,6.2,44,83165,83,Louis Leterrier,"
+Action, Adventure, Comedy            ",6.86
+505,Ah-ga-ssi,2016,8.1,84,81767,145,Chan-wook Park,"
+Drama, Romance, Thriller            ",2.01
+506,Hush,2016,6.6,67,81462,82,Mike Flanagan,"
+Horror, Thriller            ",0.01
+507,The Purge: Election Year,2016,6.0,55,81232,108,James DeMonaco,"
+Action, Horror, Sci-Fi            ",79.0
+508,Alice Through the Looking Glass,2016,6.2,34,81163,113,James Bobin,"
+Adventure, Family, Fantasy            ",77.04
+509,Collateral Beauty,2016,6.8,23,79815,97,David Frankel,"
+Drama, Romance            ",30.98
+510,The Autopsy of Jane Doe,2016,6.8,65,78803,86,André Øvredal,"
+Horror, Mystery, Thriller            ",0.01
+511,Teenage Mutant Ninja Turtles: Out of the Shadows,2016,6.0,40,78062,112,Dave Green,"
+Action, Adventure, Comedy            ",82.05
+512,Patriots Day,2016,7.4,69,77498,133,Peter Berg,"
+Action, Crime, Drama            ",31.89
+513,Mike and Dave Need Wedding Dates,2016,6.0,51,75923,98,Jake Szymanski,"
+Adventure, Comedy, Romance            ",46.01
+514,Resident Evil: The Final Chapter,2016,5.6,49,75868,107,Paul W.S. Anderson,"
+Action, Horror, Sci-Fi            ",26.83
+515,Sing Street,2016,8.0,79,75652,106,John Carney,"
+Comedy, Drama, Music            ",3.24
+516,How to Be Single,2016,6.1,51,75044,110,Christian Ditter,"
+Comedy, Drama, Romance            ",46.81
+517,The Neon Demon,2016,6.2,51,73897,117,Nicolas Winding Refn,"
+Horror, Thriller            ",1.33
+518,A Cure for Wellness,2016,6.4,47,72011,146,Gore Verbinski,"
+Drama, Fantasy, Horror            ",8.11
+519,A Monster Calls,2016,7.5,76,71654,108,J.A. Bayona,"
+Animation, Drama, Fantasy            ",3.73
+520,Angry Birds,2016,6.3,43,70705,97,"
+Clay Kaytis, 
+Fergal Reilly","
+Animation, Action, Comedy            ",107.51
+521,The BFG,2016,6.4,66,70074,117,Steven Spielberg,"
+Adventure, Family, Fantasy            ",55.48
+522,The Boy,2016,6.0,42,69866,97,William Brent Bell,"
+Horror, Mystery, Thriller            ",35.79
+523,Midnight Special,2016,6.6,76,68564,112,Jeff Nichols,"
+Action, Drama, Mystery            ",3.71
+524,Mechanic: Resurrection,2016,5.7,38,68289,98,Dennis Gansel,"
+Action, Adventure, Thriller            ",21.2
+525,The Lost City of Z,2016,6.6,78,67536,141,James Gray,"
+Biography, Drama, History            ",8.58
+526,Jackie,2016,6.7,81,66714,100,Pablo Larraín,"
+Biography, Drama, History            ",13.96
+527,Trolls,2016,6.5,56,64012,92,"
+Mike Mitchell, 
+Walt Dohrn","
+Animation, Adventure, Comedy            ",153.71
+528,Underworld: Blood Wars,2016,5.8,23,63719,91,Anna Foerster,"
+Action, Adventure, Fantasy            ",30.35
+529,Café Society,2016,6.6,64,63318,96,Woody Allen,"
+Comedy, Drama, Romance            ",11.1
+530,The Infiltrator,2016,7.0,66,62194,127,Brad Furman,"
+Biography, Crime, Drama            ",15.43
+531,Bridget Jones's Baby,2016,6.5,59,61125,123,Sharon Maguire,"
+Comedy, Drama, Romance            ",24.25
+532,Triple 9,2016,6.3,52,60904,115,John Hillcoat,"
+Crime, Thriller            ",12.63
+533,Zoolander 2,2016,4.7,34,60445,101,Ben Stiller,"
+Action, Comedy            ",28.85
+534,Office Christmas Party,2016,5.8,42,60060,105,"
+Josh Gordon, 
+Will Speck","
+Comedy            ",54.73
+535,The Finest Hours,2016,6.7,58,56497,117,Craig Gillespie,"
+Action, Drama, History            ",27.55
+536,Paterson,2016,7.4,90,56488,118,Jim Jarmusch,"
+Comedy, Drama, Romance            ",2.14
+537,Elle,2016,7.1,89,55262,130,Paul Verhoeven,"
+Crime, Drama, Thriller            ",0.01
+538,Miss Sloane,2016,7.5,64,53875,132,John Madden,"
+Drama, Thriller            ",3.44
+539,Blood Father,2016,6.4,66,52869,88,Jean-François Richet,"
+Action, Crime, Drama            ",0.01
+540,Criminal,2016,6.3,36,52461,113,Ariel Vromen,"
+Action, Crime, Drama            ",14.27
+541,Keeping Up with the Joneses,2016,5.9,34,52310,105,Greg Mottola,"
+Action, Comedy            ",14.9
+542,Colossal,2016,6.2,70,51599,109,Nacho Vigalondo,"
+Comedy, Drama, Fantasy            ",3.02
+543,Gold,2016,6.7,49,51085,120,Stephen Gaghan,"
+Crime, Drama            ",7.22
+544,Storks,2016,6.8,56,50985,87,"
+Nicholas Stoller, 
+Doug Sweetland","
+Animation, Adventure, Comedy            ",72.68
+545,Grave,2016,7.0,81,50719,99,Julia Ducournau,"
+Drama, Horror            ",0.51
+546,Ice Age: Collision Course,2016,5.7,34,49802,94,"
+Mike Thurmeier, 
+Galen T. Chu","
+Animation, Adventure, Comedy            ",64.06
+547,Pete's Dragon,2016,6.7,71,49775,102,David Lowery,"
+Action, Adventure, Comedy            ",76.23
+548,The Fundamentals of Caring,2016,7.3,55,49654,97,Rob Burnett,"
+Comedy, Drama            ",0.01
+549,Ride Along 2,2016,5.9,32,49272,102,Tim Story,"
+Action, Comedy, Crime            ",90.84
+550,Everybody Wants Some!!,2016,6.9,83,48169,117,Richard Linklater,"
+Comedy            ",3.37
+551,Popstar: Never Stop Never Stopping,2016,6.7,68,48036,87,"
+Akiva Schaffer, 
+Jorma Taccone","
+Comedy, Music            ",9.39
+552,Ouija: Origin of Evil,2016,6.1,65,47865,99,Mike Flanagan,"
+Drama, Horror, Mystery            ",34.9
+553,Live by Night,2016,6.4,49,47709,129,Ben Affleck,"
+Action, Crime, Drama            ",10.38
+554,The Girl with All the Gifts,2016,6.7,67,47529,111,Colm McCarthy,"
+Drama, Horror, Sci-Fi            ",0.01
+555,The Light Between Oceans,2016,7.2,60,46972,133,Derek Cianfrance,"
+Drama, Romance            ",12.55
+556,Pride and Prejudice and Zombies,2016,5.8,45,46753,108,Burr Steers,"
+Action, Comedy, Fantasy            ",10.91
+557,Whiskey Tango Foxtrot,2016,6.6,57,46595,112,"
+Glenn Ficarra, 
+John Requa","
+Biography, Comedy, Drama            ",23.05
+558,Free State of Jones,2016,6.9,53,45727,139,Gary Ross,"
+Action, Biography, Drama            ",20.76
+559,Masterminds,2016,5.8,47,45714,95,Jared Hess,"
+Action, Biography, Comedy            ",17.36
+560,Florence Foster Jenkins,2016,6.8,71,45489,111,Stephen Frears,"
+Biography, Comedy, Drama            ",27.37
+561,"I, Daniel Blake",2016,7.9,78,44857,100,"
+Ken Loach, 
+Laura Obiols","
+Drama            ",0.26
+562,Forushande,2016,7.8,85,42310,124,Asghar Farhadi,"
+Drama, Thriller            ",2.4
+563,Keanu,2016,6.3,63,42181,100,Peter Atencio,"
+Action, Comedy, Crime            ",20.57
+564,The Boss,2016,5.4,40,39635,99,Ben Falcone,"
+Comedy            ",63.03
+565,The Belko Experiment,2016,6.1,44,38921,89,Greg McLean,"
+Horror, Thriller            ",10.16
+566,Anthropoid,2016,7.2,59,38677,120,Sean Ellis,"
+Biography, History, Thriller            ",2.96
+567,Toni Erdmann,2016,7.4,93,38597,162,Maren Ade,"
+Comedy, Drama            ",1.48
+568,Ben-Hur,2016,5.7,38,38362,123,Timur Bekmambetov,"
+Action, Adventure, Drama            ",26.38
+569,Imperium,2016,6.5,68,37498,109,Daniel Ragussis,"
+Crime, Drama, Thriller            ",0.01
+570,Blair Witch,2016,5.0,47,37375,89,Adam Wingard,"
+Horror, Mystery, Thriller            ",20.78
+571,The Forest,2016,4.8,34,36787,93,Jason Zada,"
+Horror, Mystery, Thriller            ",26.58
+572,Gok-seong,2016,7.4,81,36577,156,Hong-jin Na,"
+Horror, Mystery, Thriller            ",0.01
+573,Free Fire,2016,6.4,63,36504,91,Ben Wheatley,"
+Action, Comedy, Crime            ",1.8
+574,A Hologram for the King,2016,6.1,58,36457,98,Tom Tykwer,"
+Comedy, Drama, Romance            ",4.2
+575,Morgan,2016,5.8,48,35899,92,Luke Scott,"
+Action, Horror, Sci-Fi            ",3.91
+576,Meet the Blacks,2016,5.4,26,34822,94,Deon Taylor,"
+Comedy, Horror            ",9.09
+577,The Do-Over,2016,5.7,22,34226,108,Steven Brill,"
+Action, Adventure, Comedy            ",0.01
+578,Before I Wake,2016,6.2,68,33535,97,Mike Flanagan,"
+Drama, Fantasy, Horror            ",0.01
+579,20th Century Women,2016,7.3,83,32888,119,Mike Mills,"
+Comedy, Drama            ",5.66
+580,American Honey,2016,7.0,79,32350,163,Andrea Arnold,"
+Adventure, Drama, Romance            ",0.66
+581,Bastille Day,2016,6.3,48,31513,92,James Watkins,"
+Action, Crime, Drama            ",0.04
+582,Personal Shopper,2016,6.1,77,31383,105,Olivier Assayas,"
+Drama, Horror, Mystery            ",1.31
+583,Race,2016,7.1,56,31144,134,Stephen Hopkins,"
+Biography, Drama, Sport            ",19.1
+584,Brimstone,2016,7.1,45,31062,148,Martin Koolhoven,"
+Drama, Mystery, Thriller            ",0.01
+585,The Choice,2016,6.6,26,30738,111,Ross Katz,"
+Drama, Romance            ",18.71
+586,Mother's Day,2016,5.7,18,29341,118,Garry Marshall,"
+Comedy, Drama, Romance            ",32.46
+587,Loving,2016,7.0,79,28382,123,Jeff Nichols,"
+Biography, Drama, Romance            ",7.7
+588,Koe no katachi,2016,8.2,78,27401,130,Naoko Yamada,"
+Animation, Drama, Romance            ",0.01
+589,My Big Fat Greek Wedding 2,2016,6.0,37,26170,94,Kirk Jones,"
+Comedy, Romance            ",59.57
+590,The Void,2016,5.8,62,25718,90,"
+Jeremy Gillespie, 
+Steven Kostanski","
+Horror, Mystery, Sci-Fi            ",0.15
+591,La tortue rouge,2016,7.5,86,25575,80,Michael Dudok de Wit,"
+Animation, Fantasy            ",0.92
+592,Julieta,2016,7.1,73,25040,99,Pedro Almodóvar,"
+Drama, Mystery, Romance            ",1.49
+593,Before the Flood,2016,8.3,63,23674,96,Fisher Stevens,"
+Documentary, News            ",0.01
+594,A Street Cat Named Bob,2016,7.4,54,23554,103,Roger Spottiswoode,"
+Biography, Comedy, Drama            ",0.04
+595,Mr. Church,2016,7.6,37,23147,104,Bruce Beresford,"
+Comedy, Drama            ",0.69
+596,Risen,2016,6.3,51,23005,107,Kevin Reynolds,"
+Action, Adventure, Drama            ",36.87
+597,Better Watch Out,2016,6.5,67,22905,89,Chris Peckover,"
+Comedy, Crime, Horror            ",0.02
+598,Cell,2016,4.3,38,22437,98,Tod Williams,"
+Action, Drama, Horror            ",0.01
+599,Bleed for This,2016,6.8,62,22267,117,Ben Younger,"
+Biography, Drama, Sport            ",4.85
+600,Friend Request,2016,5.3,31,21999,92,Simon Verhoeven,"
+Horror, Thriller            ",3.76
+601,The Bad Batch,2016,5.3,62,21440,118,Ana Lily Amirpour,"
+Drama, Horror, Romance            ",0.18
+602,Love & Friendship,2016,6.4,87,21362,90,Whit Stillman,"
+Comedy, Drama, Romance            ",14.01
+603,Bad Santa 2,2016,5.6,38,20312,92,Mark Waters,"
+Comedy, Crime, Drama            ",17.78
+604,13th,2016,8.2,88,20084,100,Ava DuVernay,"
+Documentary, Crime, News            ",0.01
+605,The Whole Truth,2016,6.2,46,20054,93,Courtney Hunt,"
+Crime, Drama, Mystery            ",0.01
+606,Get a Job,2016,5.3,31,19361,83,Dylan Kidd,"
+Comedy            ",0.01
+607,Billy Lynn's Long Halftime Walk,2016,6.2,53,19295,113,Ang Lee,"
+Action, Drama, Thriller            ",1.72
+608,Under the Shadow,2016,6.9,84,19119,84,Babak Anvari,"
+Drama, Horror, Thriller            ",0.03
+609,Shin Gojira,2016,6.7,67,18842,120,"
+Hideaki Anno, 
+Shinji Higuchi","
+Action, Adventure, Drama            ",1.91
+610,Ae Dil Hai Mushkil,2016,5.8,40,18708,158,Karan Johar,"
+Drama, Music, Musical            ",4.24
+611,Nine Lives,2016,5.3,11,18707,87,Barry Sonnenfeld,"
+Comedy, Drama, Family            ",19.64
+612,The Birth of a Nation,2016,6.4,69,18603,120,Nate Parker,"
+Biography, Drama, History            ",15.86
+613,Kingsglaive: Final Fantasy XV,2016,6.8,35,18580,110,Takeshi Nozue,"
+Animation, Action, Adventure            ",0.23
+614,Juste la fin du monde,2016,6.9,48,18281,97,Xavier Dolan,"
+Drama            ",0.01
+615,Our Kind of Traitor,2016,6.2,57,18060,108,Susanna White,"
+Crime, Drama, Thriller            ",3.15
+616,Miracles from Heaven,2016,7.1,44,18057,109,Patricia Riggen,"
+Biography, Drama, Family            ",61.69
+617,Amanda Knox,2016,6.9,78,17599,92,"
+Rod Blackhurst, 
+Brian McGinn","
+Documentary, Crime            ",0.01
+618,True Memoirs of an International Assassin,2016,5.9,37,17514,98,Jeff Wadlow,"
+Action, Comedy, Crime            ",0.01
+619,Fifty Shades of Black,2016,3.5,28,17489,92,Michael Tiddes,"
+Comedy            ",11.68
+620,Ma vie de Courgette,2016,7.8,85,17427,66,Claude Barras,"
+Animation, Comedy, Drama            ",0.29
+621,Jue di tao wang,2016,5.7,50,17268,107,Renny Harlin,"
+Action, Adventure, Comedy            ",0.01
+622,Max Steel,2016,4.6,22,17014,92,Stewart Hendler,"
+Action, Adventure, Family            ",3.82
+623,Marauders,2016,5.5,42,16997,107,Steven C. Miller,"
+Action, Crime, Thriller            ",0.01
+624,Ballerina,2016,6.8,48,16965,89,"
+Eric Summer, 
+Éric Warin, 
+Mimi Maynard, 
+Paulette Victor-Lifton","
+Animation, Adventure, Comedy            ",24.48
+625,Special Correspondents,2016,5.8,36,16938,101,Ricky Gervais,"
+Comedy            ",0.01
+626,Denial,2016,6.7,63,16823,109,Mick Jackson,"
+Biography, Drama            ",4.07
+627,The Trust,2016,5.4,58,16206,92,"
+Alex Brewer, 
+Benjamin Brewer","
+Crime, Drama, Thriller            ",0.01
+628,"Crouching Tiger, Hidden Dragon: Sword of Destiny",2016,6.1,47,16028,96,Woo-Ping Yuen,"
+Action, Adventure, Drama            ",0.01
+629,David Brent: Life on the Road,2016,6.3,54,16011,96,Ricky Gervais,"
+Comedy, Music            ",0.01
+630,The Other Side of the Door,2016,5.3,41,15984,96,Johannes Roberts,"
+Horror            ",2.99
+631,Genius,2016,6.5,56,15865,104,Michael Grandage,"
+Biography, Drama            ",1.36
+632,Lady Macbeth,2016,6.8,76,15581,89,William Oldroyd,"
+Drama, Romance            ",1.13
+633,Don't Think Twice,2016,6.7,83,15480,92,Mike Birbiglia,"
+Comedy, Drama            ",4.42
+634,War on Everyone,2016,5.8,50,15444,98,John Michael McDonagh,"
+Action, Comedy            ",0.01
+635,Aquarius,2016,7.5,88,15431,146,Kleber Mendonça Filho,"
+Drama            ",0.29
+636,31,2016,5.1,35,15385,102,Rob Zombie,"
+Horror, Thriller            ",0.78
+637,Their Finest,2016,6.8,76,15327,117,Lone Scherfig,"
+Comedy, Drama, Romance            ",3.6
+638,Tallulah,2016,6.7,63,15307,111,Sian Heder,"
+Comedy, Drama, Romance            ",0.01
+639,The Limehouse Golem,2016,6.3,63,14958,109,Juan Carlos Medina,"
+Crime, Mystery, Thriller            ",0.01
+640,I Am Not Your Negro,2016,7.8,95,14213,93,Raoul Peck,"
+Documentary            ",7.12
+641,Pelé: Birth of a Legend,2016,7.2,39,14192,107,"
+Jeff Zimbalist, 
+Michael Zimbalist","
+Biography, Drama, Sport            ",0.03
+642,The Good Neighbor,2016,6.3,32,14167,98,Kasra Farahani,"
+Crime, Drama, Horror            ",0.01
+643,Pet,2016,5.7,48,14132,94,Carles Torrens,"
+Horror, Thriller            ",0.01
+644,Tickled,2016,7.6,76,14085,92,"
+David Farrier, 
+Dylan Reeve","
+Documentary, Mystery            ",0.61
+645,True Crimes,2016,5.1,24,13817,92,Alexandros Avranas,"
+Crime, Drama, Thriller            ",0.01
+646,Monster Trucks,2016,5.7,41,13770,104,Chris Wedge,"
+Action, Adventure, Comedy            ",33.37
+647,The Monster,2016,5.4,69,13742,91,Bryan Bertino,"
+Drama, Fantasy, Horror            ",0.01
+648,Misconduct,2016,5.3,24,13699,106,Shintaro Shimosawa,"
+Crime, Drama, Mystery            ",0.01
+649,I.T.,2016,5.4,27,13568,95,John Moore,"
+Crime, Drama, Mystery            ",0.01
+650,In a Valley of Violence,2016,6.0,64,13507,104,Ti West,"
+Action, Crime, Drama            ",0.05
+651,Collide,2016,5.7,33,13440,99,Eran Creevy,"
+Action, Crime, Thriller            ",2.28
+652,Wakefield,2016,6.3,62,13428,106,Robin Swicord,"
+Drama            ",0.26
+653,Mine,2016,5.9,40,13424,106,"
+Fabio Guaglione, 
+Fabio Resinaro","
+Drama, Fantasy, Thriller            ",0.01
+654,Barbershop: The Next Cut,2016,5.9,67,13411,111,Malcolm D. Lee,"
+Comedy, Drama            ",54.03
+655,Queen of Katwe,2016,7.4,73,13269,124,Mira Nair,"
+Biography, Drama, Sport            ",8.81
+656,Brain on Fire,2016,6.6,34,13260,88,Gerard Barrett,"
+Biography, Drama            ",0.01
+657,American Pastoral,2016,6.1,43,13202,108,Ewan McGregor,"
+Crime, Drama            ",0.54
+658,Hands of Stone,2016,6.6,54,13038,111,Jonathan Jakubowicz,"
+Action, Biography, Drama            ",4.71
+659,The Darkness,2016,4.4,27,12556,92,Greg McLean,"
+Horror, Thriller            ",10.73
+660,A United Kingdom,2016,6.8,65,12387,111,Amma Asante,"
+Biography, Drama, Romance            ",3.9
+661,The 9th Life of Louis Drax,2016,6.3,41,12320,108,Alexandre Aja,"
+Mystery, Thriller            ",0.01
+662,Exposed,2016,4.3,23,12292,102,Gee Malik Linton,"
+Crime, Drama, Mystery            ",0.01
+663,I Am Not a Serial Killer,2016,6.2,54,12289,104,Billy O'Brien,"
+Drama, Horror, Thriller            ",0.01
+664,Elvis & Nixon,2016,6.4,59,12095,86,Liza Johnson,"
+Comedy, History            ",1.03
+665,Fallen,2016,5.4,47,11940,91,Scott Hicks,"
+Adventure, Drama, Fantasy            ",0.01
+666,Maudie,2016,7.6,65,11896,115,Aisling Walsh,"
+Biography, Drama, Romance            ",6.17
+667,Christine,2016,6.9,72,11505,119,Antonio Campos,"
+Biography, Drama            ",0.3
+668,A Dark Song,2016,6.1,71,11493,100,Liam Gavin,"
+Drama, Fantasy, Horror            ",0.01
+669,Shut In,2016,4.7,25,11239,91,Farren Blackburn,"
+Drama, Mystery, Thriller            ",6.88
+670,Kedi,2016,7.7,78,11145,79,Ceyda Torun,"
+Documentary            ",2.83
+671,Absolutely Fabulous: The Movie,2016,5.4,59,11079,91,Mandie Fletcher,"
+Comedy, Crime            ",4.75
+672,Don't Knock Twice,2016,5.1,45,11009,93,Caradog W. James,"
+Horror            ",0.01
+673,Lo and Behold: Reveries of the Connected World,2016,7.0,76,10825,98,Werner Herzog,"
+Documentary            ",0.59
+674,Frantz,2016,7.5,73,10793,113,François Ozon,"
+Drama, History, Romance            ",0.88
+675,Headshot,2016,6.3,61,10790,118,"
+Kimo Stamboel, 
+Timo Tjahjanto","
+Action, Drama, Thriller            ",0.01
+676,Blue Jay,2016,7.3,69,10706,80,Alex Lehmann,"
+Drama, Romance            ",0.01
+677,Indignation,2016,6.8,78,10683,110,James Schamus,"
+Drama, Romance            ",3.4
+678,Yoga Hosers,2016,4.3,23,10661,88,Kevin Smith,"
+Action, Comedy, Fantasy            ",0.01
+679,Bacalaureat,2016,7.4,84,10535,128,Cristian Mungiu,"
+Crime, Drama            ",0.18
+680,Certain Women,2016,6.3,82,10471,107,Kelly Reichardt,"
+Drama            ",1.03
+681,God's Not Dead 2,2016,4.4,22,10451,120,Harold Cronk,"
+Drama            ",20.77
+682,Manhattan Nocturne,2016,6.2,44,10359,113,Brian DeCubellis,"
+Crime, Drama, Mystery            ",0.01
+683,Incarnate,2016,5.3,30,10313,91,Brad Peyton,"
+Horror, Thriller            ",4.79
+684,The Hollars,2016,6.5,53,10251,88,John Krasinski,"
+Comedy, Drama, Romance            ",1.02
+685,L'avenir,2016,7.0,88,10143,102,Mia Hansen-Løve,"
+Drama            ",0.28
+686,I Am the Pretty Thing That Lives in the House,2016,4.5,68,10025,89,Oz Perkins,"
+Horror, Mystery, Thriller            ",0.01
+687,The Beatles: Eight Days a Week - The Touring Years,2016,7.8,72,9843,106,Ron Howard,"
+Documentary, Music            ",2.93
+688,Message from the King,2016,6.4,40,9756,102,Fabrice du Welz,"
+Thriller            ",0.01
+689,The Eyes of My Mother,2016,6.2,63,9703,76,Nicolas Pesce,"
+Drama, Horror            ",0.03
+690,The Love Witch,2016,6.2,82,9622,120,Anna Biller,"
+Romance, Thriller            ",0.23
+691,USS Indianapolis: Men of Courage,2016,5.2,30,9610,128,Mario Van Peebles,"
+Action, Drama, History            ",0.01
+692,Mohenjo Daro,2016,5.8,39,9602,155,Ashutosh Gowariker,"
+Action, Adventure, Drama            ",1.25
+693,Kickboxer: Vengeance,2016,4.9,37,9543,90,John Stockwell,"
+Action, Crime, Drama            ",0.01
+694,Mindhorn,2016,6.3,70,9320,89,Sean Foley,"
+Comedy            ",0.01
+695,Ratchet & Clank,2016,5.6,29,9121,94,"
+Kevin Munroe, 
+Jericca Cleland","
+Animation, Action, Adventure            ",8.55
+696,Weiner,2016,7.6,84,9106,96,"
+Josh Kriegman, 
+Elyse Steinberg","
+Documentary            ",1.61
+697,Holidays,2016,5.1,50,8844,105,"
+Anthony Scott Burns, 
+Kevin Kölsch, 
+Nicholas McCarthy, 
+Adam Egypt Mortimer, 
+Gary Shore, 
+Kevin Smith, 
+Sarah Adina Smith, 
+Scott Stewart, 
+Dennis Widmyer","
+Fantasy, Horror, Mystery            ",0.01
+698,Supersonic,2016,7.9,71,8780,122,Mat Whitecross,"
+Documentary, Biography, Music            ",0.24
+699,The Duel,2016,5.8,42,8623,110,Kieran Darcy-Smith,"
+Drama, Western            ",0.01
+700,The Exception,2016,6.8,60,8613,107,David Leveaux,"
+Drama, Romance, War            ",0.61
+701,A Family Man,2016,6.5,21,8594,108,Mark Williams,"
+Drama            ",0.01
+702,All I See Is You,2016,5.4,43,8539,109,Marc Forster,"
+Drama, Mystery, Romance            ",0.22
+703,Wiener-Dog,2016,5.9,66,8512,88,Todd Solondz,"
+Comedy, Drama            ",0.45
+704,Hounds of Love,2016,6.5,73,8494,108,Ben Young,"
+Crime, Drama, Horror            ",0.01
+705,The Disappointments Room,2016,3.9,31,8291,85,D.J. Caruso,"
+Drama, Horror, Thriller            ",2.41
+706,Kevin Hart: What Now?,2016,5.9,60,8226,96,"
+Leslie Small, 
+Tim Story","
+Documentary, Comedy            ",23.56
+707,Handsome Devil,2016,7.1,60,8201,95,John Butler,"
+Comedy, Drama, Sport            ",0.01
+708,Neruda,2016,6.9,82,8177,107,Pablo Larraín,"
+Biography, Crime, Drama            ",0.94
+709,Les innocentes,2016,7.3,78,8109,115,Anne Fontaine,"
+Drama, History            ",1.06
+710,Cabin Fever,2016,3.7,14,8047,99,Travis Zariwny,"
+Horror            ",0.01
+711,Norm of the North,2016,3.5,21,8032,90,Trevor Wall,"
+Animation, Adventure, Comedy            ",17.02
+712,Una,2016,6.2,62,8030,94,Benedict Andrews,"
+Drama, Romance            ",0.01
+713,Zero Days,2016,7.8,77,7999,116,Alex Gibney,"
+Documentary            ",0.1
+714,Rules Don't Apply,2016,5.7,60,7994,127,Warren Beatty,"
+Comedy, Drama, Romance            ",3.65
+715,Below Her Mouth,2016,5.5,42,7911,94,April Mullen,"
+Drama, Romance            ",0.01
+716,Other People,2016,6.7,67,7847,97,Chris Kelly,"
+Comedy, Drama            ",0.09
+717,White Girl,2016,5.7,65,7840,88,Elizabeth Wood,"
+Crime, Drama            ",0.2
+718,Approaching the Unknown,2016,4.8,53,7773,90,Mark Elijah Rosenberg,"
+Drama, Sci-Fi, Thriller            ",0.01
+719,Precious Cargo,2016,4.6,27,7547,90,Max Adams,"
+Action, Comedy, Crime            ",0.01
+720,High Strung,2016,6.4,48,7528,96,Michael Damian,"
+Drama, Music, Romance            ",0.05
+721,Umi yori mo mada fukaku,2016,7.4,84,7458,118,Hirokazu Koreeda,"
+Comedy, Drama            ",0.27
+722,Mei ren yu,2016,6.2,69,7458,94,Stephen Chow,"
+Comedy, Drama, Fantasy            ",3.23
+723,Southside with You,2016,6.3,74,7326,84,Richard Tanne,"
+Biography, Drama, History            ",6.3
+724,La pazza gioia,2016,7.2,74,7307,116,Paolo Virzì,"
+Comedy, Drama            ",0.11
+725,Sleight,2016,5.9,62,7194,89,J.D. Dillard,"
+Action, Drama, Sci-Fi            ",3.85
+726,King Cobra,2016,5.6,48,7113,91,Justin Kelly,"
+Comedy, Crime, Drama            ",0.03
+727,The Late Bloomer,2016,5.2,34,7105,90,Kevin Pollak,"
+Comedy, Drama, Romance            ",0.01
+728,Divines,2016,7.4,71,7078,105,Houda Benyamina,"
+Crime, Drama            ",0.01
+729,Pandemic,2016,4.4,47,7006,91,John Suits,"
+Action, Horror, Sci-Fi            ",0.01
+730,Boo! A Madea Halloween,2016,4.6,30,6974,103,Tyler Perry,"
+Comedy, Drama, Horror            ",73.16
+731,Come and Find Me,2016,5.7,46,6958,112,Zack Whedon,"
+Thriller            ",0.01
+732,Goat,2016,5.7,64,6881,96,Andrew Neel,"
+Drama            ",0.02
+733,Standoff,2016,6.1,36,6788,80,Adam Alleca,"
+Drama, Thriller            ",0.01
+734,Dog Eat Dog,2016,4.7,53,6779,93,Paul Schrader,"
+Action, Thriller            ",0.01
+735,Dad's Army,2016,5.2,38,6746,100,Oliver Parker,"
+Comedy, War            ",0.01
+736,Trespass Against Us,2016,5.8,50,6720,99,Adam Smith,"
+Action, Crime, Drama            ",0.01
+737,Mil-jeong,2016,7.1,78,6679,140,Jee-woon Kim,"
+Action, Drama, Thriller            ",0.54
+738,Tower,2016,8.0,92,6633,82,Keith Maitland,"
+Documentary, Animation, Crime            ",0.09
+739,Bonjour Anne,2016,5.8,48,6609,92,Eleanor Coppola,"
+Comedy, Drama, Romance            ",5.62
+740,Alone in Berlin,2016,6.5,52,6582,103,Vincent Perez,"
+Drama, History, War            ",0.01
+741,Middle School: The Worst Years of My Life,2016,6.1,51,6565,92,Steve Carr,"
+Comedy, Family            ",19.99
+742,This Beautiful Fantastic,2016,6.9,51,6485,100,Simon Aboud,"
+Comedy, Drama, Fantasy            ",0.04
+743,Science Fiction Volume One: The Osiris Child,2016,5.6,55,6456,95,Shane Abbess,"
+Action, Adventure, Drama            ",0.01
+744,Pee-wee's Big Holiday,2016,6.1,63,6454,90,John Lee,"
+Adventure, Comedy, Family            ",0.01
+745,Killing Ground,2016,5.8,59,6422,88,Damien Power,"
+Horror, Thriller            ",0.01
+746,Kono sekai no katasumi ni,2016,7.8,73,6381,129,Sunao Katabuchi,"
+Animation, Drama, History            ",0.01
+747,Hillary's America: The Secret History of the Democratic Party,2016,5.3,2,6306,106,"
+Dinesh D'Souza, 
+Bruce Schooley","
+Documentary, Biography, History            ",13.1
+748,Birth of the Dragon,2016,5.4,35,6198,95,George Nolfi,"
+Action, Biography, Drama            ",6.9
+749,La fille inconnue,2016,6.5,65,6196,113,"
+Jean-Pierre Dardenne, 
+Luc Dardenne","
+Crime, Drama, Mystery            ",0.15
+750,Mascots,2016,5.7,57,6170,89,Christopher Guest,"
+Comedy            ",0.01
+751,Little Men,2016,6.7,86,6165,85,Ira Sachs,"
+Drama            ",0.7
+752,Operation Avalanche,2016,6.0,69,6050,94,Matt Johnson,"
+Drama, Mystery, Thriller            ",0.06
+753,Term Life,2016,5.5,23,6026,93,Peter Billingsley,"
+Crime, Drama, Thriller            ",0.01
+754,The Comedian,2016,5.7,40,6001,120,Taylor Hackford,"
+Comedy, Drama            ",1.66
+755,A Kind of Murder,2016,5.3,50,5986,95,Andy Goddard,"
+Crime, Drama, Thriller            ",0.01
+756,Un homme à la hauteur,2016,6.3,48,5970,98,Laurent Tirard,"
+Comedy, Romance            ",0.01
+757,Buster's Mal Heart,2016,6.1,63,5920,96,Sarah Adina Smith,"
+Drama, Mystery, Thriller            ",0.07
+758,The Assignment,2016,4.6,34,5857,95,Walter Hill,"
+Action, Crime, Thriller            ",0.01
+759,Army of One,2016,5.1,43,5848,92,Larry Charles,"
+Adventure, Biography, Comedy            ",0.01
+760,Into the Inferno,2016,7.2,76,5760,104,Werner Herzog,"
+Documentary            ",0.01
+761,Kongens nei,2016,7.2,64,5747,133,Erik Poppe,"
+Biography, Drama, History            ",0.11
+762,Kollektivet,2016,6.4,60,5720,111,Thomas Vinterberg,"
+Drama            ",0.04
+763,Prevenge,2016,5.9,71,5662,88,Alice Lowe,"
+Comedy, Drama, Fantasy            ",0.01
+764,Teo-neol,2016,6.9,68,5634,126,Seong-hun Kim,"
+Action, Drama            ",0.01
+765,The Confirmation,2016,6.4,65,5544,101,Bob Nelson,"
+Comedy, Drama            ",0.01
+766,Here Alone,2016,5.6,59,5541,98,Rod Blackhurst,"
+Drama, Horror, Sci-Fi            ",0.01
+767,Barry,2016,5.8,72,5463,104,Vikram Gandhi,"
+Biography, Drama            ",0.01
+768,The Greasy Strangler,2016,5.7,58,5401,93,Jim Hosking,"
+Comedy, Horror            ",0.04
+769,Rupture,2016,4.8,35,5353,102,Steven Shainberg,"
+Horror, Sci-Fi, Thriller            ",0.01
+770,Carrie Pilby,2016,6.6,52,5294,98,Susan Johnson,"
+Comedy, Drama            ",0.02
+771,The Intervention,2016,6.1,57,5271,90,Clea DuVall,"
+Comedy, Drama            ",0.03
+772,The Secret Scripture,2016,6.7,37,5271,108,Jim Sheridan,"
+Drama, Romance            ",0.01
+773,Complete Unknown,2016,5.4,58,5260,91,Joshua Marston,"
+Drama, Mystery            ",0.17
+774,Almost Christmas,2016,6.1,55,5252,111,David E. Talbert,"
+Comedy, Drama            ",41.72
+775,"Life, Animated",2016,7.5,75,5129,92,Roger Ross Williams,"
+Documentary, Comedy, Drama            ",0.24
+776,Robinson Crusoe,2016,5.3,36,5124,91,"
+Vincent Kesteloot, 
+Ben Stassen, 
+Mimi Maynard","
+Animation, Adventure, Comedy            ",7.97
+777,Norman: The Moderate Rise and Tragic Fall of a New York Fixer,2016,6.1,75,5101,118,Joseph Cedar,"
+Drama, Thriller            ",3.81
+778,Beyond the Gates,2016,5.1,59,4925,84,Jackson Stewart,"
+Adventure, Horror            ",0.01
+779,Fuocoammare,2016,6.8,87,4916,114,Gianfranco Rosi,"
+Documentary            ",0.11
+780,Frank & Lola,2016,5.9,56,4854,88,Matthew Ross,"
+Crime, Drama, Romance            ",0.01
+781,SiREN,2016,5.3,54,4849,82,Gregg Bishop,"
+Fantasy, Horror            ",0.01
+782,Lavender,2016,5.3,46,4839,92,Ed Gass-Donnelly,"
+Drama, Thriller            ",0.01
+783,When the Bough Breaks,2016,5.0,28,4833,107,Jon Cassar,"
+Crime, Drama, Horror            ",29.7
+784,Sameblod,2016,7.3,79,4821,110,Amanda Kernell,"
+Drama, History            ",0.01
+785,The Bleeder,2016,6.5,68,4787,98,Philippe Falardeau,"
+Biography, Drama, Sport            ",0.32
+786,Suntan,2016,6.6,59,4782,104,Argyris Papadimitropoulos,"
+Drama            ",0.01
+787,The Hollow Point,2016,5.4,41,4766,97,Gonzalo López-Gallego,"
+Crime, Drama, Thriller            ",0.01
+788,Morris from America,2016,6.2,75,4735,91,Chad Hartigan,"
+Comedy, Drama, Romance            ",0.09
+789,Quand on a 17 ans,2016,7.2,83,4717,116,André Téchiné,"
+Drama, Romance            ",0.05
+790,Detour,2016,6.2,46,4700,97,Christopher Smith,"
+Action, Thriller            ",0.01
+791,Audrie & Daisy,2016,7.2,73,4674,95,"
+Bonni Cohen, 
+Jon Shenk","
+Documentary            ",0.01
+792,A Quiet Passion,2016,6.5,77,4643,125,Terence Davies,"
+Biography, Drama            ",1.86
+793,Mal de pierres,2016,6.7,40,4626,120,Nicole Garcia,"
+Drama, Romance            ",0.04
+794,LBJ,2016,6.5,54,4555,98,Rob Reiner,"
+Biography, Drama, History            ",2.47
+795,Realive,2016,5.9,59,4414,112,Mateo Gil,"
+Drama, Sci-Fi            ",0.01
+796,Ali and Nino,2016,7.0,50,4263,100,Asif Kapadia,"
+Drama, Romance, War            ",0.01
+797,David Lynch: The Art Life,2016,7.2,75,4257,88,"
+Rick Barnes, 
+Olivia Neergaard-Holm, 
+Jon Nguyen","
+Documentary, Biography            ",0.17
+798,Catfight,2016,5.8,66,4255,95,Onur Tukel,"
+Comedy, Drama            ",0.01
+799,Gimme Danger,2016,7.2,72,4177,108,Jim Jarmusch,"
+Documentary, Music            ",0.44
+800,Eshtebak,2016,7.5,78,4162,97,Mohamed Diab,"
+Drama, Thriller, War            ",0.02
+801,Holy Hell,2016,7.1,64,4102,100,Will Allen,"
+Documentary            ",0.02
+802,Rock Dog,2016,5.9,48,4100,90,Ash Brannon,"
+Animation, Adventure, Comedy            ",9.4
+803,Poesía Sin Fin,2016,7.6,78,4066,128,Alejandro Jodorowsky,"
+Biography, Drama, Fantasy            ",0.03
+804,(M)uchenik,2016,6.9,76,3976,118,Kirill Serebrennikov,"
+Drama            ",0.01
+805,In-cheon sang-ryuk jak-jeon,2016,6.2,50,3927,111,John H. Lee,"
+Action, Drama, History            ",1.02
+806,Miss Stevens,2016,6.6,65,3903,86,Julia Hart,"
+Comedy, Drama            ",0.01
+807,The Last Face,2016,4.8,16,3895,130,Sean Penn,"
+Drama            ",0.01
+808,Sacrifice,2016,5.3,23,3889,91,Peter A. Dowling,"
+Crime, Horror, Mystery            ",0.01
+809,Betting on Zero,2016,7.2,72,3886,99,Ted Braun,"
+Documentary            ",0.01
+810,Amateur Night,2016,5.0,38,3876,92,"
+Lisa Addario, 
+Joe Syracuse","
+Comedy            ",0.01
+811,Kicks,2016,6.4,69,3826,80,Justin Tipping,"
+Adventure, Drama            ",0.15
+812,One More Time with Feeling,2016,8.3,92,3793,113,Andrew Dominik,"
+Documentary, Music            ",0.01
+813,Vaxxed: From Cover-Up to Catastrophe,2016,5.2,24,3758,91,Andrew Wakefield,"
+Documentary            ",0.16
+814,Belgica,2016,6.7,63,3724,127,Felix van Groeningen,"
+Drama            ",0.01
+815,Hjartasteinn,2016,7.4,70,3653,129,Guðmundur Arnar Guðmundsson,"
+Drama, Romance            ",0.01
+816,Ma Loute,2016,6.0,66,3651,122,Bruno Dumont,"
+Comedy            ",0.11
+817,La región salvaje,2016,6.2,72,3638,98,Amat Escalante,"
+Drama, Horror, Sci-Fi            ",0.03
+818,Goldstone,2016,6.4,78,3607,110,Ivan Sen,"
+Crime, Thriller            ",0.09
+819,Sieranevada,2016,7.5,82,3605,173,Cristi Puiu,"
+Comedy, Drama            ",0.01
+820,Autumn Lights,2016,7.3,37,3579,98,Angad Aulakh,"
+Drama, Mystery            ",0.2
+821,Hymyilevä mies,2016,7.2,83,3557,92,Juho Kuosmanen,"
+Biography, Drama, Romance            ",0.01
+822,Tramps,2016,6.5,76,3553,82,Adam Leon,"
+Comedy, Romance            ",0.01
+823,Nocturama,2016,6.5,71,3551,130,Bertrand Bonello,"
+Drama, Thriller            ",0.03
+824,Voyage of Time: Life's Journey,2016,6.4,68,3540,90,Terrence Malick,"
+Documentary, Drama            ",0.01
+825,They're Watching,2016,5.6,39,3535,95,"
+Jay Lender, 
+Micah Wright","
+Comedy, Horror, Thriller            ",0.01
+826,Michael Moore in TrumpLand,2016,5.6,56,3534,73,Michael Moore,"
+Documentary            ",0.15
+827,Donald Trump's The Art of the Deal: The Movie,ovie,5.9,75,3496,50,Jeremy Konner,"
+Comedy            ",0.01
+828,Always Shine,2016,5.6,72,3484,85,Sophia Takal,"
+Drama, Horror, Mystery            ",0.01
+829,Mean Dreams,2016,6.3,64,3482,108,Nathan Morlando,"
+Thriller            ",0.01
+830,American Fable,2016,6.1,55,3475,96,Anne Hamilton,"
+Thriller            ",0.01
+831,Greater,2016,7.2,35,3469,130,David L. Hunt,"
+Biography, Family, Sport            ",1.99
+832,Dayu haitang,2016,7.1,72,3457,100,"
+Xuan Liang, 
+Chun Zhang","
+Animation, Adventure, Drama            ",0.01
+833,Abattoir,2016,4.4,40,3440,98,Darren Lynn Bousman,"
+Horror, Mystery, Thriller            ",0.01
+834,Kurîpî: Itsuwari no rinjin,2016,6.2,76,3401,130,Kiyoshi Kurosawa,"
+Horror, Mystery, Thriller            ",0.01
+835,Lost in the Sun,2016,6.0,34,3392,95,Trey Nelson,"
+Action, Drama, Thriller            ",0.01
+836,100 Streets,2016,5.7,44,3389,93,Jim O'Hanlon,"
+Drama            ",0.01
+837,Joshy,2016,5.8,62,3384,93,Jeff Baena,"
+Comedy            ",0.01
+838,Eloise,2016,4.6,15,3379,89,Robert Legato,"
+Horror, Mystery, Thriller            ",0.01
+839,Lovesong,2016,6.3,74,3363,84,So Yong Kim,"
+Drama, Romance            ",0.01
+840,The Devil and the Deep Blue Sea,2016,6.0,27,3359,106,Bill Purple,"
+Drama            ",0.01
+841,Score: A Film Music Documentary,2016,7.5,67,3322,93,Matt Schrader,"
+Documentary, Music            ",0.1
+842,For the Love of Spock,2016,7.6,74,3300,111,Adam Nimoy,"
+Documentary, Biography            ",0.01
+843,My Blind Brother,2016,6.0,60,3280,85,Sophie Goodhart,"
+Comedy, Drama, Romance            ",0.01
+844,Tie dao fei hu,2016,5.8,47,3266,124,Sheng Ding,"
+Action, Comedy, War            ",0.22
+845,In Dubious Battle,2016,6.1,43,3250,110,James Franco,"
+Drama            ",0.01
+846,Edge of Winter,2016,5.4,50,3209,89,Rob Connolly,"
+Drama, Thriller            ",0.01
+847,Tony Robbins: I Am Not Your Guru,2016,6.7,51,3155,115,Joe Berlinger,"
+Documentary            ",0.01
+848,Equity,2016,5.5,68,3154,100,Meera Menon,"
+Drama            ",1.6
+849,Priceless,2016,6.1,41,3144,97,Ben Smallbone,"
+Crime, Drama, Romance            ",1.5
+850,The Model,2016,5.8,58,3137,105,Mads Matthiesen,"
+Drama            ",0.01
+851,The Eagle Huntress,2016,7.5,72,3125,87,Otto Bell,"
+Documentary, Adventure, Sport            ",3.17
+852,The Perfect Match,2016,4.9,41,3103,96,Bille Woodruff,"
+Comedy, Romance            ",9.66
+853,Little Sister,2016,6.3,74,3095,91,Zach Clark,"
+Comedy, Drama            ",0.01
+854,Born in China,2016,7.2,57,3057,79,Chuan Lu,"
+Documentary            ",13.83
+855,One Piece Film: Gold,2016,7.3,43,3044,120,Hiroaki Miyamoto,"
+Animation, Action, Adventure            ",0.01
+856,Carnage Park,2016,4.9,48,3022,90,Mickey Keating,"
+Action, Crime, Horror            ",0.01
+857,Phantasm: Ravager,2016,5.0,48,3015,85,David Hartman,"
+Action, Fantasy, Horror            ",0.01
+858,The Transfiguration,2016,6.0,65,2962,97,Michael O'Shea,"
+Drama, Horror            ",0.02
+859,Bright Lights: Starring Carrie Fisher and Debbie Reynolds,ovie,8.0,78,2935,95,"
+Alexis Bloom, 
+Fisher Stevens","
+Documentary            ",0.01
+860,The Young Messiah,2016,5.6,33,2901,111,Cyrus Nowrasteh,"
+Drama, Fantasy            ",6.46
+861,The Pass,2016,6.5,66,2867,88,Ben A. Williams,"
+Drama, Romance            ",0.01
+862,Outlaws and Angels,2016,5.4,40,2865,120,JT Mollner,"
+Action, Adventure, Drama            ",0.01
+863,Tiszta szívvel,2016,7.1,65,2843,103,Attila Till,"
+Action, Comedy, Drama            ",0.02
+864,I'm Not Ashamed,2016,5.9,31,2840,112,Brian Baugh,"
+Biography, Drama            ",2.08
+865,Antibirth,2016,4.9,56,2789,94,Danny Perez,"
+Horror            ",0.01
+866,I Am Bolt,2016,7.1,64,2755,107,"
+Benjamin Turner, 
+Gabe Turner","
+Documentary, Biography, Sport            ",0.01
+867,Shelley,2016,5.2,62,2747,92,Ali Abbasi,"
+Drama, Horror            ",0.01
+868,A Billion Lives,2016,8.8,35,2721,95,Aaron Biebert,"
+Documentary, History, News            ",0.01
+869,The Curse of Sleeping Beauty,2016,4.3,27,2666,89,Pearry Reginald Teo,"
+Fantasy, Horror, Mystery            ",0.01
+870,Logan,2017,8.1,77,571179,137,James Mangold,"
+Action, Drama, Sci-Fi            ",226.28
+871,Thor: Ragnarok,2017,7.9,74,499486,130,Taika Waititi,"
+Action, Adventure, Comedy            ",315.06
+872,Guardians of the Galaxy Vol. 2,2017,7.6,67,496105,136,James Gunn,"
+Action, Adventure, Comedy            ",389.81
+873,Wonder Woman,2017,7.4,76,495236,141,Patty Jenkins,"
+Action, Adventure, Fantasy            ",412.56
+874,Dunkirk,2017,7.9,94,475402,106,Christopher Nolan,"
+Action, Drama, History            ",188.37
+875,Star Wars: Episode VIII - The Last Jedi,2017,7.1,85,469911,152,Rian Johnson,"
+Action, Adventure, Fantasy            ",620.18
+876,Spider-Man: Homecoming,2017,7.5,73,444518,133,Jon Watts,"
+Action, Adventure, Sci-Fi            ",334.2
+877,Get Out,2017,7.7,84,413199,104,Jordan Peele,"
+Horror, Mystery, Thriller            ",176.04
+878,Blade Runner 2049,2017,8.0,81,384870,164,Denis Villeneuve,"
+Action, Drama, Mystery            ",92.05
+879,Baby Driver,2017,7.6,86,375124,113,Edgar Wright,"
+Action, Crime, Drama            ",107.83
+880,It,2017,7.4,69,371965,135,Andy Muschietti,"
+Horror            ",327.48
+881,"Three Billboards Outside Ebbing, Missouri",2017,8.2,88,353278,115,Martin McDonagh,"
+Crime, Drama            ",54.51
+882,Justice League,2017,6.4,45,335026,120,Zack Snyder,"
+Action, Adventure, Fantasy            ",229.02
+883,The Shape of Water,2017,7.3,87,315359,123,Guillermo del Toro,"
+Adventure, Drama, Fantasy            ",63.86
+884,John Wick: Chapter 2,2017,7.5,75,304454,122,Chad Stahelski,"
+Action, Crime, Thriller            ",92.03
+885,Coco,2017,8.4,81,288446,105,"
+Lee Unkrich, 
+Adrian Molina","
+Animation, Adventure, Comedy            ",209.73
+886,Jumanji: Welcome to the Jungle,2017,7.0,58,249473,119,Jake Kasdan,"
+Action, Adventure, Comedy            ",404.52
+887,Beauty and the Beast,2017,7.2,65,242694,129,Bill Condon,"
+Family, Fantasy, Musical            ",504.01
+888,Kong: Skull Island,2017,6.6,62,242463,118,Jordan Vogt-Roberts,"
+Action, Adventure, Fantasy            ",168.05
+889,Kingsman: The Golden Circle,2017,6.8,44,235678,141,Matthew Vaughn,"
+Action, Adventure, Comedy            ",100.23
+890,Pirates of the Caribbean: Dead Men Tell No Tales,2017,6.6,39,232452,129,"
+Joachim Rønning, 
+Espen Sandberg","
+Action, Adventure, Fantasy            ",172.56
+891,Alien: Covenant,2017,6.4,65,230377,122,Ridley Scott,"
+Horror, Sci-Fi, Thriller            ",74.26
+892,War for the Planet of the Apes,2017,7.4,82,205149,140,Matt Reeves,"
+Action, Adventure, Drama            ",146.88
+893,The Greatest Showman,2017,7.6,48,203716,105,Michael Gracey,"
+Biography, Drama, Musical            ",174.34
+894,Life,2017,6.6,54,185531,104,Daniel Espinosa,"
+Horror, Sci-Fi, Thriller            ",30.23
+895,The Fate of the Furious,2017,6.7,56,183610,136,F. Gary Gray,"
+Action, Adventure, Thriller            ",226.01
+896,Lady Bird,2017,7.4,94,182355,94,Greta Gerwig,"
+Comedy, Drama            ",48.96
+897,Murder on the Orient Express,2017,6.5,52,181589,114,Kenneth Branagh,"
+Crime, Drama, Mystery            ",102.83
+898,Ghost in the Shell,2017,6.4,52,179276,107,Rupert Sanders,"
+Action, Drama, Sci-Fi            ",40.53
+899,Wind River,2017,7.7,73,172803,107,Taylor Sheridan,"
+Crime, Drama, Mystery            ",33.8
+900,King Arthur: Legend of the Sword,2017,6.8,41,171453,126,Guy Ritchie,"
+Action, Adventure, Drama            ",39.18
+901,The Hitman's Bodyguard,2017,6.9,47,164482,118,Patrick Hughes,"
+Action, Comedy, Thriller            ",75.47
+902,Mother!,2017,6.6,75,160686,121,Darren Aronofsky,"
+Drama, Horror, Mystery            ",17.8
+903,Call Me by Your Name,2017,7.9,93,158537,132,Luca Guadagnino,"
+Drama, Romance            ",18.1
+904,The Mummy,2017,5.5,34,157078,110,Alex Kurtzman,"
+Action, Adventure, Fantasy            ",80.1
+905,Atomic Blonde,2017,6.7,63,153620,115,David Leitch,"
+Action, Mystery, Thriller            ",51.57
+906,Bright,2017,6.4,29,150209,117,David Ayer,"
+Action, Crime, Fantasy            ",0.01
+907,"I, Tonya",2017,7.5,77,145840,120,Craig Gillespie,"
+Biography, Comedy, Drama            ",30.01
+908,Valerian and the City of a Thousand Planets,2017,6.5,51,142758,137,Luc Besson,"
+Action, Adventure, Fantasy            ",41.19
+909,Baywatch,2017,5.5,37,140870,116,Seth Gordon,"
+Action, Comedy, Crime            ",58.06
+910,Darkest Hour,2017,7.4,75,139414,125,Joe Wright,"
+Biography, Drama, History            ",56.44
+911,American Made,2017,7.2,65,134909,115,Doug Liman,"
+Action, Biography, Comedy            ",51.34
+912,Transformers: The Last Knight,2017,5.2,27,121176,154,Michael Bay,"
+Action, Adventure, Sci-Fi            ",130.17
+913,The Lego Batman Movie,2017,7.3,75,118406,104,Chris McKay,"
+Animation, Action, Comedy            ",175.75
+914,Wonder,2017,8.0,66,114309,113,Stephen Chbosky,"
+Drama, Family            ",132.42
+915,The Disaster Artist,2017,7.4,76,114242,104,James Franco,"
+Biography, Comedy, Drama            ",21.12
+916,The Dark Tower,2017,5.6,34,111912,95,Nikolaj Arcel,"
+Action, Adventure, Fantasy            ",50.7
+917,The Post,2017,7.2,83,110342,116,Steven Spielberg,"
+Biography, Drama, History            ",81.9
+918,Logan Lucky,2017,7.0,78,108219,118,Steven Soderbergh,"
+Comedy, Crime, Drama            ",27.78
+919,Molly's Game,2017,7.5,71,107801,140,Aaron Sorkin,"
+Biography, Crime, Drama            ",28.78
+920,The Big Sick,2017,7.6,86,105966,120,Michael Showalter,"
+Comedy, Drama, Romance            ",42.87
+921,T2 Trainspotting,2017,7.2,67,98748,117,Danny Boyle,"
+Drama            ",2.4
+922,The Boss Baby,2017,6.3,50,95381,97,Tom McGrath,"
+Animation, Adventure, Comedy            ",175.0
+923,Despicable Me 3,2017,6.3,49,95337,89,"
+Kyle Balda, 
+Pierre Coffin, 
+Eric Guillon","
+Animation, Adventure, Comedy            ",264.62
+924,Annabelle: Creation,2017,6.5,62,94855,109,David F. Sandberg,"
+Horror, Mystery, Thriller            ",102.09
+925,Power Rangers,2017,6.0,44,93967,124,Dean Israelite,"
+Action, Adventure, Sci-Fi            ",85.36
+926,The Killing of a Sacred Deer,2017,7.0,73,93084,121,Yorgos Lanthimos,"
+Drama, Mystery, Thriller            ",2.29
+927,Happy Death Day,2017,6.5,58,91398,96,Christopher Landon,"
+Horror, Mystery, Thriller            ",55.68
+928,Phantom Thread,2017,7.5,90,87939,130,Paul Thomas Anderson,"
+Drama, Romance            ",21.02
+929,What Happened to Monday,2017,6.9,47,87039,123,Tommy Wirkola,"
+Action, Crime, Drama            ",0.01
+930,Gifted,2017,7.6,60,84703,101,Marc Webb,"
+Drama            ",24.8
+931,The Foreigner,2017,7.0,55,83297,113,Martin Campbell,"
+Action, Thriller            ",34.39
+932,Fifty Shades Darker,2017,4.6,33,82840,118,James Foley,"
+Drama, Romance            ",114.38
+933,Geostorm,2017,5.3,21,79886,109,Dean Devlin,"
+Action, Sci-Fi, Thriller            ",33.7
+934,xXx: Return of Xander Cage,2017,5.2,42,78917,107,D.J. Caruso,"
+Action, Adventure, Thriller            ",44.9
+935,Downsizing,2017,5.7,63,78286,135,Alexander Payne,"
+Drama, Sci-Fi            ",24.45
+936,You Were Never Really Here,2017,6.8,84,74036,89,Lynne Ramsay,"
+Crime, Drama, Mystery            ",2.52
+937,The Florida Project,2017,7.6,92,73926,111,Sean Baker,"
+Drama            ",5.9
+938,The Circle,2017,5.3,43,73853,110,James Ponsoldt,"
+Drama, Sci-Fi, Thriller            ",20.48
+939,Okja,2017,7.3,75,73677,120,Joon-ho Bong,"
+Action, Adventure, Drama            ",0.01
+940,It Comes at Night,2017,6.2,78,70431,91,Trey Edward Shults,"
+Horror, Mystery            ",13.99
+941,Gerald's Game,2017,6.6,77,68259,103,Mike Flanagan,"
+Drama, Horror, Thriller            ",0.01
+942,Death Note,2017,4.5,43,67815,101,Adam Wingard,"
+Adventure, Crime, Drama            ",0.01
+943,Going in Style,2017,6.6,50,67514,96,Zach Braff,"
+Comedy, Crime            ",45.0
+944,The Death of Stalin,2017,7.2,88,65085,107,Armando Iannucci,"
+Comedy, Drama, History            ",8.04
+945,All the Money in the World,2017,6.8,72,61683,132,Ridley Scott,"
+Biography, Crime, Drama            ",25.11
+946,Cars 3,2017,6.8,59,61560,102,Brian Fee,"
+Animation, Adventure, Comedy            ",152.9
+947,Shot Caller,2017,7.3,59,60202,121,Ric Roman Waugh,"
+Crime, Drama, Thriller            ",0.01
+948,American Assassin,2017,6.2,45,58957,112,Michael Cuesta,"
+Action, Thriller            ",36.25
+949,Jigsaw,2017,5.8,39,58457,92,"
+Michael Spierig, 
+Peter Spierig","
+Horror, Mystery, Thriller            ",38.05
+950,The Mountain Between Us,2017,6.4,48,58023,112,Hany Abu-Assad,"
+Action, Adventure, Drama            ",30.35
+951,The Ritual,2017,6.3,57,57789,94,David Bruckner,"
+Horror, Mystery, Thriller            ",0.01
+952,A Dog's Purpose,2017,7.1,43,55589,100,Lasse Hallström,"
+Adventure, Comedy, Drama            ",64.51
+953,Hostiles,2017,7.2,65,55172,134,Scott Cooper,"
+Adventure, Drama, Western            ",29.82
+954,Good Time,2017,7.3,80,54217,101,"
+Benny Safdie, 
+Josh Safdie","
+Crime, Drama, Thriller            ",2.03
+955,Daddy's Home Two,2017,6.0,30,50261,100,Sean Anders,"
+Comedy            ",104.03
+956,The Snowman,2017,5.1,23,49183,119,Tomas Alfredson,"
+Crime, Drama, Mystery            ",6.67
+957,The Emoji Movie,2017,3.2,12,49095,86,Tony Leondis,"
+Animation, Adventure, Comedy            ",86.09
+958,Paddington 2,2017,7.8,88,47807,103,Paul King,"
+Adventure, Comedy, Family            ",40.44
+959,A Ghost Story,2017,6.8,84,47444,92,David Lowery,"
+Drama, Fantasy, Romance            ",1.6
+960,Brawl in Cell Block 99,2017,7.1,79,47159,132,S. Craig Zahler,"
+Action, Crime, Drama            ",0.01
+961,Only the Brave,2017,7.7,72,46786,134,Joseph Kosinski,"
+Action, Biography, Drama            ",18.34
+962,Pitch Perfect 3,2017,5.8,40,46279,93,Trish Sie,"
+Comedy, Music            ",104.9
+963,The Square,2017,7.2,73,45118,151,Ruben Östlund,"
+Comedy, Drama            ",1.5
+964,Battle of the Sexes,2017,6.7,73,44083,121,"
+Jonathan Dayton, 
+Valerie Faris","
+Biography, Comedy, Drama            ",12.64
+965,The Beguiled,2017,6.3,77,43967,93,Sofia Coppola,"
+Drama, Thriller            ",10.58
+966,The Space Between Us,2017,6.4,33,42179,120,Peter Chelsom,"
+Adventure, Drama, Romance            ",7.83
+967,Detroit,2017,7.3,77,41233,143,Kathryn Bigelow,"
+Crime, Drama, History            ",16.79
+968,Ferdinand,2017,6.7,58,41212,108,Carlos Saldanha,"
+Animation, Adventure, Comedy            ",84.41
+969,Loving Vincent,2017,7.8,62,41063,94,"
+Dorota Kobiela, 
+Hugh Welchman","
+Animation, Biography, Crime            ",6.74
+970,Rough Night,2017,5.2,51,40637,101,Lucia Aniello,"
+Comedy, Crime, Thriller            ",22.06
+971,47 Meters Down,2017,5.6,52,40202,89,Johannes Roberts,"
+Adventure, Drama, Horror            ",44.31
+972,Before I Fall,2017,6.4,58,39994,98,Ry Russo-Young,"
+Drama, Fantasy, Mystery            ",12.23
+973,I Don't Feel at Home in This World Anymore.,2017,6.9,75,39144,93,Macon Blair,"
+Comedy, Crime, Drama            ",0.01
+974,1922,2017,6.3,70,38537,102,Zak Hilditch,"
+Crime, Drama, Horror            ",0.01
+975,CHIPS,2017,6.0,28,37838,100,Dax Shepard,"
+Action, Comedy, Crime            ",18.59
+976,Jungle,2017,6.7,48,36700,115,Greg McLean,"
+Action, Adventure, Biography            ",0.01
+977,Fist Fight,2017,5.6,37,35663,91,Richie Keen,"
+Comedy            ",32.19
+978,War Machine,2017,6.0,56,35411,122,David Michôd,"
+Comedy, Drama, War            ",0.01
+979,Papillon,2017,7.1,51,35333,133,Michael Noer,"
+Adventure, Biography, Crime            ",2.34
+980,First Reformed,2017,7.1,85,35300,113,Paul Schrader,"
+Drama, Mystery, Thriller            ",3.45
+981,Rings,2017,4.5,25,34650,102,F. Javier Gutiérrez,"
+Drama, Horror, Mystery            ",27.78
+982,The House,2017,5.6,30,34580,88,Andrew Jay Cohen,"
+Comedy, Crime            ",25.48
+983,Flatliners,2017,5.2,27,34570,109,Niels Arden Oplev,"
+Drama, Horror, Mystery            ",16.87
+984,Mudbound,2017,7.4,85,34508,134,Dee Rees,"
+Drama, War            ",0.01
+985,Stronger,2017,7.0,76,34372,119,David Gordon Green,"
+Biography, Drama            ",4.21
+986,A Bad Moms Christmas,2017,5.5,42,33826,104,"
+Jon Lucas, 
+Scott Moore","
+Comedy            ",72.11
+987,To the Bone,2017,6.8,64,33625,107,Marti Noxon,"
+Drama            ",0.01
+988,The Zookeeper's Wife,2017,7.0,57,32658,127,Niki Caro,"
+Biography, Drama, History            ",17.45
+989,Suburbicon,2017,5.6,42,32119,105,George Clooney,"
+Comedy, Crime, Drama            ",5.78
+990,The Meyerowitz Stories (New and Selected),2017,6.9,79,30696,112,Noah Baumbach,"
+Comedy, Drama            ",0.01
+991,Snatched,2017,4.5,45,30509,90,Jonathan Levine,"
+Action, Adventure, Comedy            ",45.83
+992,Girls Trip,2017,6.2,71,30045,122,Malcolm D. Lee,"
+Adventure, Comedy, Drama            ",115.11
+993,Icarus,2017,7.9,68,29909,120,Bryan Fogel,"
+Documentary, Sport, Thriller            ",0.01
+994,The Upside,2017,6.8,46,29891,126,Neil Burger,"
+Comedy, Drama            ",108.25
+995,Kidnap,2017,5.9,44,29473,95,Luis Prieto,"
+Crime, Drama, Thriller            ",30.72
+996,Cargo,2017,6.3,65,28331,105,"
+Ben Howling, 
+Yolanda Ramke","
+Drama, Horror, Sci-Fi            ",0.01
+997,Revenge,2017,6.3,81,28017,108,Coralie Fargeat,"
+Action, Horror, Thriller            ",0.1
+998,Ingrid Goes West,2017,6.6,71,27830,98,Matt Spicer,"
+Comedy, Drama            ",3.02
+999,"Everything, Everything",2017,6.4,52,27768,96,Stella Meghie,"
+Drama, Romance            ",34.0
+1000,The Wife,2017,7.2,77,26888,99,Björn Runge,"
+Drama            ",9.6
+1001,The Shack,2017,6.3,32,26512,132,Stuart Hazeldine,"
+Drama, Fantasy            ",57.33
+1002,Sleepless,2017,5.6,34,26250,95,Baran bo Odar,"
+Action, Crime, Thriller            ",20.76
+1003,Thoroughbreds,2017,6.7,75,26200,92,Cory Finley,"
+Comedy, Crime, Drama            ",2.83
+1004,Victoria & Abdul,2017,6.8,58,25980,111,Stephen Frears,"
+Biography, Drama, History            ",22.25
+1005,The Discovery,2017,6.3,54,25003,102,Charlie McDowell,"
+Drama, Romance, Sci-Fi            ",0.01
+1006,Ghost Stories,2017,6.4,68,24487,98,"
+Jeremy Dyson, 
+Andy Nyman","
+Drama, Horror            ",0.14
+1007,Unlocked,2017,6.2,46,24367,98,Michael Apted,"
+Action, Drama, Mystery            ",0.01
+1008,The Glass Castle,2017,7.1,56,24309,127,Destin Daniel Cretton,"
+Biography, Drama            ",17.27
+1009,"Roman J. Israel, Esq.",2017,6.4,58,24204,122,Dan Gilroy,"
+Crime, Drama, Thriller            ",11.96
+1010,I Kill Giants,2017,6.2,74,24140,106,Anders Walter,"
+Drama, Fantasy, Thriller            ",0.01
+1011,Nelyubov,2017,7.7,86,24083,127,Andrey Zvyagintsev,"
+Drama            ",0.57
+1012,Home Again,2017,5.8,41,23375,97,Hallie Meyers-Shyer,"
+Comedy, Drama, Romance            ",27.02
+1013,Table 19,2017,5.8,40,23291,87,Jeffrey Blitz,"
+Comedy, Drama, Romance            ",3.61
+1014,The Endless,2017,6.5,80,22871,111,"
+Justin Benson, 
+Aaron Moorhead","
+Fantasy, Horror, Sci-Fi            ",0.27
+1015,The Ottoman Lieutenant,2017,6.6,26,22858,106,Joseph Ruben,"
+Drama, War            ",0.01
+1016,Aus dem Nichts,2017,7.1,65,22853,106,Fatih Akin,"
+Crime, Drama, Thriller            ",0.32
+1017,Captain Underpants: The First Epic Movie,2017,6.2,69,22382,89,David Soren,"
+Animation, Action, Comedy            ",73.92
+1018,Borg McEnroe,2017,7.0,63,21706,107,Janus Metz,"
+Biography, Drama, Sport            ",14.11
+1019,Thelma,2017,7.0,74,21426,116,Joachim Trier,"
+Drama, Fantasy, Horror            ",0.15
+1020,Goodbye Christopher Robin,2017,7.1,54,20887,107,Simon Curtis,"
+Biography, Drama            ",1.74
+1021,The Wall,2017,6.2,57,20723,88,Doug Liman,"
+Action, Drama, Thriller            ",1.8
+1022,Wonder Wheel,2017,6.2,45,20332,101,Woody Allen,"
+Drama            ",1.4
+1023,The Book of Henry,2017,6.6,31,20299,105,Colin Trevorrow,"
+Crime, Drama, Thriller            ",4.22
+1024,The Lego Ninjago Movie,2017,6.0,55,19519,101,"
+Charlie Bean, 
+Paul Fisher, 
+Bob Logan","
+Animation, Action, Adventure            ",59.28
+1025,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",2017,7.7,77,19504,94,Chris Smith,"
+Documentary            ",0.01
+1026,Teströl és lélekröl,2017,7.6,77,19411,116,Ildikó Enyedi,"
+Drama, Fantasy, Mystery            ",0.01
+1027,Disobedience,2017,6.6,74,19375,114,Sebastián Lelio,"
+Drama, Romance            ",3.48
+1028,Last Flag Flying,2017,6.9,65,19366,125,Richard Linklater,"
+Comedy, Drama, War            ",0.97
+1029,Megan Leavey,2017,7.1,66,19309,116,Gabriela Cowperthwaite,"
+Biography, Drama, War            ",13.41
+1030,Berlin Syndrome,2017,6.3,70,19007,116,Cate Shortland,"
+Drama, Horror, Mystery            ",0.03
+1031,All Eyez on Me,2017,5.8,38,18875,139,Benny Boom,"
+Biography, Drama, Music            ",44.92
+1032,Una Mujer Fantástica,2017,7.2,86,18668,104,Sebastián Lelio,"
+Drama            ",2.02
+1033,God's Own Country,2017,7.7,85,18589,104,Francis Lee,"
+Drama, Romance            ",0.34
+1034,Professor Marston and the Wonder Women,2017,7.1,68,18466,108,Angela Robinson,"
+Biography, Drama            ",1.58
+1035,Aftermath,2017,5.7,44,18375,94,Elliott Lester,"
+Drama, Thriller            ",0.01
+1036,The Bye Bye Man,2017,4.3,37,18163,96,Stacy Title,"
+Drama, Fantasy, Horror            ",22.38
+1037,Cult of Chucky,2017,5.2,69,17740,91,Don Mancini,"
+Comedy, Fantasy, Horror            ",0.01
+1038,Hagane no renkinjutsushi,2017,5.5,48,17535,135,Fumihiko Sori,"
+Action, Adventure, Fantasy            ",0.01
+1039,Marrowbone,2017,6.6,63,17344,110,Sergio G. Sánchez,"
+Drama, Horror, Thriller            ",0.01
+1040,iBoy,2017,6.0,50,17242,90,Adam Randall,"
+Action, Crime, Sci-Fi            ",0.01
+1041,Leatherface,2017,5.0,40,16780,90,"
+Alexandre Bustillo, 
+Julien Maury","
+Crime, Horror, Thriller            ",0.01
+1042,Mom and Dad,2017,5.5,59,16452,86,Brian Taylor,"
+Comedy, Horror, Thriller            ",0.01
+1043,The Little Hours,2017,5.8,69,15979,90,Jeff Baena,"
+Comedy, Romance            ",1.65
+1044,Smurfs: The Lost Village,2017,6.0,40,15930,90,Kelly Asbury,"
+Animation, Adventure, Comedy            ",45.02
+1045,Song to Song,2017,5.7,54,15846,129,Terrence Malick,"
+Drama, Music, Romance            ",0.44
+1046,My Cousin Rachel,2017,6.0,63,15752,106,Roger Michell,"
+Drama, Mystery, Romance            ",2.68
+1047,A Prayer Before Dawn,2017,6.9,76,15647,116,Jean-Stéphane Sauvaire,"
+Biography, Crime, Drama            ",0.01
+1048,Breathe,2017,7.1,51,15603,118,Andy Serkis,"
+Biography, Drama, Romance            ",0.49
+1049,Beyond Skyline,2017,5.3,46,15601,106,Liam O'Donnell,"
+Action, Adventure, Horror            ",0.99
+1050,Sand Castle,2017,6.3,45,15512,113,Fernando Coimbra,"
+Drama, War            ",0.01
+1051,Tulip Fever,2017,6.2,38,15492,105,Justin Chadwick,"
+Drama, History, Romance            ",2.43
+1052,Wish Upon,2017,5.0,32,15303,90,John R. Leonetti,"
+Drama, Fantasy, Horror            ",14.3
+1053,Lucky,2017,7.3,80,15113,88,John Carroll Lynch,"
+Comedy, Drama            ",0.96
+1054,Once Upon a Time in Venice,2017,5.3,28,15000,94,Mark Cullen,"
+Action, Comedy            ",0.01
+1055,Marshall,2017,7.2,66,14959,118,Reginald Hudlin,"
+Biography, Crime, Drama            ",10.05
+1056,The Breadwinner,2017,7.7,78,14720,94,Nora Twomey,"
+Animation, Drama, Family            ",0.31
+1057,Father Figures,2017,5.5,22,14720,113,Lawrence Sher,"
+Adventure, Comedy, Drama            ",17.5
+1058,6 Days,2017,6.2,36,14657,94,Toa Fraser,"
+Action, Drama, History            ",0.01
+1059,Super Dark Times,2017,6.6,75,14609,103,Kevin Phillips,"
+Crime, Drama, Horror            ",0.03
+1060,Loving Pablo,2017,6.3,42,14563,123,Fernando León de Aranoa,"
+Action, Biography, Crime            ",0.02
+1061,Naked,2017,5.4,36,14526,96,Michael Tiddes,"
+Comedy, Fantasy, Romance            ",0.01
+1062,Wheelman,2017,6.4,66,14385,82,Jeremy Rush,"
+Action, Crime, Mystery            ",0.01
+1063,The Party,2017,6.6,73,14066,71,Sally Potter,"
+Comedy, Drama            ",0.75
+1064,Crooked House,2017,6.3,59,13917,115,Gilles Paquet-Brenner,"
+Crime, Drama, Mystery            ",0.01
+1065,Brigsby Bear,2017,7.3,68,13846,97,Dave McCary,"
+Comedy, Drama            ",0.53
+1066,Unicorn Store,2017,5.5,44,13698,92,Brie Larson,"
+Comedy, Drama, Fantasy            ",0.01
+1067,Brad's Status,2017,6.5,71,13628,102,Mike White,"
+Comedy, Drama, Music            ",2.13
+1068,Creep 2,2017,6.4,75,13617,78,Patrick Brice,"
+Horror, Thriller            ",0.01
+1069,Rememory,2017,6.2,48,13423,111,Mark Palansky,"
+Drama, Mystery, Sci-Fi            ",0.01
+1070,Den 12. mann,2017,7.4,70,13017,135,Harald Zwart,"
+Drama, History, Thriller            ",0.01
+1071,My Friend Dahmer,2017,6.2,68,12531,107,Marc Meyers,"
+Drama            ",1.36
+1072,Mugen no jûnin,2017,6.8,72,12480,140,Takashi Miike,"
+Action, Drama            ",0.15
+1073,Sandy Wexler,2017,5.1,40,12317,130,Steven Brill,"
+Comedy            ",0.01
+1074,Mayhem,2017,6.3,62,12256,86,Joe Lynch,"
+Action, Comedy, Horror            ",0.01
+1075,Churchill,2017,6.3,44,12255,105,Jonathan Teplitzky,"
+Biography, Drama, History            ",1.24
+1076,How to Be a Latin Lover,2017,5.9,54,11971,115,Ken Marino,"
+Comedy, Drama            ",32.09
+1077,Unforgettable,2017,5.1,45,11736,100,Denise Di Novi,"
+Drama, Thriller            ",11.27
+1078,L'insulte,2017,7.7,72,11526,113,Ziad Doueiri,"
+Crime, Drama, Thriller            ",1.0
+1079,Amityville: The Awakening,2017,4.9,42,11160,85,Franck Khalfoun,"
+Horror, Thriller            ",0.01
+1080,Columbus,2017,7.2,89,11148,104,Kogonada,"
+Drama            ",1.02
+1081,First They Killed My Father,2017,7.2,72,10874,136,Angelina Jolie,"
+Biography, Drama, History            ",0.01
+1082,120 battements par minute,2017,7.5,84,10793,143,Robin Campillo,"
+Drama            ",0.13
+1083,Hangman,2017,5.2,31,10675,98,Johnny Martin,"
+Crime, Mystery, Thriller            ",0.01
+1084,Black Butterfly,2017,6.1,43,10639,93,Brian Goodman,"
+Mystery, Thriller            ",0.01
+1085,The Vault,2017,4.8,50,10598,91,Dan Bush,"
+Crime, Horror, Mystery            ",0.01
+1086,Happy End,2017,6.7,72,10535,107,Michael Haneke,"
+Drama            ",0.3
+1087,The Super,2017,5.9,47,10475,90,Stephan Rick,"
+Horror, Mystery, Thriller            ",0.01
+1088,The Layover,2017,4.7,15,10474,88,William H. Macy,"
+Comedy, Romance            ",0.01
+1089,24 Hours to Live,2017,5.7,37,10433,93,Brian Smrz,"
+Action, Sci-Fi, Thriller            ",0.01
+1090,Goon: Last of the Enforcers,2017,5.8,48,10368,101,Jay Baruchel,"
+Comedy, Sport            ",0.01
+1091,The Rider,2017,7.4,92,10360,104,Chloé Zhao,"
+Drama, Western            ",2.42
+1092,Thank You for Your Service,2017,6.5,68,10234,109,Jason Hall,"
+Biography, Drama, War            ",9.47
+1093,Gaga: Five Foot Two,2017,7.1,63,10067,100,Chris Moukarbel,"
+Documentary, Music            ",0.01
+1094,XX,2017,4.6,64,9922,80,"
+Roxanne Benjamin, 
+Karyn Kusama, 
+St. Vincent, 
+Jovanka Vuckovic","
+Horror            ",0.03
+1095,Chappaquiddick,2017,6.5,67,9880,106,John Curran,"
+Drama, History, Thriller            ",17.4
+1096,Beach Rats,2017,6.4,78,9778,98,Eliza Hittman,"
+Drama            ",0.47
+1097,Newness,2017,6.4,50,9751,117,Drake Doremus,"
+Drama, Romance            ",0.01
+1098,Taeksi woonjunsa,2017,7.8,69,9723,137,Hun Jang,"
+Action, Drama, History            ",1.53
+1099,Mark Felt: The Man Who Brought Down the White House,2017,6.4,49,9707,103,Peter Landesman,"
+Biography, Drama, History            ",0.77
+1100,The Man Who Invented Christmas,2017,7.0,60,9586,104,Bharat Nalluri,"
+Biography, Comedy, Drama            ",5.68
+1101,Aknyeo,2017,6.7,64,9532,129,Byung-gil Jung,"
+Action, Drama            ",0.03
+1102,Toivon tuolla puolen,2017,7.2,84,9207,100,Aki Kaurismäki,"
+Comedy, Drama            ",0.18
+1103,Killing Gunther,2017,4.7,53,9095,92,Taran Killam,"
+Action, Comedy            ",0.01
+1104,Mary Shelley,2017,6.4,49,9085,120,Haifaa Al-Mansour,"
+Biography, Drama, History            ",0.1
+1105,Wilson,2017,5.8,49,9077,94,Craig Johnson,"
+Comedy, Drama            ",0.65
+1106,Kodachrome,2017,6.8,57,9039,105,Mark Raso,"
+Drama            ",0.01
+1107,Meari to majo no hana,2017,6.8,75,9006,103,"
+Hiromasa Yonebayashi, 
+Giles New","
+Animation, Adventure, Family            ",2.42
+1108,The Only Living Boy in New York,2017,6.3,33,9002,89,Marc Webb,"
+Drama            ",0.62
+1109,Lean on Pete,2017,7.2,80,8902,121,Andrew Haigh,"
+Adventure, Drama            ",1.16
+1110,Voice from the Stone,2017,5.2,42,8767,94,Eric D. Howell,"
+Drama, Mystery, Thriller            ",0.01
+1111,Our Souls at Night,2017,6.9,69,8762,103,Ritesh Batra,"
+Drama, Romance            ",0.01
+1112,Patti Cake$,2017,6.8,67,8726,109,Geremy Jasper,"
+Drama, Music            ",0.8
+1113,Please Stand By,2017,6.7,49,8629,93,Ben Lewin,"
+Comedy, Drama            ",0.01
+1114,Visages villages,2017,7.9,94,8614,94,"
+JR, 
+Agnès Varda","
+Documentary            ",0.95
+1115,The Bookshop,2017,6.5,62,8446,113,Isabel Coixet,"
+Drama            ",1.59
+1116,L'amant double,2017,6.2,70,8411,107,François Ozon,"
+Drama, Romance, Thriller            ",0.17
+1117,Small Town Crime,2017,6.6,68,8388,91,"
+Eshom Nelms, 
+Ian Nelms","
+Crime, Mystery, Thriller            ",0.01
+1118,Wonderstruck,2017,6.2,71,8307,116,Todd Haynes,"
+Drama, Mystery            ",1.03
+1119,Hot Summer Nights,2017,6.4,44,8242,107,Elijah Bynum,"
+Comedy, Crime, Drama            ",0.01
+1120,Beatriz at Dinner,2017,6.0,68,8082,82,Miguel Arteta,"
+Comedy, Drama            ",7.12
+1121,The Dawn Wall,2017,8.1,81,8069,100,"
+Josh Lowell, 
+Peter Mortimer","
+Documentary, Adventure, Biography            ",0.07
+1122,First Kill,2017,4.9,39,7984,97,Steven C. Miller,"
+Action, Thriller            ",0.01
+1123,Der Hauptmann,2017,7.4,67,7952,118,Robert Schwentke,"
+Drama, History, War            ",0.11
+1124,The Children Act,2017,6.7,62,7951,105,Richard Eyre,"
+Drama            ",0.51
+1125,Acts of Vengeance,2017,5.7,49,7901,87,Isaac Florentine,"
+Action, Drama, Thriller            ",0.01
+1126,Bushwick,2017,5.2,44,7806,94,"
+Jonathan Milott, 
+Cary Murnion","
+Action, Adventure            ",0.01
+1127,Gong fu yu jia,2017,5.2,50,7697,107,Stanley Tong,"
+Action, Adventure, Comedy            ",0.36
+1128,How to Talk to Girls at Parties,2017,5.8,50,7695,102,John Cameron Mitchell,"
+Comedy, Music, Romance            ",0.08
+1129,Sidney Hall,2017,6.9,18,7580,119,Shawn Christensen,"
+Drama, Mystery, Romance            ",0.01
+1130,Beast,2017,6.8,74,7560,107,Michael Pearce,"
+Crime, Drama, Mystery            ",0.8
+1131,Renegades,2017,5.4,33,7402,106,Steven Quale,"
+Action, Adventure, Crime            ",0.01
+1132,The Polka King,2017,5.9,65,7360,95,Maya Forbes,"
+Biography, Comedy, Drama            ",0.01
+1133,The Pirates of Somalia,2017,6.8,54,7351,116,Bryan Buckley,"
+Biography, Drama            ",0.01
+1134,Kamera o tomeru na!,2017,7.7,89,7107,96,Shin'ichirô Ueda,"
+Comedy, Horror            ",0.01
+1135,Tragedy Girls,2017,6.0,58,7059,98,Tyler MacIntyre,"
+Comedy, Crime, Horror            ",0.06
+1136,Win It All,2017,6.2,77,7002,88,Joe Swanberg,"
+Comedy            ",0.01
+1137,The Hero,2017,6.5,61,6949,96,Brett Haley,"
+Drama, Romance            ",4.08
+1138,An Inconvenient Sequel: Truth to Power,2017,6.4,68,6926,98,"
+Bonni Cohen, 
+Jon Shenk","
+Documentary            ",3.5
+1139,November Criminals,2017,5.3,31,6902,107,Sacha Gervasi,"
+Crime, Drama, Mystery            ",0.01
+1140,Film Stars Don't Die in Liverpool,2017,6.7,65,6891,105,Paul McGuigan,"
+Biography, Drama, Romance            ",1.03
+1141,On Chesil Beach,2017,6.3,62,6822,110,Dominic Cooke,"
+Drama, Music, Romance            ",0.75
+1142,The Lodgers,2017,5.1,52,6704,92,Brian O'Malley,"
+Drama, Horror, Romance            ",0.01
+1143,The Dinner,2017,4.5,57,6639,120,Oren Moverman,"
+Crime, Drama, Thriller            ",1.32
+1144,The Case for Christ,2017,6.2,50,6618,112,Jon Gunn,"
+Biography, Drama            ",14.68
+1145,Rebel in the Rye,2017,6.6,46,6608,106,Danny Strong,"
+Biography, Drama, Romance            ",0.38
+1146,Bullet Head,2017,5.4,51,6601,93,Paul Solet,"
+Crime, Drama, Thriller            ",0.01
+1147,Ji qi zhi xue,2017,5.2,43,6585,109,Leo Zhang,"
+Action, Sci-Fi, Thriller            ",0.01
+1148,The Hunter's Prayer,2017,5.5,35,6551,91,Jonathan Mostow,"
+Action, Crime, Drama            ",0.01
+1149,The Last Word,2017,6.6,40,6434,108,Mark Pellington,"
+Comedy, Drama            ",1.78
+1150,Kill Switch,2017,4.8,31,6386,91,Tim Smit,"
+Action, Sci-Fi, Thriller            ",0.01
+1151,Jusqu'à la garde,2017,7.5,83,6377,93,Xavier Legrand,"
+Drama            ",0.08
+1152,Sweet Virginia,2017,6.2,72,6228,93,Jamie M. Dagg,"
+Drama, Thriller            ",0.01
+1153,Bokeh,2017,5.0,56,6135,92,"
+Geoffrey Orthwein, 
+Andrew Sullivan","
+Drama, Sci-Fi            ",0.01
+1154,The Cured,2017,5.5,57,5901,95,David Freyne,"
+Drama, Horror, Sci-Fi            ",0.02
+1155,Bomb City,2017,6.9,65,5897,95,Jameson Brooks,"
+Crime, Drama            ",0.06
+1156,Zhan lang II,2017,6.1,44,5842,123,Jing Wu,"
+Action, Drama, Thriller            ",2.72
+1157,The Nile Hilton Incident,2017,6.7,70,5815,111,Tarik Saleh,"
+Crime, Drama, Thriller            ",0.08
+1158,Sweet Country,2017,6.9,87,5802,113,Warwick Thornton,"
+Adventure, Crime, Drama            ",0.1
+1159,Diary of a Wimpy Kid: The Long Haul,2017,4.4,39,5798,91,David Bowers,"
+Comedy, Family            ",20.64
+1160,Journey's End,2017,6.6,73,5703,107,Saul Dibb,"
+Drama, War            ",0.16
+1161,Viceroy's House,2017,6.7,53,5683,106,Gurinder Chadha,"
+Biography, Drama, History            ",1.11
+1162,Submergence,2017,5.4,38,5683,112,Wim Wenders,"
+Drama, Romance, Thriller            ",0.01
+1163,Pyewacket,2017,5.8,56,5672,90,Adam MacDonald,"
+Drama, Horror, Thriller            ",0.01
+1164,Small Crimes,2017,5.8,60,5663,95,E.L. Katz,"
+Crime, Drama, Thriller            ",0.01
+1165,The Leisure Seeker,2017,6.7,45,5559,112,Paolo Virzì,"
+Adventure, Comedy, Drama            ",3.23
+1166,Get Me Roger Stone,2017,7.4,75,5481,92,"
+Dylan Bank, 
+Daniel DiMauro, 
+Morgan Pehme","
+Documentary, Biography            ",0.01
+1167,I Am Heath Ledger,2017,7.4,68,5403,90,"
+Adrian Buitenhuis, 
+Derik Murray","
+Documentary, Biography            ",0.01
+1168,All Nighter,2017,5.7,37,5376,86,Gavin Wiesen,"
+Comedy, Drama            ",0.01
+1169,Drone,2017,5.3,49,5374,91,Jason Bourque,"
+Thriller            ",0.01
+1170,Flower,2017,6.0,45,5324,90,Max Winkler,"
+Comedy, Drama            ",0.33
+1171,The Star,2017,6.1,42,5257,86,Timothy Reckart,"
+Animation, Adventure, Comedy            ",40.85
+1172,My Little Pony: The Movie,2017,6.1,39,5225,99,Jayson Thiessen,"
+Animation, Adventure, Comedy            ",21.89
+1173,The Incredible Jessica James,2017,6.5,72,5205,85,Jim Strouse,"
+Comedy            ",0.01
+1174,The Sense of an Ending,2017,6.3,61,5097,108,Ritesh Batra,"
+Drama, Mystery            ",1.24
+1175,Foxtrot,2017,7.4,88,5093,113,Samuel Maoz,"
+Drama            ",0.62
+1176,6 Below: Miracle on the Mountain,2017,5.7,40,5075,98,Scott Waugh,"
+Adventure, Biography, Drama            ",0.01
+1177,Just Getting Started,2017,4.4,21,4997,91,Ron Shelton,"
+Action, Comedy            ",6.07
+1178,Madame,2017,6.1,45,4947,91,Amanda Sthers,"
+Comedy, Drama, Romance            ",0.01
+1179,The Nut Job 2: Nutty by Nature,2017,5.4,36,4947,91,Cal Brunker,"
+Animation, Adventure, Comedy            ",28.37
+1180,Estiu 1993,2017,7.2,81,4853,97,Carla Simón,"
+Drama, Family            ",0.18
+1181,Phoenix Forgotten,2017,5.2,33,4832,87,Justin Barber,"
+Horror, Mystery, Sci-Fi            ",3.6
+1182,The Clapper,2017,5.1,21,4820,89,Dito Montiel,"
+Comedy            ",0.01
+1183,Walking Out,2017,5.8,79,4785,95,"
+Alex Smith, 
+Andrew J. Smith","
+Adventure, Drama, Mystery            ",0.1
+1184,Marjorie Prime,2017,6.3,82,4769,99,Michael Almereyda,"
+Drama, Mystery, Romance            ",0.18
+1185,Anna and the Apocalypse,2017,6.0,63,4698,93,John McPhail,"
+Comedy, Fantasy, Horror            ",0.55
+1186,Gunhamdo,2017,7.1,60,4635,132,Seung-wan Ryoo,"
+Action, Drama, History            ",0.01
+1187,Band Aid,2017,6.6,67,4627,91,Zoe Lister-Jones,"
+Comedy, Drama, Music            ",0.24
+1188,Same Kind of Different as Me,2017,6.5,47,4579,119,Michael Carney,"
+Biography, Drama            ",6.42
+1189,Un beau soleil intérieur,2017,6.0,79,4545,94,Claire Denis,"
+Comedy, Drama, Romance            ",0.87
+1190,Tom of Finland,2017,6.8,56,4517,117,Dome Karukoski,"
+Biography, Drama            ",0.38
+1191,Le jeune Karl Marx,2017,6.6,62,4492,118,Raoul Peck,"
+Biography, Drama, History            ",0.13
+1192,Dave Made a Maze,2017,6.2,60,4380,80,Bill Watterson,"
+Adventure, Comedy, Fantasy            ",0.03
+1193,Finding Your Feet,2017,6.7,53,4215,111,Richard Loncraine,"
+Comedy, Drama, Music            ",1.42
+1194,Casting JonBenet,2017,6.1,74,4153,80,Kitty Green,"
+Documentary            ",0.01
+1195,Zama,2017,6.8,89,4140,115,Lucrecia Martel,"
+Drama            ",0.2
+1196,The Trip to Spain,2017,6.6,66,4086,108,Michael Winterbottom,"
+Comedy, Drama            ",1.16
+1197,Sandome no satsujin,2017,6.7,68,4081,124,Hirokazu Koreeda,"
+Crime, Drama, Mystery            ",0.09
+1198,Woman Walks Ahead,2017,6.6,51,4061,101,Susanna White,"
+Biography, Drama, History            ",0.06
+1199,Final Portrait,2017,6.2,70,4043,90,Stanley Tucci,"
+Biography, Comedy, Drama            ",0.46
+1200,The Ballad of Lefty Brown,2017,6.2,64,4032,111,Jared Moshe,"
+Action, Drama, Western            ",0.01
+1201,Fun Mom Dinner,2017,5.2,46,4008,81,Alethea Jones,"
+Comedy            ",0.01
+1202,D'après une histoire vraie,2017,5.7,43,3957,100,Roman Polanski,"
+Drama, Mystery, Thriller            ",0.01
+1203,Stratton,2017,4.8,26,3862,94,Simon West,"
+Action, Thriller            ",0.01
+1204,Shock and Awe,2017,6.0,47,3836,90,Rob Reiner,"
+Biography, Drama, History            ",0.08
+1205,Pilgrimage,2017,5.8,60,3771,96,Brendan Muldowney,"
+Adventure, Drama, Mystery            ",0.01
+1206,Whitney: Can I Be Me,2017,6.7,64,3717,105,"
+Nick Broomfield, 
+Rudi Dolezal","
+Documentary, Music            ",0.01
+1207,Gemini,2017,5.4,71,3668,93,Aaron Katz,"
+Crime, Drama, Mystery            ",0.2
+1208,Bodied,2017,7.2,75,3652,120,Joseph Kahn,"
+Comedy, Drama, Music            ",0.11
+1209,Le Redoutable,2017,6.6,55,3650,107,Michel Hazanavicius,"
+Biography, Comedy, Drama            ",0.08
+1210,The Most Hated Woman in America,2017,6.1,41,3622,91,Tommy O'Haver,"
+Biography, Drama, History            ",0.01
+1211,Landline,2017,6.4,66,3615,97,Gillian Robespierre,"
+Comedy, Drama            ",0.94
+1212,Un sac de billes,2017,7.3,55,3579,110,Christian Duguay,"
+Drama            ",0.41
+1213,Arsenal,2017,4.0,25,3574,97,Steven C. Miller,"
+Action, Crime, Thriller            ",0.01
+1214,Ghost House,2017,4.7,33,3563,89,Rich Ragsdale,"
+Horror, Thriller            ",0.01
+1215,This Is Your Death,2017,5.6,35,3527,104,Giancarlo Esposito,"
+Drama, Game-Show, Thriller            ",0.01
+1216,Todos queremos a alguien,2017,6.5,74,3526,102,Catalina Aguilar Mastretta,"
+Comedy, Romance            ",1.91
+1217,Voyeur,2017,6.2,59,3515,95,"
+Myles Kane, 
+Josh Koury","
+Documentary            ",0.01
+1218,One of Us,2017,7.1,79,3508,95,"
+Heidi Ewing, 
+Rachel Grady","
+Documentary            ",0.01
+1219,Downrange,2017,5.4,42,3500,90,Ryûhei Kitamura,"
+Action, Horror, Thriller            ",0.01
+1220,Temple,2017,3.6,23,3493,78,Michael Barrett,"
+Adventure, Drama, Horror            ",0.01
+1221,Tyler Perry's Boo 2! A Madea Halloween,2017,3.8,17,3483,101,Tyler Perry,"
+Comedy, Drama, Horror            ",47.32
+1222,68 Kill,2017,6.0,56,3479,93,Trent Haaga,"
+Comedy, Crime, Romance            ",0.01
+1223,Jackals,2017,5.3,33,3398,85,Kevin Greutert,"
+Horror, Thriller            ",0.01
+1224,Dear Dictator,2017,5.0,44,3391,90,"
+Lisa Addario, 
+Joe Syracuse","
+Comedy            ",0.01
+1225,Hampstead,2017,5.9,53,3328,102,Joel Hopkins,"
+Comedy, Drama, Romance            ",0.14
+1226,El autor,2017,6.5,58,3302,112,Manuel Martín Cuenca,"
+Comedy, Drama            ",0.01
+1227,Ali's Wedding,2017,6.9,64,3302,110,Jeffrey Walker,"
+Comedy, Drama, Romance            ",0.01
+1228,Chasing Coral,2017,8.1,86,3249,93,Jeff Orlowski,"
+Documentary            ",0.01
+1229,"I Love You, Daddy",2017,6.3,56,3244,123,Louis C.K.,"
+Comedy, Drama            ",0.01
+1230,Hva vil folk si,2017,7.4,69,3222,106,Iram Haq,"
+Drama            ",0.04
+1231,Take Me,2017,6.1,56,3222,83,Pat Healy,"
+Comedy, Crime            ",0.01
+1232,Ce qui nous lie,2017,6.9,58,3213,113,Cédric Klapisch,"
+Comedy, Drama            ",0.26
+1233,Le Fidèle,2017,6.4,50,3191,130,Michaël R. Roskam,"
+Crime, Drama, Romance            ",0.05
+1234,Permission,2017,5.3,62,3179,96,Brian Crano,"
+Comedy, Drama, Romance            ",0.01
+1235,The Cakemaker,2017,7.2,74,3179,113,Ofir Raul Graizer,"
+Drama            ",0.88
+1236,Jane,2017,7.8,87,3175,90,Brett Morgen,"
+Documentary, Biography            ",1.72
+1237,Pokot,2017,6.3,61,3175,128,"
+Agnieszka Holland, 
+Kasia Adamik","
+Crime, Drama, Mystery            ",0.01
+1238,Nobody Speak: Trials of the Free Press,2017,6.5,68,3141,95,Brian Knappenberger,"
+Documentary            ",0.01
+1239,Bitter Harvest,2017,6.1,34,3141,103,George Mendeluk,"
+Drama, Romance, War            ",0.56
+1240,The Outcasts,2017,5.5,47,3139,95,Peter Hutchings,"
+Comedy            ",0.01
+1241,Novitiate,2017,6.6,73,3112,123,Maggie Betts,"
+Drama            ",0.58
+1242,Devil's Gate,2017,5.1,37,3070,94,Clay Staub,"
+Horror, Sci-Fi, Thriller            ",0.01
+1243,Blind,2017,5.8,36,3045,98,Michael Mailer,"
+Drama, Romance            ",0.01
+1244,The Hippopotamus,2017,6.4,46,3004,89,John Jencks,"
+Comedy            ",0.01
+1245,City of Ghosts,2017,7.4,86,2986,92,Matthew Heineman,"
+Documentary, War            ",0.13
+1246,The Bachelors,2017,6.8,54,2950,99,Kurt Voelker,"
+Comedy, Drama            ",0.01
+1247,Bad Match,2017,5.5,56,2931,90,David Chirchirillo,"
+Thriller            ",0.01
+1248,Strong Island,2017,6.4,86,2928,107,Yance Ford,"
+Documentary            ",0.01
+1249,The Farthest,2017,8.1,87,2927,121,Emer Reynolds,"
+Documentary, History            ",0.01
+1250,Still/Born,2017,5.4,63,2878,87,Brandon Christensen,"
+Horror, Thriller            ",0.01
+1251,The Lovers,2017,6.1,76,2835,97,Azazel Jacobs,"
+Comedy, Drama, Romance            ",2.19
+1252,Journeyman,2017,7.1,72,2826,92,Paddy Considine,"
+Drama, Sport            ",0.01
+1253,Dog Years,2017,6.9,46,2765,94,Adam Rifkin,"
+Drama            ",0.01
+1254,Western,2017,7.0,81,2719,121,Valeska Grisebach,"
+Drama            ",0.04
+1255,Euphoria,2017,5.8,32,2673,104,Lisa Langseth,"
+Adventure, Drama, Mystery            ",0.01
+1256,9/11,2017,4.1,20,2663,90,Martin Guigui,"
+Drama            ",0.01
+1257,Mountain,2017,7.2,82,2662,74,Jennifer Peedom,"
+Documentary            ",0.24
+1258,November,2017,7.2,79,2632,115,Rainer Sarnet,"
+Drama, Fantasy, Horror            ",0.02
+1259,Undir trénu,2017,6.9,75,2626,89,Hafsteinn Gunnar Sigurðsson,"
+Comedy, Drama, Mystery            ",0.07
+1260,LA 92,2017,8.2,66,2588,114,"
+Daniel Lindsay, 
+T.J. Martin","
+Documentary, History            ",0.01
+1261,The Yellow Birds,2017,5.7,56,2586,94,Alexandre Moors,"
+Drama, War            ",0.01
+1262,Avengers: Infinity War,2018,8.5,68,694750,149,"
+Anthony Russo, 
+Joe Russo","
+Action, Adventure, Sci-Fi            ",678.82
+1263,Black Panther,2018,7.3,88,532002,134,Ryan Coogler,"
+Action, Adventure, Sci-Fi            ",700.06
+1264,Deadpool 2,2018,7.7,66,406484,119,David Leitch,"
+Action, Adventure, Comedy            ",324.59
+1265,Bohemian Rhapsody,2018,8.0,49,368111,134,Bryan Singer,"
+Biography, Drama, Music            ",216.43
+1266,A Quiet Place,2018,7.6,82,315816,90,John Krasinski,"
+Drama, Horror, Sci-Fi            ",188.02
+1267,Ready Player One,2018,7.5,64,310905,140,Steven Spielberg,"
+Action, Adventure, Sci-Fi            ",137.69
+1268,Venom,2018,6.7,35,295004,112,Ruben Fleischer,"
+Action, Sci-Fi, Thriller            ",213.52
+1269,Aquaman,2018,7.1,55,282041,143,James Wan,"
+Action, Adventure, Fantasy            ",335.06
+1270,A Star Is Born,2018,7.7,88,266615,136,Bradley Cooper,"
+Drama, Music, Romance            ",215.29
+1271,Ant-Man and the Wasp,2018,7.1,70,255191,118,Peyton Reed,"
+Action, Adventure, Comedy            ",216.65
+1272,Spider-Man: Into the Spider-Verse,2018,8.5,87,242991,117,"
+Bob Persichetti, 
+Peter Ramsey, 
+Rodney Rothman","
+Animation, Action, Adventure            ",190.24
+1273,Mission: Impossible - Fallout,2018,7.8,86,242072,147,Christopher McQuarrie,"
+Action, Adventure, Thriller            ",220.16
+1274,Annihilation,2018,6.9,79,234911,115,Alex Garland,"
+Adventure, Drama, Horror            ",32.73
+1275,Solo: A Star Wars Story,2018,7.0,62,232753,135,Ron Howard,"
+Action, Adventure, Fantasy            ",213.77
+1276,Bird Box,2018,6.6,51,228368,124,Susanne Bier,"
+Drama, Horror, Sci-Fi            ",0.01
+1277,Green Book,2018,8.2,69,228363,130,Peter Farrelly,"
+Biography, Comedy, Drama            ",85.08
+1278,Jurassic World: Fallen Kingdom,2018,6.2,51,225758,128,J.A. Bayona,"
+Action, Adventure, Sci-Fi            ",417.72
+1279,Incredibles 2,2018,7.7,80,211571,118,Brad Bird,"
+Animation, Action, Adventure            ",608.58
+1280,Fantastic Beasts: The Crimes of Grindelwald,2018,6.6,52,172774,134,David Yates,"
+Adventure, Family, Fantasy            ",159.56
+1281,Game Night,2018,6.9,66,168159,100,"
+John Francis Daley, 
+Jonathan Goldstein","
+Action, Comedy, Crime            ",69.0
+1282,Tomb Raider,2018,6.3,48,167099,119,Roar Uthaug,"
+Action, Adventure, Fantasy            ",57.42
+1283,Hereditary,2018,7.3,87,164384,127,Ari Aster,"
+Drama, Horror, Mystery            ",44.07
+1284,BlacKkKlansman,2018,7.5,83,158493,135,Spike Lee,"
+Biography, Crime, Drama            ",48.69
+1285,Ocean's Eight,2018,6.2,61,150024,110,Gary Ross,"
+Action, Comedy, Crime            ",139.38
+1286,Red Sparrow,2018,6.6,53,140406,140,Francis Lawrence,"
+Action, Drama, Thriller            ",46.87
+1287,First Man,2018,7.3,84,129637,141,Damien Chazelle,"
+Biography, Drama, History            ",44.94
+1288,The Favourite,2018,7.6,90,124814,119,Yorgos Lanthimos,"
+Biography, Drama, History            ",34.24
+1289,The Meg,2018,5.7,46,121193,113,Jon Turteltaub,"
+Action, Horror, Sci-Fi            ",143.01
+1290,Rampage,2018,6.1,45,119736,107,Brad Peyton,"
+Action, Adventure, Sci-Fi            ",99.35
+1291,Isle of Dogs,2018,7.9,82,112190,101,Wes Anderson,"
+Animation, Adventure, Comedy            ",32.02
+1292,Upgrade,2018,7.5,67,111240,100,Leigh Whannell,"
+Action, Sci-Fi, Thriller            ",11.87
+1293,Roma,2018,7.8,96,110976,135,Alfonso Cuarón,"
+Drama            ",0.01
+1294,Searching,2018,7.7,71,105462,102,Aneesh Chaganty,"
+Drama, Mystery, Thriller            ",26.02
+1295,Crazy Rich Asians,2018,7.0,74,104445,120,Jon M. Chu,"
+Comedy, Drama, Romance            ",174.53
+1296,The Equalizer 2,2018,6.7,50,103241,121,Antoine Fuqua,"
+Action, Crime, Thriller            ",102.08
+1297,Bumblebee,2018,6.8,66,101938,114,Travis Knight,"
+Action, Adventure, Sci-Fi            ",127.2
+1298,Sicario: Day of the Soldado,2018,7.1,61,99798,122,Stefano Sollima,"
+Action, Crime, Drama            ",50.07
+1299,The Predator,2018,5.4,48,98803,107,Shane Black,"
+Action, Adventure, Sci-Fi            ",51.02
+1300,Ralph Breaks the Internet,2018,7.1,71,96805,112,"
+Phil Johnston, 
+Rich Moore","
+Animation, Adventure, Comedy            ",201.09
+1301,Bad Times at the El Royale,2018,7.1,60,95994,141,Drew Goddard,"
+Crime, Drama, Mystery            ",17.84
+1302,The Nun,2018,5.4,46,95921,96,Corin Hardy,"
+Horror, Mystery, Thriller            ",117.44
+1303,Halloween,2018,6.6,67,93897,106,David Gordon Green,"
+Horror, Thriller            ",159.34
+1304,Maze Runner: The Death Cure,2018,6.2,50,93772,143,Wes Ball,"
+Action, Sci-Fi, Thriller            ",58.03
+1305,The Ballad of Buster Scruggs,2018,7.3,79,91782,133,"
+Ethan Coen, 
+Joel Coen","
+Comedy, Drama, Musical            ",0.01
+1306,Pacific Rim: Uprising,2018,5.6,44,91669,111,Steven S. DeKnight,"
+Action, Adventure, Sci-Fi            ",59.19
+1307,A Simple Favor,2018,6.8,67,89980,117,Paul Feig,"
+Comedy, Crime, Drama            ",53.54
+1308,Tag,2018,6.5,56,89976,100,Jeff Tomsic,"
+Comedy            ",54.55
+1309,The Commuter,2018,6.3,56,85640,105,Jaume Collet-Serra,"
+Action, Mystery, Thriller            ",36.34
+1310,Skyscraper,2018,5.8,51,85104,102,Rawson Marshall Thurber,"
+Action, Adventure, Thriller            ",67.8
+1311,The Cloverfield Paradox,2018,5.5,37,84686,102,Julius Onah,"
+Drama, Horror, Mystery            ",0.01
+1312,"Love, Simon",2018,7.6,72,84050,110,Greg Berlanti,"
+Comedy, Drama, Romance            ",40.83
+1313,Vice,2018,7.2,61,82076,132,Adam McKay,"
+Biography, Comedy, Drama            ",47.84
+1314,Creed II,2018,7.2,66,78704,130,Steven Caple Jr.,"
+Drama, Sport            ",115.72
+1315,Mortal Engines,2018,6.1,44,75682,128,Christian Rivers,"
+Action, Adventure, Fantasy            ",15.95
+1316,Den of Thieves,2018,7.0,49,71713,140,Christian Gudegast,"
+Action, Crime, Drama            ",44.95
+1317,The Mule,2018,7.1,58,67703,116,Clint Eastwood,"
+Crime, Drama, Thriller            ",103.8
+1318,Widows,2018,6.9,84,66684,129,Steve McQueen,"
+Crime, Drama, Thriller            ",42.4
+1319,To All the Boys I've Loved Before,2018,7.2,64,65810,99,Susan Johnson,"
+Drama, Romance            ",0.01
+1320,Mamma Mia! Here We Go Again,2018,6.7,60,63242,114,Ol Parker,"
+Comedy, Musical, Romance            ",120.63
+1321,Overlord,2018,6.7,60,61226,110,Julius Avery,"
+Action, Adventure, Horror            ",21.7
+1322,Blockers,2018,6.2,69,59113,102,Kay Cannon,"
+Comedy            ",59.84
+1323,Mary Poppins Returns,2018,6.8,66,58083,130,Rob Marshall,"
+Comedy, Family, Fantasy            ",171.96
+1324,Christopher Robin,2018,7.3,60,55791,104,Marc Forster,"
+Adventure, Comedy, Drama            ",99.22
+1325,The Spy Who Dumped Me,2018,6.0,52,53042,117,Susanna Fogel,"
+Action, Adventure, Comedy            ",33.56
+1326,Instant Family,2018,7.3,57,52335,118,Sean Anders,"
+Comedy, Drama            ",67.36
+1327,Death Wish,2018,6.4,31,52156,107,Eli Roth,"
+Action, Crime, Drama            ",34.02
+1328,12 Strong,2018,6.6,54,51996,130,Nicolai Fuglsig,"
+Action, Drama, History            ",45.5
+1329,Mile 22,2018,6.1,38,51328,94,Peter Berg,"
+Action, Adventure, Thriller            ",36.11
+1330,Johnny English Strikes Again,2018,6.2,39,49817,89,David Kerr,"
+Action, Adventure, Comedy            ",4.28
+1331,Mowgli,2018,6.5,51,47123,104,Andy Serkis,"
+Adventure, Drama, Fantasy            ",0.01
+1332,Outlaw King,2018,6.9,59,46709,121,David Mackenzie,"
+Action, Biography, Drama            ",0.01
+1333,Mandy,2018,6.6,81,46585,121,Panos Cosmatos,"
+Action, Fantasy, Horror            ",1.21
+1334,Robin Hood,2018,5.3,32,46326,116,Otto Bathurst,"
+Action, Adventure, Thriller            ",30.82
+1335,Eighth Grade,2018,7.5,89,46069,93,Bo Burnham,"
+Comedy, Drama            ",13.54
+1336,Fifty Shades Freed,2018,4.5,31,45130,105,James Foley,"
+Drama, Romance, Thriller            ",100.41
+1337,Hotel Transylvania 3: Summer Vacation,2018,6.3,54,44312,97,Genndy Tartakovsky,"
+Animation, Adventure, Comedy            ",167.51
+1338,Alpha,2018,6.7,63,44229,96,Albert Hughes,"
+Adventure, Drama, Family            ",35.85
+1339,Insidious: The Last Key,2018,5.7,49,43638,103,Adam Robitel,"
+Horror, Mystery, Thriller            ",67.35
+1340,The First Purge,2018,5.1,54,43461,98,Gerard McMurray,"
+Action, Horror, Sci-Fi            ",69.09
+1341,Sorry to Bother You,2018,7.0,80,43193,111,Boots Riley,"
+Comedy, Fantasy, Sci-Fi            ",17.49
+1342,Tully,2018,7.0,75,42714,95,Jason Reitman,"
+Comedy, Drama, Mystery            ",9.23
+1343,Suspiria,2018,6.8,64,41475,152,Luca Guadagnino,"
+Fantasy, Horror, Mystery            ",2.47
+1344,I Feel Pretty,2018,5.5,48,41195,110,"
+Abby Kohn, 
+Marc Silverstein","
+Comedy, Romance            ",48.8
+1345,The House That Jack Built,2018,6.8,42,39213,152,Lars von Trier,"
+Crime, Drama, Horror            ",0.09
+1346,Extinction,2018,5.8,40,38321,95,Ben Young,"
+Action, Drama, Sci-Fi            ",0.01
+1347,Peppermint,2018,6.5,29,38262,101,Pierre Morel,"
+Action, Drama, Thriller            ",35.42
+1348,How It Ends,2018,5.0,36,37234,113,David M. Rosenthal,"
+Action, Adventure, Drama            ",0.01
+1349,Hunter Killer,2018,6.6,43,37127,122,Donovan Marsh,"
+Action, Thriller            ",15.77
+1350,Free Solo,2018,8.2,83,36147,100,"
+Jimmy Chin, 
+Elizabeth Chai Vasarhelyi","
+Documentary, Sport            ",17.54
+1351,Adrift,2018,6.6,56,36085,96,Baltasar Kormákur,"
+Action, Adventure, Biography            ",31.45
+1352,A Wrinkle in Time,2018,4.2,53,35716,109,Ava DuVernay,"
+Adventure, Family, Fantasy            ",100.48
+1353,Leave No Trace,2018,7.2,88,35699,109,Debra Granik,"
+Drama            ",6.05
+1354,When We First Met,2018,6.4,36,35594,97,Ari Sandel,"
+Comedy, Fantasy, Romance            ",0.01
+1355,The Christmas Chronicles,2018,7.1,52,35566,104,Clay Kaytis,"
+Adventure, Comedy, Family            ",0.01
+1356,Les frères Sisters,2018,7.0,78,35399,122,Jacques Audiard,"
+Comedy, Crime, Drama            ",3.14
+1357,Zimna wojna,2018,7.6,90,35325,89,Pawel Pawlikowski,"
+Drama, History, Music            ",4.57
+1358,Truth or Dare,2018,5.2,35,35051,100,Jeff Wadlow,"
+Horror, Thriller            ",40.72
+1359,The House with a Clock in Its Walls,2018,6.0,57,34884,105,Eli Roth,"
+Comedy, Fantasy, Horror            ",68.55
+1360,Manbiki kazoku,2018,8.0,93,34808,121,Hirokazu Koreeda,"
+Crime, Drama            ",3.31
+1361,Set It Up,2018,6.5,62,33429,105,Claire Scanlon,"
+Comedy, Romance            ",0.01
+1362,Unsane,2018,6.4,63,33121,98,Steven Soderbergh,"
+Drama, Horror, Mystery            ",7.73
+1363,Beautiful Boy,2018,7.3,62,33103,120,Felix van Groeningen,"
+Biography, Drama            ",7.65
+1364,Hotel Artemis,2018,6.1,58,32887,94,Drew Pearce,"
+Action, Drama, Sci-Fi            ",6.71
+1365,Can You Ever Forgive Me?,2018,7.1,87,32540,106,Marielle Heller,"
+Biography, Comedy, Crime            ",8.8
+1366,The Grinch,2018,6.3,51,32020,85,"
+Yarrow Cheney, 
+Scott Mosier","
+Animation, Family, Fantasy            ",270.62
+1367,Apostle,2018,6.3,62,31502,130,Gareth Evans,"
+Drama, Fantasy, Horror            ",0.01
+1368,The Girl in the Spider's Web,2018,6.1,43,30828,115,Fede Alvarez,"
+Action, Crime, Drama            ",14.84
+1369,American Animals,2018,7.0,68,30498,116,Bart Layton,"
+Biography, Crime, Drama            ",2.86
+1370,Anon,2018,6.1,54,30116,100,Andrew Niccol,"
+Sci-Fi, Thriller            ",0.01
+1371,The Old Man & the Gun,2018,6.7,80,29128,93,David Lowery,"
+Biography, Comedy, Crime            ",11.28
+1372,Peter Rabbit,2018,6.5,51,28658,95,Will Gluck,"
+Animation, Adventure, Comedy            ",115.25
+1373,Sierra Burgess Is a Loser,2018,5.9,60,28439,105,Ian Samuels,"
+Comedy, Drama, Romance            ",0.01
+1374,If Beale Street Could Talk,2018,7.2,87,28131,119,Barry Jenkins,"
+Drama, Romance            ",14.92
+1375,Den skyldige,2018,7.5,83,28107,85,Gustav Möller,"
+Crime, Drama, Thriller            ",0.21
+1376,Climax,2018,7.2,67,27748,97,Gaspar Noé,"
+Drama, Horror, Music            ",0.8
+1377,Mid90s,2018,7.4,66,27677,85,Jonah Hill,"
+Comedy, Drama            ",7.36
+1378,Hold the Dark,2018,5.6,63,27642,125,Jeremy Saulnier,"
+Adventure, Drama, Horror            ",0.01
+1379,Overboard,2018,6.0,42,27110,112,Rob Greenberg,"
+Comedy, Romance            ",50.32
+1380,Life of the Party,2018,5.6,46,26929,105,Ben Falcone,"
+Comedy            ",52.86
+1381,Mary Queen of Scots,2018,6.3,60,26010,124,Josie Rourke,"
+Biography, Drama, History            ",16.47
+1382,Beoning,2018,7.6,90,25889,148,Chang-dong Lee,"
+Drama, Mystery            ",0.72
+1383,Mute,2018,5.4,35,25885,126,Duncan Jones,"
+Mystery, Sci-Fi, Thriller            ",0.01
+1384,Hotel Mumbai,2018,7.6,64,25828,123,Anthony Maras,"
+Drama, History, Thriller            ",9.65
+1385,Night School,2018,5.6,43,25775,111,Malcolm D. Lee,"
+Comedy            ",77.34
+1386,Smallfoot,2018,6.6,60,25259,96,"
+Karey Kirkpatrick, 
+Jason Reisig","
+Animation, Adventure, Comedy            ",83.24
+1387,Winchester,2018,5.4,28,25030,99,"
+Michael Spierig, 
+Peter Spierig","
+Biography, Drama, Fantasy            ",25.09
+1388,The Titan,2018,4.8,33,24397,97,Lennart Ruff,"
+Drama, Mystery, Romance            ",0.01
+1389,Arctic,2018,6.8,71,24171,98,Joe Penna,"
+Adventure, Drama            ",2.41
+1390,Summer of 84,2018,6.7,57,23956,105,"
+François Simard, 
+Anouk Whissell, 
+Yoann-Karl Whissell","
+Drama, Horror, Mystery            ",0.01
+1391,Capharnaüm,2018,8.5,75,23940,126,Nadine Labaki,"
+Drama            ",1.66
+1392,Padmaavat,2018,7.0,63,23928,164,Sanjay Leela Bhansali,"
+Drama, History, Romance            ",11.85
+1393,The Guernsey Literary and Potato Peel Pie Society,2018,7.4,65,23734,124,Mike Newell,"
+Drama, History, Romance            ",0.01
+1394,Braven,2018,6.1,61,23728,94,Lin Oeding,"
+Action, Drama            ",0.01
+1395,The Darkest Minds,2018,5.7,39,22873,104,Jennifer Yuh Nelson,"
+Action, Adventure, Drama            ",12.7
+1396,The 15:17 to Paris,2018,5.2,45,22841,94,Clint Eastwood,"
+Biography, Drama, Thriller            ",36.25
+1397,The Strangers: Prey at Night,2018,5.2,48,22354,85,Johannes Roberts,"
+Horror            ",24.43
+1398,Operation Finale,2018,6.5,58,22065,122,Chris Weitz,"
+Biography, Drama, History            ",17.61
+1399,"Game Over, Man!",2018,5.4,32,22051,101,Kyle Newacheck,"
+Action, Comedy            ",0.01
+1400,Gringo,2018,6.1,46,21976,111,Nash Edgerton,"
+Action, Comedy, Crime            ",4.97
+1401,Dumplin',2018,6.7,53,21462,110,Anne Fletcher,"
+Comedy, Drama, Musical            ",0.01
+1402,The Perfection,2018,6.1,60,21403,90,Richard Shepard,"
+Drama, Horror, Thriller            ",0.01
+1403,Tau,2018,5.8,43,21098,97,Federico D'Alessandro,"
+Sci-Fi, Thriller            ",0.01
+1404,Slender Man,2018,3.2,30,21028,93,Sylvain White,"
+Horror, Mystery, Thriller            ",30.57
+1405,The Nutcracker and the Four Realms,2018,5.5,39,20869,99,"
+Lasse Hallström, 
+Joe Johnston","
+Adventure, Family, Fantasy            ",54.86
+1406,Super Troopers 2,2018,6.1,41,20800,99,Jay Chandrasekhar,"
+Comedy, Crime, Mystery            ",30.62
+1407,Boy Erased,2018,7.0,69,20795,115,Joel Edgerton,"
+Biography, Drama            ",6.79
+1408,22 July,2018,6.7,69,20687,143,Paul Greengrass,"
+Crime, Drama, History            ",0.01
+1409,Todos lo saben,2018,7.0,68,20309,133,Asghar Farhadi,"
+Crime, Drama, Mystery            ",2.66
+1410,Under the Silver Lake,2018,6.5,60,20291,139,David Robert Mitchell,"
+Comedy, Crime, Drama            ",0.05
+1411,Replicas,2018,5.4,19,20183,107,Jeffrey Nachmanoff,"
+Drama, Sci-Fi, Thriller            ",4.05
+1412,The Hate U Give,2018,7.3,81,20146,133,George Tillman Jr.,"
+Crime, Drama            ",29.72
+1413,Holmes & Watson,2018,3.8,24,20076,90,Etan Cohen,"
+Adventure, Comedy, Crime            ",30.57
+1414,Book Club,2018,6.1,53,20022,104,Bill Holderman,"
+Comedy, Drama, Romance            ",68.57
+1415,Dragged Across Concrete,2018,7.0,60,19808,159,S. Craig Zahler,"
+Crime, Drama, Thriller            ",0.01
+1416,Stan & Ollie,2018,7.3,75,19803,98,Jon S. Baird,"
+Biography, Comedy, Drama            ",5.47
+1417,The Happytime Murders,2018,5.3,27,18654,91,Brian Henson,"
+Action, Comedy, Crime            ",20.71
+1418,Blindspotting,2018,7.4,77,18606,95,Carlos López Estrada,"
+Comedy, Crime, Drama            ",4.33
+1419,Cam,2018,6.0,71,18582,94,Daniel Goldhaber,"
+Horror, Mystery, Thriller            ",0.01
+1420,Ghostland,2018,6.4,44,18132,91,Pascal Laugier,"
+Drama, Horror, Mystery            ",0.01
+1421,At Eternity's Gate,2018,6.9,76,18036,111,Julian Schnabel,"
+Biography, Drama            ",2.29
+1422,White Boy Rick,2018,6.4,59,17672,111,Yann Demange,"
+Crime, Drama            ",24.01
+1423,Won't You Be My Neighbor?,2018,8.4,85,17503,94,Morgan Neville,"
+Documentary, Biography            ",22.61
+1424,Doragon bôru chô: Burorî,2018,7.9,59,17472,100,Tatsuya Nagamine,"
+Animation, Action, Adventure            ",30.71
+1425,They Shall Not Grow Old,2018,8.3,91,17462,99,Peter Jackson,"
+Documentary, History, War            ",17.96
+1426,Midnight Sun,2018,6.6,38,17215,91,Scott Speer,"
+Drama, Romance            ",9.56
+1427,Destination Wedding,2018,6.0,46,17082,87,Victor Levin,"
+Comedy, Drama, Romance            ",0.01
+1428,Traffik,2018,6.0,37,16887,96,Deon Taylor,"
+Action, Crime, Drama            ",9.19
+1429,Three Identical Strangers,2018,7.7,81,16658,96,Tim Wardle,"
+Documentary, Biography, Drama            ",12.32
+1430,The Outsider,2018,6.3,30,16607,120,Martin Zandvliet,"
+Crime, Drama, Thriller            ",0.01
+1431,Destroyer,2018,6.2,62,16526,121,Karyn Kusama,"
+Action, Crime, Drama            ",1.53
+1432,Early Man,2018,6.1,68,16359,89,Nick Park,"
+Animation, Adventure, Comedy            ",8.27
+1433,Calibre,2018,6.7,76,16101,101,Matt Palmer,"
+Thriller            ",0.01
+1434,The Hurricane Heist,2018,5.1,35,15961,103,Rob Cohen,"
+Action, Adventure, Crime            ",6.12
+1435,Like Father,2018,6.1,52,15827,98,Lauren Miller Rogen,"
+Comedy, Drama            ",0.01
+1436,Wildlife,2018,6.9,80,15761,105,Paul Dano,"
+Drama            ",1.03
+1437,Beirut,2018,6.4,69,15478,109,Brad Anderson,"
+Drama, Thriller            ",5.02
+1438,The Night Comes for Us,2018,7.0,69,15329,121,Timo Tjahjanto,"
+Action, Thriller            ",0.01
+1439,"Don't Worry, He Won't Get Far on Foot",2018,6.9,67,15132,114,Gus Van Sant,"
+Biography, Comedy, Drama            ",1.44
+1440,Terminal,2018,5.3,27,15039,95,Vaughn Stein,"
+Crime, Drama, Thriller            ",0.01
+1441,Unfriended: Dark Web,2018,5.9,53,14835,92,Stephen Susco,"
+Horror, Mystery, Thriller            ",8.78
+1442,Second Act,2018,5.8,46,14813,103,Peter Segal,"
+Comedy, Drama, Romance            ",39.28
+1443,Dogman,2018,7.3,71,14755,103,Matteo Garrone,"
+Crime, Drama, Thriller            ",0.15
+1444,The Week Of,2018,5.1,41,14666,116,Robert Smigel,"
+Comedy            ",0.01
+1445,Every Day,2018,6.4,52,14249,97,Michael Sucsy,"
+Drama, Fantasy, Romance            ",6.1
+1446,Bad Samaritan,2018,6.4,42,14192,110,Dean Devlin,"
+Crime, Horror, Thriller            ",3.44
+1447,The Miseducation of Cameron Post,2018,6.6,69,13978,91,Desiree Akhavan,"
+Drama            ",0.9
+1448,On the Basis of Sex,2018,6.9,59,13940,120,Mimi Leder,"
+Biography, Drama            ",24.62
+1449,Greta,2018,6.0,54,13922,98,Neil Jordan,"
+Drama, Mystery, Thriller            ",10.52
+1450,High Life,2018,5.9,77,13889,113,Claire Denis,"
+Adventure, Drama, Mystery            ",1.23
+1451,Colette,2018,6.8,74,13444,111,Wash Westmoreland,"
+Biography, Drama, History            ",5.14
+1452,Gräns,2018,7.1,75,13376,110,Ali Abbasi,"
+Drama, Fantasy, Romance            ",0.77
+1453,Teen Titans Go! To the Movies,2018,6.8,69,13274,84,"
+Aaron Horvath, 
+Peter Rida Michail","
+Animation, Action, Comedy            ",29.56
+1454,Ibiza,2018,5.2,56,13156,94,Alex Richanbach,"
+Comedy, Romance            ",0.01
+1455,The Possession of Hannah Grace,2018,5.2,37,12944,86,Diederik Van Rooijen,"
+Horror, Mystery, Thriller            ",14.84
+1456,"Juliet, Naked",2018,6.6,67,12876,97,Jesse Peretz,"
+Comedy, Drama, Music            ",3.44
+1457,Ahlat Agaci,2018,8.2,86,12850,188,Nuri Bilge Ceylan,"
+Drama            ",0.03
+1458,Goosebumps 2: Haunted Halloween,2018,5.6,53,12523,90,Ari Sandel,"
+Adventure, Comedy, Family            ",46.7
+1459,Fahrenheit 11/9,2018,6.8,69,12428,128,Michael Moore,"
+Documentary            ",6.35
+1460,Ben Is Back,2018,6.7,66,12085,103,Peter Hedges,"
+Drama            ",3.7
+1461,Alex Strangelove,2018,6.3,62,11826,99,Craig Johnson,"
+Comedy, Drama, Romance            ",0.01
+1462,I Can Only Imagine,2018,7.4,30,11795,110,"
+Andrew Erwin, 
+Jon Erwin","
+Biography, Drama, Family            ",83.48
+1463,The Tale,2018,7.3,90,11268,114,Jennifer Fox,"
+Drama, Mystery, Thriller            ",0.01
+1464,A Private War,2018,6.7,75,11062,110,Matthew Heineman,"
+Biography, Drama, War            ",1.63
+1465,Forever My Girl,2018,6.7,36,11057,108,Bethany Ashton Wolf,"
+Drama, Music, Romance            ",16.38
+1466,A Futile and Stupid Gesture,2018,6.8,55,10976,101,David Wain,"
+Biography, Comedy            ",0.01
+1467,Gotti,2018,4.8,24,10872,112,Kevin Connolly,"
+Biography, Crime, Drama            ",4.34
+1468,Entebbe,2018,5.8,49,10856,107,José Padilha,"
+Action, Drama, History            ",3.19
+1469,Occupation,2018,5.3,45,10730,119,Luke Sparke,"
+Action, Drama, Sci-Fi            ",0.01
+1470,Welcome to Marwen,2018,6.1,40,10672,116,Robert Zemeckis,"
+Biography, Comedy, Drama            ",10.76
+1471,Private Life,2018,7.3,83,10668,123,Tamara Jenkins,"
+Comedy, Drama            ",0.01
+1472,Breaking In,2018,5.4,42,10667,88,James McTeigue,"
+Action, Crime, Drama            ",46.38
+1473,Vox Lux,2018,6.0,67,10639,114,Brady Corbet,"
+Drama, Music            ",0.73
+1474,Prospect,2018,6.1,68,10484,100,"
+Christopher Caldwell, 
+Zeek Earl","
+Drama, Sci-Fi, Thriller            ",0.01
+1475,The Professor,2018,6.7,37,10429,90,Wayne Roberts,"
+Comedy, Drama            ",0.01
+1476,The Clovehitch Killer,2018,6.5,59,10323,109,Duncan Skiles,"
+Crime, Drama, Mystery            ",0.01
+1477,Life Itself,2018,6.6,21,10245,117,Dan Fogelman,"
+Drama, Romance            ",4.1
+1478,Uncle Drew,2018,5.7,57,10213,103,Charles Stone III,"
+Comedy, Sport            ",42.47
+1479,Kin,2018,5.8,35,10075,102,"
+Jonathan Baker, 
+Josh Baker","
+Action, Crime, Drama            ",5.72
+1480,Assassination Nation,2018,5.9,56,10043,108,Sam Levinson,"
+Action, Comedy, Crime            ",1.96
+1481,In Darkness,2018,5.8,59,10041,100,Anthony Byrne,"
+Mystery, Thriller            ",0.01
+1482,The Man Who Killed Don Quixote,2018,6.4,58,9542,132,Terry Gilliam,"
+Adventure, Comedy, Drama            ",0.39
+1483,Wildling,2018,5.5,58,9417,92,Fritz Böhm,"
+Drama, Fantasy, Horror            ",0.01
+1484,Siberia,2018,4.3,34,9382,104,Matthew Ross,"
+Crime, Romance, Thriller            ",0.01
+1485,Down a Dark Hall,2018,5.1,56,9322,96,Rodrigo Cortés,"
+Drama, Fantasy, Horror            ",0.01
+1486,Hell Fest,2018,5.5,26,9180,89,Gregory Plotkin,"
+Horror            ",11.11
+1487,The Kindergarten Teacher,2018,6.7,75,9117,96,Sara Colangelo,"
+Drama            ",0.01
+1488,Thunder Road,2018,7.1,79,8966,92,Jim Cummings,"
+Comedy, Drama            ",0.01
+1489,Kursk,2018,6.5,55,8772,117,Thomas Vinterberg,"
+Action, Drama, History            ",0.01
+1490,Utøya 22. juli,2018,7.3,75,8696,93,Erik Poppe,"
+Drama, Thriller            ",0.01
+1491,Lazzaro felice,2018,7.6,87,8695,128,Alice Rohrwacher,"
+Drama, Fantasy            ",0.01
+1492,Keepers,2018,5.8,64,8640,107,Kristoffer Nyholm,"
+Crime, Mystery, Thriller            ",0.01
+1493,RBG,2018,7.5,71,8541,98,"
+Julie Cohen, 
+Betsy West","
+Documentary, Biography            ",14.02
+1494,Sherlock Gnomes,2018,5.1,36,8351,86,John Stevenson,"
+Animation, Adventure, Comedy            ",43.24
+1495,Acts of Violence,2018,5.2,28,8249,86,Brett Donowho,"
+Action, Crime            ",0.01
+1496,King of Thieves,2018,5.5,47,8213,108,James Marsh,"
+Crime, Drama            ",0.01
+1497,Billionaire Boys Club,2018,5.6,30,8144,108,James Cox,"
+Biography, Drama, Thriller            ",0.01
+1498,Galveston,2018,6.2,57,7985,91,Mélanie Laurent,"
+Action, Crime, Drama            ",0.01
+1499,Father of the Year,2018,5.2,32,7978,94,Tyler Spindel,"
+Comedy            ",0.01
+1500,Girl,2018,7.2,73,7973,105,Lukas Dhont,"
+Drama            ",0.01
+1501,Mirai no Mirai,2018,7.1,81,7621,98,Mamoru Hosoda,"
+Animation, Adventure, Drama            ",0.81
+1502,A-X-L,2018,5.2,29,7428,98,Oliver Daly,"
+Action, Adventure, Family            ",6.5
+1503,The Front Runner,2018,6.2,61,7358,113,Jason Reitman,"
+Biography, Drama, History            ",2.0
+1504,Lords of Chaos,2018,6.5,48,7288,118,Jonas Åkerlund,"
+Biography, Drama, Horror            ",0.25
+1505,Black '47,2018,6.8,65,7288,100,Lance Daly,"
+Action, Drama            ",0.05
+1506,Action Point,2018,5.1,36,7150,85,Tim Kirkby,"
+Comedy            ",5.06
+1507,Spinning Man,2018,5.6,44,7098,100,Simon Kaijser,"
+Drama, Mystery, Thriller            ",0.01
+1508,Hearts Beat Loud,2018,6.9,65,7052,97,Brett Haley,"
+Comedy, Drama, Music            ",2.39
+1509,Active Measures,2018,8.1,68,7047,109,Jack Bryan,"
+Documentary            ",0.01
+1510,Proud Mary,2018,4.9,35,7001,89,Babak Najafi,"
+Action, Crime, Drama            ",20.87
+1511,Final Score,2018,5.7,53,6895,104,Scott Mann,"
+Action, Drama, Thriller            ",0.01
+1512,Werk ohne Autor,2018,7.7,68,6754,189,Florian Henckel von Donnersmarck,"
+Drama, History, Romance            ",1.3
+1513,Little Italy,2018,5.7,28,6735,102,Donald Petrie,"
+Comedy, Romance            ",0.99
+1514,La nuit a dévoré le monde,2018,6.0,50,6582,93,Dominique Rocher,"
+Drama, Horror, Thriller            ",0.01
+1515,Acrimony,2018,5.7,32,6482,120,Tyler Perry,"
+Drama, Romance, Thriller            ",43.55
+1516,Nappily Ever After,2018,6.4,63,6481,98,Haifaa Al-Mansour,"
+Comedy, Drama, Romance            ",0.01
+1517,Irreplaceable You,2018,6.4,34,6323,96,Stephanie Laing,"
+Comedy, Drama, Romance            ",0.01
+1518,Ideal Home,2018,6.5,62,6271,91,Andrew Fleming,"
+Comedy, Drama            ",0.01
+1519,Mary Magdalene,2018,5.8,48,6114,120,Garth Davis,"
+Drama            ",0.12
+1520,Death of a Nation,2018,4.7,1,5928,108,"
+Dinesh D'Souza, 
+Bruce Schooley","
+Documentary, History            ",5.89
+1521,El Ángel,2018,7.0,61,5860,118,Luis Ortega,"
+Biography, Crime, Drama            ",0.09
+1522,"Paul, Apostle of Christ",2018,6.6,52,5847,108,Andrew Hyatt,"
+Adventure, Biography, Drama            ",17.56
+1523,The Man Who Killed Hitler and Then The Bigfoot,2018,5.6,51,5780,98,Robert D. Krzykowski,"
+Adventure, Drama, Sci-Fi            ",0.01
+1524,I Think We're Alone Now,2018,5.7,51,5758,93,Reed Morano,"
+Drama, Mystery, Sci-Fi            ",0.01
+1525,The Mercy,2018,6.0,60,5746,112,James Marsh,"
+Adventure, Biography, Drama            ",0.01
+1526,I Still See You,2018,5.8,31,5735,98,Scott Speer,"
+Fantasy, Thriller            ",0.01
+1527,Skjelvet,2018,6.2,70,5715,106,John Andreas Andersen,"
+Action, Drama, Thriller            ",0.01
+1528,Zoe,2018,6.1,39,5710,104,Drake Doremus,"
+Romance, Sci-Fi            ",0.01
+1529,Slaughterhouse Rulez,2018,5.2,39,5699,104,Crispian Mills,"
+Action, Comedy, Horror            ",0.01
+1530,The Little Stranger,2018,5.5,67,5539,111,Lenny Abrahamson,"
+Drama, Horror, Mystery            ",0.71
+1531,Pájaros de verano,2018,7.7,85,5526,125,"
+Cristina Gallego, 
+Ciro Guerra","
+Drama            ",0.51
+1532,211,2018,4.4,21,5408,86,York Alec Shackleton,"
+Action, Crime, Drama            ",0.01
+1533,Robin Williams: Come Inside My Mind,2018,8.0,74,5264,116,Marina Zenovich,"
+Documentary, Biography, Comedy            ",0.01
+1534,Ying,2018,7.0,81,5256,116,Yimou Zhang,"
+Action, Drama, War            ",0.52
+1535,Skin,2018,7.0,58,5254,120,Guy Nattiv,"
+Biography, Crime, Drama            ",0.01
+1536,Minding the Gap,2018,8.1,90,5183,93,Bing Liu,"
+Documentary            ",0.01
+1537,Gloria Bell,2018,6.4,79,5088,102,Sebastián Lelio,"
+Comedy, Drama, Romance            ",5.61
+1538,McQueen,2018,7.9,84,5071,111,"
+Ian Bonhôte, 
+Peter Ettedgui","
+Documentary, Biography            ",1.26
+1539,Then Came You,2018,7.0,44,5025,97,Peter Hutchings,"
+Adventure, Comedy, Drama            ",0.01
+1540,Superfly,2018,5.1,52,5008,116,Director X.,"
+Action, Crime, Thriller            ",20.55
+1541,The Catcher Was a Spy,2018,6.2,49,5000,98,Ben Lewin,"
+Biography, Drama, War            ",0.71
+1542,Whitney,2018,7.2,75,4991,120,Kevin Macdonald,"
+Documentary, Biography, Music            ",3.03
+1543,The Hummingbird Project,2018,6.2,58,4966,111,Kim Nguyen,"
+Thriller            ",0.37
+1544,Support the Girls,2018,6.4,85,4874,93,Andrew Bujalski,"
+Comedy, Drama            ",0.13
+1545,Arizona,2018,5.7,41,4811,85,Jonathan Watson,"
+Comedy, Thriller            ",0.01
+1546,Mara,2018,5.1,32,4772,98,Clive Tonge,"
+Crime, Horror, Thriller            ",0.01
+1547,The Other Side of the Wind,2018,6.9,78,4745,122,Orson Welles,"
+Drama            ",0.01
+1548,The American Meme,2018,6.5,60,4642,98,Bert Marcus,"
+Documentary            ",0.01
+1549,Between Worlds,2018,4.7,24,4577,90,Maria Pulera,"
+Drama, Fantasy, Thriller            ",0.01
+1550,The Land of Steady Habits,2018,6.2,71,4565,98,Nicole Holofcener,"
+Comedy, Drama            ",0.01
+1551,Hevi reissu,2018,7.1,72,4470,92,"
+Juuso Laatio, 
+Jukka Vidgren","
+Comedy, Music            ",0.01
+1552,Future World,2018,3.2,10,4442,90,"
+James Franco, 
+Bruce Thierry Cheung","
+Action, Adventure, Sci-Fi            ",0.01
+1553,Lizzie,2018,5.8,59,4407,105,Craig William Macneill,"
+Biography, Crime, Drama            ",0.64
+1554,The Extraordinary Journey of the Fakir,2018,6.9,56,4401,92,Ken Scott,"
+Comedy, Drama            ",0.01
+1555,Reprisal,2018,4.2,19,4398,89,Brian A. Miller,"
+Action, Crime, Thriller            ",0.01
+1556,Elizabeth Harvest,2018,5.8,54,4270,105,Sebastian Gutierrez,"
+Horror, Sci-Fi, Thriller            ",0.01
+1557,Jonathan,2018,5.9,62,4229,95,Bill Oliver,"
+Drama, Sci-Fi            ",0.01
+1558,Our House,2018,5.3,45,4216,90,Anthony Scott Burns,"
+Drama, Horror, Thriller            ",0.01
+1559,Teen Spirit,2018,6.2,57,4175,93,Max Minghella,"
+Drama, Music            ",0.44
+1560,The Breaker Upperers,2018,5.9,76,4146,90,"
+Madeleine Sami, 
+Jackie van Beek","
+Comedy            ",0.01
+1561,Ashes in the Snow,2018,6.7,43,4146,98,Marius A. Markevicius,"
+Drama, History, Romance            ",0.01
+1562,Looking Glass,2018,4.5,33,4109,103,Tim Hunter,"
+Mystery, Thriller            ",0.01
+1563,The Festival,2018,5.9,57,4079,98,Iain Morris,"
+Comedy            ",0.01
+1564,Puzzle,2018,6.7,66,4040,103,Marc Turtletaub,"
+Drama            ",2.03
+1565,Nobody's Fool,2018,4.6,39,4027,110,Tyler Perry,"
+Comedy, Drama, Romance            ",31.71
+1566,Leto,2018,7.4,69,3987,126,Kirill Serebrennikov,"
+Biography, Music, Romance            ",0.01
+1567,Stockholm,2018,6.2,54,3953,92,Robert Budreau,"
+Comedy, Crime, Drama            ",0.3
+1568,Piercing,2018,5.6,63,3749,81,Nicolas Pesce,"
+Horror, Mystery, Thriller            ",0.02
+1569,Transit,2018,7.0,84,3703,101,Christian Petzold,"
+Drama            ",0.82
+1570,Kona fer í stríð,2018,7.5,81,3701,101,Benedikt Erlingsson,"
+Adventure, Comedy, Drama            ",0.85
+1571,Jiang hu er nü,2018,7.1,85,3673,136,Zhangke Jia,"
+Crime, Drama, Romance            ",0.42
+1572,Take Your Pills,2018,6.4,54,3602,87,Alison Klayman,"
+Documentary            ",0.01
+1573,Samson,2018,4.4,17,3592,110,"
+Bruce Macdonald, 
+Gabriel Sabloff","
+Action, Drama            ",4.72
+1574,St. Agatha,2018,5.3,63,3572,103,Darren Lynn Bousman,"
+Horror            ",0.01
+1575,Kickboxer: Retaliation,2018,5.0,54,3558,110,Dimitri Logothetis,"
+Action, Drama            ",0.01
+1576,Show Dogs,2018,3.6,31,3549,92,Raja Gosnell,"
+Adventure, Comedy, Family            ",17.74
+1577,Museo,2018,7.0,86,3505,128,Alonso Ruizpalacios,"
+Crime, Drama            ",0.15
+1578,What Keeps You Alive,2018,5.7,66,3495,98,Colin Minihan,"
+Horror, Thriller            ",0.01
+1579,Ophelia,2018,7.0,60,3451,114,Claire McCarthy,"
+Drama, Romance            ",0.05
+1580,The Miracle Season,2018,6.5,44,3441,101,Sean McNamara,"
+Drama, Sport            ",10.23
+1581,The Happy Prince,2018,6.3,64,3417,105,Rupert Everett,"
+Biography, Drama            ",0.47
+1582,Backstabbing for Beginners,2018,6.2,48,3414,108,Per Fly,"
+Drama, History, Romance            ",0.01
+1583,Yip Man ngoi zyun: Cheung Tin Chi,2018,6.5,72,3369,107,Woo-Ping Yuen,"
+Action, Crime            ",6.21
+1584,Dead in a Week (Or Your Money Back),2018,6.2,38,3305,90,Tom Edmunds,"
+Action, Comedy, Drama            ",0.01
+1585,Welcome Home,2018,5.2,38,3288,97,George Ratliff,"
+Thriller            ",0.01
+1586,Back Roads,2018,7.0,42,3240,101,Alex Pettyfer,"
+Crime, Drama, Thriller            ",0.01
+1587,London Fields,2018,4.3,16,3236,118,Mathew Cullen,"
+Crime, Mystery, Thriller            ",0.25
+1588,Red Joan,2018,6.2,45,3230,101,Trevor Nunn,"
+Biography, Drama, Romance            ",1.58
+1589,They'll Love Me When I'm Dead,2018,7.5,77,3209,98,Morgan Neville,"
+Documentary            ",0.01
+1590,The Dark,2018,5.6,52,3200,95,Justin P. Lange,"
+Drama, Fantasy, Horror            ",0.01
+1591,Black Water,2018,4.6,16,3187,104,Pasha Patriki,"
+Action, Drama, Thriller            ",0.01
+1592,Blood Fest,2018,5.3,54,3156,92,Owen Egerton,"
+Comedy, Horror            ",0.01
+1593,Rust Creek,2018,5.7,59,3134,108,Jen McGowan,"
+Drama, Horror, Thriller            ",0.01
+1594,Shirkers,2018,7.4,88,3100,97,Sandi Tan,"
+Documentary            ",0.01
+1595,6 Balloons,2018,5.8,66,3005,74,Marja-Lewis Ryan,"
+Drama            ",0.01
+1596,A Vigilante,2018,5.6,68,2983,91,Sarah Daggar-Nickson,"
+Crime, Drama, Mystery            ",0.01
+1597,The Legacy of a Whitetail Deer Hunter,2018,5.5,49,2952,83,Jody Hill,"
+Adventure, Comedy, Drama            ",0.01
+1598,The Oath,2018,5.3,58,2924,93,Ike Barinholtz,"
+Comedy, Thriller            ",0.4
+1599,Ladies in Black,2018,6.7,65,2915,109,Bruce Beresford,"
+Comedy, Drama            ",0.01
+1600,Dog Days,2018,6.2,47,2914,113,Ken Marino,"
+Comedy, Drama, Romance            ",6.81
+1601,Benji,2018,6.4,53,2884,87,Brandon Camp,"
+Crime, Drama, Family            ",0.01
+1602,The Wind,2018,5.6,66,2870,86,Emma Tammi,"
+Horror, Western            ",0.03
+1603,"Ruben Brandt, Collector",2018,7.5,75,2834,96,Milorad Krstic,"
+Animation, Action, Crime            ",0.12
+1604,We the Animals,2018,6.9,83,2808,94,Jeremiah Zagar,"
+Drama            ",0.4
+1605,God's Not Dead: A Light in Darkness,2018,4.4,33,2775,105,Michael Mason,"
+Drama            ",5.73
+1606,In den Gängen,2018,6.9,67,2773,125,Thomas Stuber,"
+Drama            ",0.02
+1607,Unga Astrid,2018,7.1,71,2744,123,Pernille Fischer Christensen,"
+Biography, Drama            ",0.12
+1608,Wild Rose,2018,7.4,80,2712,101,Tom Harper,"
+Drama, Music            ",1.55
+1609,An Evening with Beverly Luff Linn,2018,5.7,54,2692,108,Jim Hosking,"
+Comedy, Crime            ",0.01
+1610,Le monde est à toi,2018,6.4,73,2691,102,Romain Gavras,"
+Comedy, Crime            ",0.01
+1611,Madeline's Madeline,2018,6.4,77,2626,93,Josephine Decker,"
+Drama, Mystery, Thriller            ",0.18
+1612,Di qiu zui hou de ye wan,2018,7.2,89,2601,138,Gan Bi,"
+Drama, Mystery            ",0.48
+1613,Puppet Master: The Littlest Reich,2018,5.4,52,2593,90,"
+Sonny Laguna, 
+Tommy Wiklund","
+Comedy, Horror            ",0.01
+1614,The Golem,2018,5.8,63,2582,95,"
+Doron Paz, 
+Yoav Paz","
+Drama, Horror            ",0.01
+1615,Swimming with Men,2018,6.3,44,2517,96,Oliver Parker,"
+Comedy, Drama, Romance            ",0.02
+1616,Damsel,2018,5.6,63,2478,113,"
+David Zellner, 
+Nathan Zellner","
+Adventure, Comedy, Crime            ",0.31
+1617,Quincy,2018,7.7,60,2460,124,"
+Alan Hicks, 
+Rashida Jones","
+Documentary            ",0.01
+1618,Level 16,2018,5.9,46,2449,102,Danishka Esterhazy,"
+Sci-Fi, Thriller            ",0.01
+1619,Scorched Earth,2018,4.7,32,2438,96,Peter Howitt,"
+Action, Sci-Fi            ",0.01
+1620,Possum,2018,5.5,64,2422,85,Matthew Holness,"
+Drama, Horror, Thriller            ",0.01
+1621,First Light,2018,5.5,49,2420,90,Jason Stone,"
+Drama, Sci-Fi, Thriller            ",0.01
+1622,Skate Kitchen,2018,6.8,72,2407,106,Crystal Moselle,"
+Drama            ",0.24
+1623,Peterloo,2018,6.5,66,2393,154,Mike Leigh,"
+Drama, History            ",0.15
+1624,Da xiang xi di er zuo,2018,7.8,86,2356,230,Bo Hu,"
+Drama            ",0.03
+1625,Napszállta,2018,6.5,65,2349,142,László Nemes,"
+Drama            ",0.16
+1626,River Runs Red,2018,4.8,26,2327,94,Wes Miller,"
+Thriller            ",0.01
+1627,Sayonara no asa ni yakusoku no hana o kazarô,2018,7.4,72,2309,115,Mari Okada,"
+Animation, Adventure, Drama            ",0.01
+1628,Josie,2018,5.5,31,2294,100,Eric England,"
+Drama, Thriller            ",0.01
+1629,Sauvage,2018,6.9,75,2287,99,Camille Vidal-Naquet,"
+Drama            ",0.06
+1630,What They Had,2018,6.7,69,2258,101,Elizabeth Chomko,"
+Drama            ",0.26
+1631,Birthmarked,2018,5.7,44,2230,90,Emanuel Hoss-Desmarais,"
+Comedy            ",0.01
+1632,Slice,2018,4.5,61,2210,83,Austin Vesely,"
+Comedy, Crime, Fantasy            ",0.01
+1633,Boarding School,2018,5.8,45,2203,111,Boaz Yakin,"
+Horror, Mystery            ",0.01
+1634,Croc-Blanc,2018,7.0,61,2179,85,Alexandre Espigares,"
+Animation, Adventure            ",0.01
+1635,Generation Wealth,2018,6.5,53,2164,105,Lauren Greenfield,"
+Documentary            ",0.24
+1636,Giant Little Ones,2018,7.2,67,2154,93,Keith Behrman,"
+Drama            ",0.18
+1637,Doubles vies,2018,6.7,79,2153,108,Olivier Assayas,"
+Comedy, Drama, Romance            ",0.7
+1638,The Devil's Doorway,2018,5.2,48,2149,76,Aislinn Clarke,"
+Horror            ",0.01
+1639,The White Crow,2018,6.5,61,2148,127,Ralph Fiennes,"
+Biography, Drama            ",1.83
+1640,The Seagull,2018,5.8,58,2134,98,Michael Mayer,"
+Comedy, Drama, Romance            ",1.25
+1641,The Legend of Cocaine Island,2018,6.3,44,2096,83,Theo Love,"
+Documentary            ",0.01
+1642,La enfermedad del domingo,2018,6.9,92,2084,113,Ramón Salazar,"
+Drama            ",0.01
+1643,Duck Butter,2018,5.3,58,2066,93,Miguel Arteta,"
+Comedy, Drama, Romance            ",0.01
+1644,Holiday,2018,5.9,78,2058,93,Isabella Eklöf,"
+Crime, Drama            ",0.01
+1645,Se rokh,2018,7.1,78,2052,100,Jafar Panahi,"
+Drama            ",0.07
+1646,Monster Party,2018,5.4,58,2048,89,Chris von Hoffmann,"
+Comedy, Horror, Thriller            ",0.01
+1647,Donbass,2018,6.8,74,2028,122,Sergey Loznitsa,"
+Drama            ",0.01
+1648,Bel Canto,2018,5.4,50,2015,100,Paul Weitz,"
+Drama, Music, Romance            ",0.08
+1649,A Kid Like Jake,2018,5.3,60,2011,92,Silas Howard,"
+Drama, Family            ",0.04
+1650,Coldplay: A Head Full of Dreams,2018,8.0,64,1996,115,Mat Whitecross,"
+Documentary, Music            ",0.01
+1651,Las herederas,2018,6.8,77,1978,98,Marcelo Martinessi,"
+Drama            ",0.08
+1652,Un couteau dans le coeur,2018,6.3,69,1978,102,Yann Gonzalez,"
+Drama, Horror, Romance            ",0.03
+1653,Yardie,2018,5.8,52,1962,101,Idris Elba,"
+Crime, Drama            ",0.04
+1654,Avengers: Endgame,2019,8.6,78,516602,181,"
+Anthony Russo, 
+Joe Russo","
+Action, Adventure, Sci-Fi            ",857.72
+1655,Captain Marvel,2019,7.0,64,342900,123,"
+Anna Boden, 
+Ryan Fleck","
+Action, Adventure, Sci-Fi            ",426.83
+1656,Shazam!,2019,7.2,70,160845,132,David F. Sandberg,"
+Action, Adventure, Comedy            ",140.37
+1657,Glass,2019,6.7,43,149204,129,M. Night Shyamalan,"
+Drama, Sci-Fi, Thriller            ",111.04
+1658,Spider-Man: Far from Home,2019,7.9,69,146274,129,Jon Watts,"
+Action, Adventure, Sci-Fi            ",365.67
+1659,Alita: Battle Angel,2019,7.4,53,141598,122,Robert Rodriguez,"
+Action, Adventure, Sci-Fi            ",85.71
+1660,Us,2019,7.0,81,136934,116,Jordan Peele,"
+Horror, Mystery, Thriller            ",175.01
+1661,John Wick: Chapter 3 - Parabellum,2019,7.9,73,120834,131,Chad Stahelski,"
+Action, Crime, Thriller            ",170.34
+1662,Aladdin,2019,7.3,53,97398,128,Guy Ritchie,"
+Adventure, Comedy, Family            ",351.96
+1663,Pokémon Detective Pikachu,2019,6.7,53,82323,104,Rob Letterman,"
+Action, Adventure, Comedy            ",144.04
+1664,Toy Story 4,2019,8.2,84,80111,100,Josh Cooley,"
+Animation, Adventure, Comedy            ",415.18
+1665,The Lion King,2019,7.1,55,79173,118,Jon Favreau,"
+Animation, Adventure, Drama            ",453.1
+1666,Triple Frontier,2019,6.5,61,78502,125,J.C. Chandor,"
+Action, Adventure, Crime            ",0.01
+1667,How to Train Your Dragon: The Hidden World,2019,7.6,71,69946,104,Dean DeBlois,"
+Animation, Action, Adventure            ",160.8
+1668,Murder Mystery,2019,6.0,38,60924,97,Kyle Newacheck,"
+Action, Comedy, Crime            ",0.01
+1669,Polar,2019,6.3,19,58495,118,Jonas Åkerlund,"
+Action, Crime, Drama            ",0.01
+1670,Godzilla: King of the Monsters,2019,6.5,48,58457,132,Michael Dougherty,"
+Action, Adventure, Fantasy            ",110.28
+1671,Dark Phoenix,2019,6.0,43,54399,113,Simon Kinberg,"
+Action, Adventure, Sci-Fi            ",65.8
+1672,Pet Sematary,2019,5.8,57,51819,101,"
+Kevin Kölsch, 
+Dennis Widmyer","
+Horror, Mystery, Thriller            ",54.72
+1673,Escape Room,2019,6.3,48,51415,99,Adam Robitel,"
+Action, Adventure, Horror            ",57.01
+1674,Rocketman,2019,7.6,69,50975,121,Dexter Fletcher,"
+Biography, Drama, Music            ",95.75
+1675,Once Upon a Time ... in Hollywood,2019,8.4,84,49959,161,Quentin Tarantino,"
+Comedy, Drama            ",88.73
+1676,The Highwaymen,2019,7.0,58,49720,132,John Lee Hancock,"
+Biography, Crime, Drama            ",0.01
+1677,"Extremely Wicked, Shockingly Evil and Vile",2019,6.7,52,49673,110,Joe Berlinger,"
+Biography, Crime, Drama            ",0.01
+1678,Isn't It Romantic,2019,5.9,60,45954,89,Todd Strauss-Schulson,"
+Comedy, Fantasy, Romance            ",48.79
+1679,Hellboy,2019,5.2,31,43224,120,Neil Marshall,"
+Action, Adventure, Fantasy            ",21.9
+1680,I Am Mother,2019,6.8,64,42862,113,Grant Sputore,"
+Drama, Horror, Sci-Fi            ",0.01
+1681,Velvet Buzzsaw,2019,5.7,61,42713,113,Dan Gilroy,"
+Horror, Mystery, Thriller            ",0.01
+1682,Dumbo,2019,6.4,51,41118,112,Tim Burton,"
+Adventure, Family, Fantasy            ",114.77
+1683,Fast & Furious Presents: Hobbs & Shaw,2019,7.0,60,40186,137,David Leitch,"
+Action, Adventure            ",83.11
+1684,Men in Black: International,2019,5.6,38,37280,114,F. Gary Gray,"
+Action, Adventure, Comedy            ",79.29
+1685,Captive State,2019,6.3,54,37079,109,Rupert Wyatt,"
+Drama, Sci-Fi, Thriller            ",5.96
+1686,The Lego Movie 2: The Second Part,2019,6.7,65,35992,107,Mike Mitchell,"
+Animation, Action, Adventure            ",105.81
+1687,Fighting with My Family,2019,7.1,68,35934,108,Stephen Merchant,"
+Biography, Comedy, Drama            ",22.96
+1688,Cold Pursuit,2019,6.2,57,34975,119,Hans Petter Moland,"
+Action, Crime, Drama            ",32.14
+1689,Happy Death Day 2U,2019,6.2,57,34154,100,Christopher Landon,"
+Comedy, Horror, Mystery            ",28.05
+1690,Long Shot,2019,7.0,67,34079,125,Jonathan Levine,"
+Comedy, Romance            ",30.32
+1691,Always Be My Maybe,2019,6.8,64,31125,101,Nahnatchka Khan,"
+Comedy, Romance            ",0.01
+1692,Booksmart,2019,7.4,84,30616,102,Olivia Wilde,"
+Comedy            ",22.68
+1693,Midsommar,2019,7.6,73,30057,147,Ari Aster,"
+Drama, Horror, Mystery            ",25.53
+1694,The Dirt,2019,7.0,39,29468,107,Jeff Tremaine,"
+Biography, Comedy, Drama            ",0.01
+1695,Brightburn,2019,6.2,44,29183,90,David Yarovesky,"
+Horror, Sci-Fi            ",17.3
+1696,Fyre,2019,7.3,75,27014,97,Chris Smith,"
+Documentary, Music            ",0.01
+1697,Yesterday,2019,7.0,56,26855,116,Danny Boyle,"
+Comedy, Fantasy, Music            ",69.35
+1698,IO,2019,4.7,40,25474,96,Jonathan Helpert,"
+Adventure, Drama, Romance            ",0.01
+1699,The Silence,2019,5.2,25,25284,90,John R. Leonetti,"
+Horror, Thriller            ",0.01
+1700,Shaft,2019,6.4,40,24093,111,Tim Story,"
+Action, Comedy, Crime            ",21.35
+1701,Serenity,2019,5.3,37,21672,106,Steven Knight,"
+Drama, Mystery, Thriller            ",8.55
+1702,Annabelle Comes Home,2019,6.2,53,20718,106,Gary Dauberman,"
+Horror, Mystery, Thriller            ",72.13
+1703,The Curse of La Llorona,2019,5.4,41,19940,93,Michael Chaves,"
+Horror, Mystery, Thriller            ",54.73
+1704,Liu lang di qiu,2019,6.1,57,19763,125,Frant Gwo,"
+Action, Drama, Sci-Fi            ",2.19
+1705,Gully Boy,2019,8.3,65,19677,153,Zoya Akhtar,"
+Drama, Music            ",5.57
+1706,Five Feet Apart,2019,7.2,53,19339,116,Justin Baldoni,"
+Drama, Romance            ",45.73
+1707,Close,2019,5.6,51,16035,94,Vicky Jewson,"
+Action, Thriller            ",0.01
+1708,The Professor and the Madman,2019,7.3,25,15509,124,Farhad Safinia,"
+Biography, Drama, Mystery            ",0.01
+1709,After,2019,5.4,30,15469,105,Jenny Gage,"
+Drama, Romance            ",12.14
+1710,The Prodigy,2019,5.9,45,14340,92,Nicholas McCarthy,"
+Horror, Thriller            ",14.86
+1711,Wine Country,2019,5.4,56,13629,103,Amy Poehler,"
+Comedy            ",0.01
+1712,The Boy Who Harnessed the Wind,2019,7.6,68,12587,113,Chiwetel Ejiofor,"
+Drama            ",0.01
+1713,Child's Play,2019,6.3,48,12386,90,Lars Klevberg,"
+Horror            ",29.21
+1714,What Men Want,2019,5.0,49,12279,117,Adam Shankman,"
+Comedy, Fantasy, Romance            ",54.61
+1715,The Secret Life of Pets 2,2019,6.6,55,11990,86,"
+Chris Renaud, 
+Jonathan del Val","
+Animation, Adventure, Comedy            ",156.17
+1716,The Hustle,2019,5.3,35,11575,93,Chris Addison,"
+Comedy, Crime            ",35.42
+1717,Someone Great,2019,6.2,63,11246,92,Jennifer Kaytin Robinson,"
+Comedy, Romance            ",0.01
+1718,Gisaengchung,2019,8.6,89,10641,132,Joon-ho Bong,"
+Comedy, Drama, Thriller            ",0.01
+1719,Crawl,2019,6.6,61,10635,87,Alexandre Aja,"
+Action, Drama, Horror            ",37.37
+1720,The Dead Don't Die,2019,6.0,54,10417,104,Jim Jarmusch,"
+Comedy, Fantasy, Horror            ",6.56
+1721,Tolkien,2019,6.9,48,9902,112,Dome Karukoski,"
+Biography, Drama, War            ",4.54
+1722,Apollo 11,2019,8.3,88,9623,93,Todd Douglas Miller,"
+Documentary, History            ",9.04
+1723,The Kid Who Would Be King,2019,6.0,66,9401,120,Joe Cornish,"
+Action, Adventure, Family            ",16.79
+1724,Ma,2019,5.8,53,9097,99,Tate Taylor,"
+Horror, Thriller            ",45.37
+1725,The Beach Bum,2019,5.6,55,8950,95,Harmony Korine,"
+Comedy            ",3.49
+1726,A Dog's Way Home,2019,6.7,50,8645,96,Charles Martin Smith,"
+Adventure, Drama, Family            ",41.95
+1727,Stuber,2019,6.2,42,8527,93,Michael Dowse,"
+Action, Comedy, Crime            ",22.19
+1728,Unplanned,2019,6.1,10,7980,106,"
+Chuck Konzelman, 
+Cary Solomon","
+Biography, Drama            ",18.99
+1729,Anna,2019,6.6,40,7511,119,Luc Besson,"
+Action, Thriller            ",7.74
+1730,Dolor y gloria,2019,7.8,81,7401,113,Pedro Almodóvar,"
+Drama            ",0.01
+1731,The Aftermath,2019,6.3,43,7267,108,James Kent,"
+Drama, Romance, War            ",1.62
+1732,Point Blank,2019,5.6,37,7186,86,Joe Lynch,"
+Action, Thriller            ",0.01
+1733,The Hole in the Ground,2019,5.7,63,7026,90,Lee Cronin,"
+Horror            ",0.02
+1734,The Great Hack,2019,7.0,67,6996,113,"
+Karim Amer, 
+Jehane Noujaim","
+Documentary            ",0.01
+1735,Knock Down the House,2019,6.9,80,6797,86,Rachel Lears,"
+Documentary            ",0.01
+1736,Paddleton,2019,7.2,70,6662,89,Alex Lehmann,"
+Comedy, Drama            ",0.01
+1737,Missing Link,2019,6.8,68,6516,94,Chris Butler,"
+Animation, Adventure, Comedy            ",16.65
+1738,Triple Threat,2019,5.5,60,6083,96,Jesse V. Johnson,"
+Action, Thriller            ",0.08
+1739,See You Yesterday,2019,5.0,74,6040,84,Stefon Bristol,"
+Action, Adventure, Crime            ",0.01
+1740,The Edge of Democracy,2019,7.4,81,5588,121,Petra Costa,"
+Documentary, History            ",0.01
+1741,Little,2019,5.4,49,5480,109,Tina Gordon,"
+Comedy, Fantasy, Romance            ",40.67
+1742,The Intruder,2019,5.5,39,5333,102,Deon Taylor,"
+Drama, Horror, Mystery            ",35.42
+1743,Wonder Park,2019,5.8,45,5299,85,Dylan Brown,"
+Animation, Adventure, Comedy            ",45.22
+1744,High Flying Bird,2019,6.2,78,5168,90,Steven Soderbergh,"
+Drama, Sport            ",0.01
+1745,The Inventor: Out for Blood in Silicon Valley,2019,7.1,66,4654,119,Alex Gibney,"
+Documentary            ",0.01
+1746,The Mustang,2019,6.9,77,4605,96,Laure de Clermont-Tonnerre,"
+Drama            ",5.04
+1747,Miss Bala,2019,5.6,41,4522,104,Catherine Hardwicke,"
+Action, Crime, Drama            ",15.01
+1748,A Dog's Journey,2019,7.4,43,4276,109,Gail Mancuso,"
+Adventure, Comedy, Drama            ",22.55
+1749,Late Night,2019,6.5,71,4221,102,Nisha Ganatra,"
+Comedy, Drama            ",15.43
+1750,Scary Stories to Tell in the Dark,2019,6.6,62,3815,111,André Øvredal,"
+Horror, Mystery, Thriller            ",0.01
+1751,Breakthrough,2019,5.9,46,3780,116,Roxann Dawson,"
+Biography, Drama            ",40.71
+1752,The Last Laugh,2019,5.6,31,3744,98,Greg Pritikin,"
+Comedy            ",0.01
+1753,Otherhood,2019,6.1,37,3645,100,Cindy Chupack,"
+Comedy            ",0.01
+1754,The Farewell,2019,8.2,90,3559,100,Lulu Wang,"
+Comedy, Drama            ",8.1
+1755,Avengement,2019,6.4,66,3450,90,Jesse V. Johnson,"
+Action, Crime            ",0.01
+1756,Daughter of the Wolf,2019,6.0,36,3293,88,David Hackl,"
+Action, Thriller            ",0.01
+1757,The Best of Enemies,2019,6.9,49,3230,133,Robin Bissell,"
+Biography, Drama, History            ",10.21
+1758,The Kid,2019,6.0,51,3091,100,Vincent D'Onofrio,"
+Biography, Drama, Western            ",1.51
+1759,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,2019,7.9,86,2801,142,Martin Scorsese,"
+Documentary, Music            ",0.01
+1760,A Madea Family Funeral,2019,4.3,39,2571,109,Tyler Perry,"
+Comedy            ",73.26
+1761,Killers Anonymous,2019,5.5,24,2399,95,Martin Owen,"
+Action, Crime, Mystery            ",0.01
+1762,UglyDolls,2019,4.7,40,2303,87,Kelly Asbury,"
+Animation, Adventure, Comedy            ",20.15
+1763,The Art of Self-Defense,2019,7.4,65,2262,104,Riley Stearns,"
+Comedy, Drama, Sport            ",2.41
+1764,The Poison Rose,2019,4.5,30,2219,98,"
+Francesco Cinquemani, 
+George Gallo","
+Drama, Thriller            ",0.01
+1765,The Last Black Man in San Francisco,2019,7.8,84,2108,121,Joe Talbot,"
+Drama            ",4.35
+1766,Der goldene Handschuh,2019,6.7,28,1868,115,Fatih Akin,"
+Crime, Drama, Horror            ",0.01
+1767,Photograph,2019,6.9,65,1798,110,Ritesh Batra,"
+Drama, Romance            ",0.34
+1768,Plus One,2019,6.6,66,1760,99,"
+Jeff Chan, 
+Andrew Rhymer","
+Comedy, Drama, Romance            ",0.01
+1769,Finding Steve McQueen,2019,6.2,56,1675,91,Mark Steven Johnson,"
+Crime, Romance            ",0.01
+1770,Domino,2019,4.4,40,1667,89,Brian De Palma,"
+Crime, Thriller            ",0.01
+1771,American Hangman,2019,5.9,38,1623,99,Wilson Coneybeare,"
+Thriller            ",0.01
+1772,The Souvenir,2019,6.6,92,1597,120,Joanna Hogg,"
+Drama, Mystery, Romance            ",1.04
+1773,Diego Maradona,2019,7.7,75,1519,130,Asif Kapadia,"
+Documentary, Biography, Sport            ",0.01
+1774,The Haunting of Sharon Tate,2019,3.1,8,1510,94,Daniel Farrands,"
+Drama, Horror, Thriller            ",0.01
+1775,Elisa y Marcela,2019,6.4,33,1489,118,Isabel Coixet,"
+Biography, Drama, Romance            ",0.01
+1776,Mercy Black,2019,4.9,48,1477,88,Owen Egerton,"
+Horror, Mystery, Thriller            ",0.01
+1777,Nancy Drew and the Hidden Staircase,2019,5.7,55,1476,89,Katt Shea,"
+Comedy, Crime, Drama            ",0.01
+1778,Poms,2019,5.5,36,1474,90,Zara Hayes,"
+Comedy, Drama            ",13.63
+1779,The Sun Is Also a Star,2019,5.4,52,1443,100,Ry Russo-Young,"
+Drama, Romance            ",4.95
+1780,Storm Boy,2019,6.9,67,1439,99,Shawn Seet,"
+Adventure, Drama, Family            ",0.07
+1781,Never Grow Old,2019,5.8,65,1398,100,Ivan Kavanagh,"
+Action, Drama, Western            ",0.01
+1782,I Hate Kids,2019,6.2,12,1371,89,John Asher,"
+Adventure, Comedy            ",0.01
+1783,Dora and the Lost City of Gold,2019,5.8,63,1347,102,James Bobin,"
+Adventure, Family            ",0.01
+1784,Native Son,2019,5.6,63,1250,104,Rashid Johnson,"
+Drama            ",0.01
+1785,La paranza dei bambini,2019,6.6,57,1212,105,Claudio Giovannesi,"
+Crime, Drama            ",0.01
+1786,"Berlin, I Love You",2019,4.5,34,1189,120,"
+Dianna Agron, 
+Peter Chelsom, 
+Claus Clausen, 
+Fernando Eimbcke, 
+Justin Franklin, 
+Dennis Gansel, 
+Dani Levy, 
+Daniel Lwowski, 
+Stephanie Martin, 
+Josef Rusnak, 
+Til Schweiger, 
+Massy Tadjedin, 
+Gabriela Tscherniak","
+Drama, Romance            ",0.01
+1787,Lying and Stealing,2019,5.1,50,1180,100,Matt Aselton,"
+Crime, Drama            ",0.01
+1788,Blinded by the Light,2019,6.3,70,1163,117,Gurinder Chadha,"
+Comedy, Drama, Music            ",0.01
+1789,Hail Satan?,2019,7.1,76,1161,95,Penny Lane,"
+Documentary            ",0.42
+1790,Cold Blood Legacy,2019,4.5,25,1134,91,Frédéric Petitjean,"
+Action, Thriller            ",0.01
+1791,Synonymes,2019,7.0,86,1008,123,Nadav Lapid,"
+Drama            ",0.01
+1792,Trading Paint,2019,4.5,34,930,87,Karzan Kader,"
+Action, Drama, Sport            ",0.01
+1793,The Kitchen,2019,5.2,35,906,102,Andrea Berloff,"
+Action, Crime, Drama            ",0.01
+1794,Il traditore,2019,7.4,57,873,145,Marco Bellocchio,"
+Biography, Crime, Drama            ",0.01
+1795,I Trapped the Devil,2019,4.8,47,810,82,Josh Lobo,"
+Drama, Horror, Mystery            ",0.01
+1796,"The Gangster, the Cop, the Devil",2019,6.9,65,802,109,Won-Tae Lee,"
+Action, Crime, Drama            ",0.21
+1797,The Art of Racing in the Rain,2019,7.3,43,784,109,Simon Curtis,"
+Comedy, Drama            ",0.01
+1798,Di jiu tian chang,2019,7.6,74,769,180,Xiaoshuai Wang,"
+Drama            ",0.01
+1799,The Angry Birds Movie 2,2019,6.6,60,759,96,Thurop Van Orman,"
+Animation, Adventure, Comedy            ",0.01
+1800,A Score to Settle,2019,4.5,37,757,103,Shawn Ku,"
+Action, Drama, Thriller            ",0.01
+1801,The Operative,2019,5.5,47,749,116,Yuval Adler,"
+Thriller            ",0.01
+1802,Le daim,2019,6.9,72,721,77,Quentin Dupieux,"
+Comedy            ",0.01
+1803,Adam,2019,1.7,66,712,95,Rhys Ernst,"
+Comedy            ",0.01
+1804,Light of My Life,2019,6.6,68,694,119,Casey Affleck,"
+Drama            ",0.01
+1805,SGT. Will Gardner,2019,5.9,30,690,125,Max Martini,"
+Action, Adventure, Drama            ",0.01
+1806,Beats,2019,7.5,75,669,101,Brian Welsh,"
+Comedy, Crime, Drama            ",0.01
+1807,Good Boys,2019,5.6,52,648,89,Gene Stupnitsky,"
+Adventure, Comedy            ",0.01
+1808,L'intervention,2019,6.1,44,643,98,Fred Grivois,"
+Action, Drama, History            ",0.01

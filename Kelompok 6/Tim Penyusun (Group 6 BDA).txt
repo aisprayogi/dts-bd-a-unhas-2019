@@ -1,0 +1,12 @@
+Tim penyusun : Group 6 BDA-DTS 2019
+		- Rosmalina Kemala
+		- Arli Magfirah Utami
+		- Didi Wahyu Amadia
+
+
+
+Note :
+1. Sebelum melakukan crawling data dari GoodReads, maka terlebih dahulu buat akun goodreads untuk memperoleh 
+   "token akses" dari Goodreads API (Karena Sewaktu-waktu, akses token yang aktif dapat kadaluarsa)
+
+2. Selamat Mencoba !!!
